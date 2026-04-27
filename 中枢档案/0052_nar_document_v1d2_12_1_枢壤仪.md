@@ -1,0 +1,33 @@
+---
+category: "中枢档案"
+title: "枢壤仪"
+slug: "nar_document_v1d2_12_1"
+source_url: "https://warfarin.wiki/cn/documents/nar_document_v1d2_12_1"
+game_data_version: "1.2"
+warfarin_updated_at: "2026-04-17"
+fetched_at: "2026-04-21T19:50:46+08:00"
+---
+
+
+# 枢壤仪
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v1d2_12_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v1d2_12_1)
+- 数据版本：`1.2`
+- Warfarin 最后更新：`2026-04-17`
+- 采集时间：`2026-04-21T19:50:46+08:00`
+- ID：`nar_document_v1d2_12_1`
+- 类型：document
+
+## 正文
+
+![Reading/document_XiraniteNexus_intro](https://static.warfarin.wiki/v4/reading/document_XiraniteNexus_intro.webp)
+
+枢壤仪，是宏山科学院为应对武陵甚大裂隙而研制的诸多实验型源石设备之一。它借由瞬间释放的息壤能量，与超域能量相互作用，达到闭合裂隙的效果，是宏山科学院在武陵科学发展区的重要科研成果。
+
+塔罗斯历142年的大规模侵蚀灾害发生后，武陵科学发展区的息壤储备短缺。由息壤新材项目负责天师庄方宜牵头，却在数次迭代后仍远未达到预期的枢壤仪项目，被暂时中止，研究重点被转向息壤生产的迭代与天师桩阵列的建设。
+
+枢壤仪项目虽然被暂时搁置，但天师们一直对其抱有希望。塔罗斯历152年，在终末地工业的协助下，息壤产能窘迫的困境有所缓解，为了解决武陵甚大裂隙这一威胁，枢壤仪项目得以重启。

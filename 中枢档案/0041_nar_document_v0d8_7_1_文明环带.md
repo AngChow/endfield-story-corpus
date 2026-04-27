@@ -1,0 +1,35 @@
+---
+category: "中枢档案"
+title: "文明环带"
+slug: "nar_document_v0d8_7_1"
+source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_7_1"
+game_data_version: "1.2"
+warfarin_updated_at: "2026-04-17"
+fetched_at: "2026-04-21T19:50:46+08:00"
+---
+
+
+# 文明环带
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v0d8_7_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_7_1)
+- 数据版本：`1.2`
+- Warfarin 最后更新：`2026-04-17`
+- 采集时间：`2026-04-21T19:50:46+08:00`
+- ID：`nar_document_v0d8_7_1`
+- 类型：document
+
+## 正文
+
+![Reading/document_civilizationBand_intro](https://static.warfarin.wiki/v4/reading/document_civilizationBand_intro.webp)
+
+文明环带是对在《环带公约》（以下简称《公约》）体系下，遵守相关规约的人类集合体的称呼。
+
+文明环带由大大小小的阵营、团体、组织构成，由于《公约》的限制，并不接受自我宣称为“国家”的实体加入。它以《公约》为基础和准绳，推行成员间的技术分工和自治，维持人类在塔卫二的基本生存，争取人类在塔卫二的自我实现。具有文明环带认可的身份，居住在文明环带各阵营、团体、组织管治的处所中的人类被称为“环带居民”。在塔卫二的总人口中，环带居民占90%以上。
+
+文明环带中最大的三个阵营分别是塔卫二全联盟工团（联盟工团）、环塔卫二企业联合商会（环塔商会）和大炎天师府附属宏山科学院（宏山科学院）。根据其《公约》地位，此三者合并称为“《环带公约》中享有不可动摇的立场的成员”（简称“U3”），也被广泛称为“三大阵营”“三巨头”等。
+
+终末地工业也是文明环带的重要成员之一。出于便利性和中立性的考虑，帝江号上设有专门供环带成员就《公约》修订和其他事务进行一般性讨论的会场。

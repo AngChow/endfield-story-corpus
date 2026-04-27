@@ -1,0 +1,33 @@
+---
+category: "中枢档案"
+title: "超域试验场"
+slug: "nar_document_v0d8_15_1"
+source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_15_1"
+game_data_version: "1.2"
+warfarin_updated_at: "2026-04-17"
+fetched_at: "2026-04-21T19:50:46+08:00"
+---
+
+
+# 超域试验场
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v0d8_15_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_15_1)
+- 数据版本：`1.2`
+- Warfarin 最后更新：`2026-04-17`
+- 采集时间：`2026-04-21T19:50:46+08:00`
+- ID：`nar_document_v0d8_15_1`
+- 类型：document
+
+## 正文
+
+![Reading/document_EtherTestSite_intro](https://static.warfarin.wiki/v4/reading/document_EtherTestSite_intro.webp)
+
+超域试验场是联盟工团在供能高地搭设的特殊试验场所。
+
+工团之所以会在此处搭建试验场，是因为供能高地拥有一条“天然稳定裂隙”，即较长时间内未观察到扩张变化，不易引发侵蚀的裂隙。在四号谷地开拓规划阶段，曾有科学家提议将供能高地整体建设成一座集探索、研究、应用于一体的超域技术研究所，但这一意见迟迟未被采纳。在进行了将近二十年的开拓建设后，工团终于将谷地环境评估为安全，解除了供能高地北部的封锁，在其上建立起了超域试验场。
+
+自塔罗斯历90年起，工团已在超域试验场陆续进行了包括深度维持、超域内部观测等试验。

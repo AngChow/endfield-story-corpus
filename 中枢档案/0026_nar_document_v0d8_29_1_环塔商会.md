@@ -1,0 +1,33 @@
+---
+category: "中枢档案"
+title: "环塔商会"
+slug: "nar_document_v0d8_29_1"
+source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_29_1"
+game_data_version: "1.2"
+warfarin_updated_at: "2026-04-17"
+fetched_at: "2026-04-21T19:50:46+08:00"
+---
+
+
+# 环塔商会
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v0d8_29_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_29_1)
+- 数据版本：`1.2`
+- Warfarin 最后更新：`2026-04-17`
+- 采集时间：`2026-04-21T19:50:46+08:00`
+- ID：`nar_document_v0d8_29_1`
+- 类型：document
+
+## 正文
+
+![Reading/document_TGCC_intro](https://static.warfarin.wiki/v4/reading/document_TGCC_intro.webp)
+
+环塔商会是塔卫二影响力最大的企业联合组织，他们的加盟成员从来自泰拉的老字号军工巨头到为开拓区提供服务的餐饮连锁新星，无所不包。
+
+在第一次天使战争期间，曾经负责维持塔卫二与泰拉之间的补给线，如今受困异星的大篷车司机们驾驶车辆，将商品经济、信使物流与现代的生活方式带回了塔卫二。他们打亮车灯，握紧方向盘，用冒烟的轮胎挑战天使，将新世界的拓荒者们重新联结在一起。来自泰拉的企业巨头仍然不可撼动，但在战争期间备受所有人信赖的司机们握住了自己的方向盘——他们摇身一变，成为了商会如今的掌舵人。
+
+时至今日，环塔商会的高层依旧喜欢自诩为文明环带幕后的投资人与经营者。他们热爱每个季度的财报与投资者会议，还有光鲜亮丽的大都会——他们相信商会创造的规则足以代言塔卫二的当下与未来。这种自信曾经是渡过至暗时刻的必需品，但人们很容易忘记它的成瘾性。
