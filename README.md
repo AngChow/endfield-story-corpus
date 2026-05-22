@@ -5,7 +5,16 @@
 
 《明日方舟：终末地》简体中文剧情文本的本地化资料库，从 [Warfarin Wiki](https://warfarin.wiki/cn) 采集整理。共收录 **868 篇** Markdown 文档，覆盖任务剧本、Baker 会话、干员档案、武器描述、中枢档案、见闻辑录六大类内容，外加自行整理的世界观分析。
 
-> 本库主要用于在 Claude Code / 本地 AI 工具中作为剧情讨论的检索上下文。所有文本来源于 Warfarin Wiki，版权归原作者及鹰角网络所有。
+> 本库同时是一个 **Claude Code Skill**——安装到 `~/.claude/skills/` 后，Claude 会在你讨论终末地相关剧情时自动调用本库检索。所有文本来源于 Warfarin Wiki，版权归原作者及鹰角网络所有。
+
+## 作为 Claude Skill 安装
+
+```bash
+git clone https://github.com/AngChow/endfield-story-corpus.git \
+  ~/.claude/skills/endfield-story-corpus
+```
+
+Claude Code 启动时会自动识别 `SKILL.md`，无需额外配置。之后在对话中讨论终末地剧情、角色、世界观、特定章节时，Claude 会自动按"条目索引 → 分类目录 → 原文"的顺序检索本库并引用。
 
 ## 数据规模
 
@@ -25,6 +34,8 @@
 
 ```
 endfield-story-corpus/
+├── SKILL.md            # Claude Skill 定义（触发条件 + 检索工作流）
+├── README.md           # 本文件
 ├── 任务/              # 主线 & 支线任务剧本
 ├── Baker/             # Baker 会话全分支
 ├── 干员/              # 干员情报、档案、语音
@@ -32,17 +43,16 @@ endfield-story-corpus/
 ├── 中枢档案/          # 世界观设定文档
 ├── 见闻辑录/          # 见闻辑录正文
 ├── 分析/              # 世界观考据分析（时间线、势力关系、核心概念 7 篇）
-├── _条目索引.md        # 所有条目的导航入口
-├── _说话文本索引.md    # 按行汇总的全文检索索引（5.7MB）
+├── _条目索引.md        # 所有条目的导航入口（推荐检索入口）
 └── _来源与采集.md      # 数据来源与采集结果
 ```
 
 ## 使用方式
 
+- **作为 AI Skill**（推荐）：按上文方式 clone 到 `~/.claude/skills/`，Claude Code 会自动按 `SKILL.md` 的工作流检索
 - **快速定位**：先查 `_条目索引.md`，按分类找条目名和文件路径
-- **全文搜索**：用 `grep -r "关键词" .` 或编辑器全局搜索 `_说话文本索引.md`
+- **全文搜索**：用 `grep -r "关键词" 分类目录/`，避免全库 grep
 - **世界观查询**：优先读 `分析/` 下的结构化分析（01~06），再按其中的证据链反查原文
-- **作为 AI 上下文**：在 Claude Code 中可直接以本目录为工作区，AI 将自动识别本资料库
 
 ### 文件约定
 
