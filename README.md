@@ -5,16 +5,18 @@
 
 《明日方舟：终末地》简体中文剧情文本的本地化资料库，从 [Warfarin Wiki](https://warfarin.wiki/cn) 采集整理。共收录 **868 篇** Markdown 文档，覆盖任务剧本、Baker 会话、干员档案、武器描述、中枢档案、见闻辑录六大类内容，外加自行整理的世界观分析。
 
-> 本库同时是一个 **Claude Code Skill**——安装到 `~/.claude/skills/` 后，Claude 会在你讨论终末地相关剧情时自动调用本库检索。所有文本来源于 Warfarin Wiki，版权归原作者及鹰角网络所有。
+> 本库同时是一个 **Claude Code / CodeX Skill**——安装到 `~/.claude/skills/` 或 `~/.codex/skills/` 后，Claude Code / CodeX 会在你讨论终末地相关剧情时自动调用本库检索。所有文本来源于 Warfarin Wiki，版权归原作者及鹰角网络所有。
 
-## 作为 Claude Skill 安装
+## 作为 Claude Code / CodeX Skill 安装
 
 ```bash
 git clone https://github.com/AngChow/endfield-story-corpus.git \
-  ~/.claude/skills/endfield-story-corpus
+  ~/.claude/skills/endfield-story-corpus      # Claude Code
+  # 或
+  ~/.codex/skills/endfield-story-corpus        # CodeX
 ```
 
-Claude Code 启动时会自动识别 `SKILL.md`，无需额外配置。之后在对话中讨论终末地剧情、角色、世界观、特定章节时，Claude 会自动按"条目索引 → 分类目录 → 原文"的顺序检索本库并引用。
+Claude Code / CodeX 启动时会自动识别 `SKILL.md`，无需额外配置。之后在对话中讨论终末地剧情、角色、世界观、特定章节时，Claude Code / CodeX 会自动按"条目索引 → 分类目录 → 原文"的顺序检索本库并引用。
 
 ## 数据规模
 
@@ -34,7 +36,7 @@ Claude Code 启动时会自动识别 `SKILL.md`，无需额外配置。之后在
 
 ```
 endfield-story-corpus/
-├── SKILL.md            # Claude Skill 定义（触发条件 + 检索工作流）
+├── SKILL.md            # Claude Code / CodeX Skill 定义（触发条件 + 检索工作流）
 ├── README.md           # 本文件
 ├── 任务/              # 主线 & 支线任务剧本
 ├── Baker/             # Baker 会话全分支
@@ -49,7 +51,7 @@ endfield-story-corpus/
 
 ## 使用方式
 
-- **作为 AI Skill**（推荐）：按上文方式 clone 到 `~/.claude/skills/`，Claude Code 会自动按 `SKILL.md` 的工作流检索
+- **作为 AI Skill**（推荐）：按上文方式 clone 到 `~/.claude/skills/` 或 `~/.codex/skills/`，Claude Code / CodeX 会自动按 `SKILL.md` 的工作流检索
 - **快速定位**：先查 `_条目索引.md`，按分类找条目名和文件路径
 - **全文搜索**：用 `grep -r "关键词" 分类目录/`，避免全库 grep
 - **世界观查询**：优先读 `分析/` 下的结构化分析（01~06），再按其中的证据链反查原文
