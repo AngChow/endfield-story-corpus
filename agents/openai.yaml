@@ -1,0 +1,4 @@
+interface:
+  display_name: "终末地剧情资料库"
+  short_description: "检索《明日方舟：终末地》剧情文本资料库（868篇），覆盖任务剧本、Baker会话、干员档案、武器、中枢档案、见闻辑录及世界观分析"
+  default_prompt: "帮我查终末地里 Baker 的剧情"
