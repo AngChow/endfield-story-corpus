@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "泰拉"
 slug: "nar_document_v0d8_1_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_1_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_1_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_1_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:14:56.507179+00:00"
+source_sha256: "34533701dfdcada3cb9e4b4fe2a0b9ddefbdb9aafb24dff799ea9442d224ff5e"
 ---
-
 
 # 泰拉
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_1_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_1_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_1_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:14:56.507179+00:00`
 - ID：`nar_document_v0d8_1_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_1_1`
+- 正文 ID：`text_v0d8_1`
+- 条目名称：泰拉
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

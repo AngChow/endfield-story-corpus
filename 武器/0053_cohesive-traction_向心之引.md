@@ -2,12 +2,13 @@
 category: "武器"
 title: "向心之引"
 slug: "cohesive-traction"
+source_id: "wpn_lance_0006"
 source_url: "https://warfarin.wiki/cn/weapons/cohesive-traction"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:49:57.372885+00:00"
+source_sha256: "1ad003396782f3af112c8c908c2a0bf430348028ac2f9b135587887d2ed1f9cb"
 ---
-
 
 # 向心之引
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`cohesive-traction`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/cohesive-traction)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:49:57.372885+00:00`
 - ID：`wpn_lance_0006`
 - 英文名：Cohesive Traction
 - 稀有度：5★
 - 武器类型 ID：`5`
+- 武器类型：长柄武器
 
 ## 概览描述
 

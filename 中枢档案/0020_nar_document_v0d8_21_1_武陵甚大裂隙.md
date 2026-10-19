@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "武陵甚大裂隙"
 slug: "nar_document_v0d8_21_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_21_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_21_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_21_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:14:59.122663+00:00"
+source_sha256: "184928ad34713500176330156024199528264017a6f6e6b9fc39bcd5355f7832"
 ---
-
 
 # 武陵甚大裂隙
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_21_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_21_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_21_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:14:59.122663+00:00`
 - ID：`nar_document_v0d8_21_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_21_1`
+- 正文 ID：`text_v0d8_21`
+- 条目名称：武陵甚大裂隙
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

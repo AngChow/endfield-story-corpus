@@ -1,0 +1,38 @@
+---
+category: "中枢档案"
+title: "藏剑谷"
+slug: "nar_document_v1d3_2_1"
+source_id: "nar_document_v1d3_2_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d3_2_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:21:27.542823+00:00"
+source_sha256: "d3ca1fc22e12e5a86367fe76b3d1c74972b74857f884d867d536303fafa1b5ce"
+---
+
+# 藏剑谷
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v1d3_2_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d3_2_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:21:27.542823+00:00`
+- ID：`nar_document_v1d3_2_1`
+- 条目 ID：`nar_document_v1d3_2_1`
+- 正文 ID：`text_v1d3_2`
+- 条目名称：藏剑谷
+- 类型：中枢档案
+- 类型标识：`document`
+
+## 正文
+
+![Reading/document_SwordVaultDale_intro](https://static.warfarin.wiki/v4/reading/document_SwordVaultDale_intro.webp)
+
+藏剑谷是位于武陵清波寨东南面的一处山谷。相传，其中有一座秘库，埋藏着第一次天使战争前遗留的技术遗产。
+
+有关此地的传说多见于武陵地区的话本创作中，如流传颇广的“大炎双侠”系列故事，便将藏剑谷设定为主角最终埋剑归隐之地，一些短篇话本还常将其描绘为藏有大量武器图谱与失落技艺的传奇秘境。然而，藏剑谷与秘库的具体情形仅有少数人员知晓，后来此地更是因第一次天使战争爆发遭侵蚀掩埋，相关记录也在动荡中散佚殆尽。宏山科学院的部分历史研究人员基于“昔日礼部与工部曾在此联合修筑一座秘库”的史料推测，谷内宝藏或为某些机巧重器的蓝图备份，旨在为后人开拓塔卫二提供助力。
+
+如今，随着侵蚀潮退去，藏剑谷再度展现在世人眼前。相关研究人员深入探查后才发现，秘库中保存的实际上是来自泰拉诸国的珍贵人文典藏。根据其中的遗存记载，这个由炎国作为发起方与秘库修筑方的，珍藏了文明火种的计划，旨在于塔卫二留存所有应当被铭记的文明印记，使后人不致遗忘这段“来时之路”。

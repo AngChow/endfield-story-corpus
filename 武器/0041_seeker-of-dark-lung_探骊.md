@@ -2,12 +2,13 @@
 category: "武器"
 title: "探骊"
 slug: "seeker-of-dark-lung"
+source_id: "wpn_claym_0011"
 source_url: "https://warfarin.wiki/cn/weapons/seeker-of-dark-lung"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:06:30.695229+00:00"
+source_sha256: "6411b4f6c164028ab75d72af90797425a33b6f84a48b6df6b5e63a4723527bdd"
 ---
-
 
 # 探骊
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`seeker-of-dark-lung`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/seeker-of-dark-lung)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:06:30.695229+00:00`
 - ID：`wpn_claym_0011`
 - 英文名：Seeker of Dark Lung
 - 稀有度：5★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

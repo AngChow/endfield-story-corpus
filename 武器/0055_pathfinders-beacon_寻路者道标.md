@@ -2,12 +2,13 @@
 category: "武器"
 title: "寻路者道标"
 slug: "pathfinders-beacon"
+source_id: "wpn_lance_0003"
 source_url: "https://warfarin.wiki/cn/weapons/pathfinders-beacon"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:59:03.840794+00:00"
+source_sha256: "d7e734b41169162d36863b4d405d338a92c6978dfc6720ceefe344af2b8ae65f"
 ---
-
 
 # 寻路者道标
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`pathfinders-beacon`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/pathfinders-beacon)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:59:03.840794+00:00`
 - ID：`wpn_lance_0003`
 - 英文名：Pathfinder's Beacon
 - 稀有度：4★
 - 武器类型 ID：`5`
+- 武器类型：长柄武器
 
 ## 概览描述
 

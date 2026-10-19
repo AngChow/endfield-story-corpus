@@ -1,0 +1,40 @@
+---
+category: "中枢档案"
+title: "应龙关"
+slug: "nar_document_v1d4_2_1"
+source_id: "nar_document_v1d4_2_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d4_2_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:21:30.197288+00:00"
+source_sha256: "850d32d2792fea7a2fff22620bb7466c6831551337b586377c85ec7451d1a529"
+---
+
+# 应龙关
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v1d4_2_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d4_2_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:21:30.197288+00:00`
+- ID：`nar_document_v1d4_2_1`
+- 条目 ID：`nar_document_v1d4_2_1`
+- 正文 ID：`text_v1d4_2`
+- 条目名称：应龙关
+- 类型：中枢档案
+- 类型标识：`document`
+
+## 正文
+
+![Reading/document_YinglungPass_intro](https://static.warfarin.wiki/v4/reading/document_YinglungPass_intro.webp)
+
+应龙关是宏山科学院为应对武陵甚大裂隙爆发而建设的大规模封锁设施群，其位于武陵地区的天堑之上，曾是武陵科考站外围侵蚀监测设施的一部分。建设之初名为“武陵关”，后因翻新扩建外加由应龙特勤队长期驻守管理，被宏科院重新命名为“应龙关”。
+
+应龙关的主体关隘结构由宏山科学院的土木天师设计，天师们结合息壤材料技术，为限制甚大裂隙扩张而专门加强了针对侵蚀的防御构造。其采用的所有设计建造标准都基于一个假想场景——甚大裂隙的再度爆发。在必要时，宏科院会调用最高规格的应急力量介入，借助巨兽权能进一步强化应龙关的防御机能。
+
+驻守在此的应龙特勤队十年间持续肩负着北部禁区内部的监视、探查与清理任务，并负责在第一时间应对应龙关的各类突发状况。
+
+如今，应龙关已屹立禁区边界十年之久。

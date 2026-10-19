@@ -2,12 +2,13 @@
 category: "武器"
 title: "使命必达"
 slug: "delivery-guaranteed"
+source_id: "wpn_funnel_0011"
 source_url: "https://warfarin.wiki/cn/weapons/delivery-guaranteed"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:52:07.720290+00:00"
+source_sha256: "c0ad80e73a13f6bd61a935088b0d396e55eb56511b3e6380d6feba237eb02dd2"
 ---
-
 
 # 使命必达
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`delivery-guaranteed`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/delivery-guaranteed)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:52:07.720290+00:00`
 - ID：`wpn_funnel_0011`
 - 英文名：Delivery Guaranteed
 - 稀有度：6★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "十二问"
 slug: "twelve-questions"
+source_id: "wpn_sword_0018"
 source_url: "https://warfarin.wiki/cn/weapons/twelve-questions"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:08:19.020428+00:00"
+source_sha256: "b2dfb3ad1071c98b2e03927e793255b7eafe5f04a0b5ef915ec17374fd9e6e17"
 ---
-
 
 # 十二问
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`twelve-questions`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/twelve-questions)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:08:19.020428+00:00`
 - ID：`wpn_sword_0018`
 - 英文名：Twelve Questions
 - 稀有度：5★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

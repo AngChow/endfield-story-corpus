@@ -2,12 +2,13 @@
 category: "武器"
 title: "坚城铸造者"
 slug: "fortmaker"
+source_id: "wpn_sword_0007"
 source_url: "https://warfarin.wiki/cn/weapons/fortmaker"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:53:50.957355+00:00"
+source_sha256: "cc86f1168b7764bac5bc846d3441a19e95307c9cb94d5a8f6a8fd0c350dcb543"
 ---
-
 
 # 坚城铸造者
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`fortmaker`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/fortmaker)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:53:50.957355+00:00`
 - ID：`wpn_sword_0007`
 - 英文名：Fortmaker
 - 稀有度：5★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

@@ -1,0 +1,40 @@
+---
+category: "中枢档案"
+title: "北部禁区"
+slug: "nar_document_v1d4_5_1"
+source_id: "nar_document_v1d4_5_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d4_5_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:21:36.074019+00:00"
+source_sha256: "e49ea4f162d4cad5c86bad4cec799459931837674b3d55e0b9872e61e7c1fd2d"
+---
+
+# 北部禁区
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v1d4_5_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d4_5_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:21:36.074019+00:00`
+- ID：`nar_document_v1d4_5_1`
+- 条目 ID：`nar_document_v1d4_5_1`
+- 正文 ID：`text_v1d4_1`
+- 条目名称：北部禁区
+- 类型：中枢档案
+- 类型标识：`document`
+
+## 正文
+
+![Reading/document_NorthWulingExclusionZone_intro](https://static.warfarin.wiki/v4/reading/document_NorthWulingExclusionZone_intro.webp)
+
+北部禁区，位于武陵科考站的旧址。十年前，以科考站为中心，周边地区逐渐形成了一个小型社区，有着包括学校、医院在内的各种设施。其中，培育了诸多应龙队员的“谈剑堂”，更是为了随父母一同居住在科考站的适龄儿童，专门开设了基础教育课程。
+
+塔罗斯历142年，宏山科学院驻武陵科考站的天师们尝试利用息壤遏制甚大裂隙的扩张趋势。这次尝试引发了灾难性的后果，武陵科考站及原型息壤设施在两小时内被裂隙爆发带来的侵蚀潮完全吞没。尽管宏科院在之后的救援行动中付出了巨大代价，幸存者仍然寥寥。宏科院投入全部应急力量，将受灾难影响的区域封锁在应龙关之后。这片被严密封锁的区域——武陵科考站的遗址，便是如今的北部禁区。
+
+十年以来，宏山科学院基于对文明环带整体安全的考量，将整个北部禁区彻底封锁，并派遣应龙特勤队于应龙关进行长期驻守。武陵城兴建后，宏山科学院也利用天师桩阵列等息壤技术产物，重新建立了对北部禁区内异常侵蚀现象的完整遏制体系。
+
+在北部禁区的封锁措施实行之初，文明环带内部存在许多对宏科院是否彻底放弃武陵地区的猜测，即使在宏科院内也存在不同的声音。但武陵城的人们仍然怀揣着终有一日能彻底战胜甚大裂隙的希望与信念，并为之不断努力至今。

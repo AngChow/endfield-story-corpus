@@ -2,12 +2,13 @@
 category: "武器"
 title: "O.B.J.重荷"
 slug: "obj-heavy-burden"
+source_id: "wpn_claym_0015"
 source_url: "https://warfarin.wiki/cn/weapons/obj-heavy-burden"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:58:48.145566+00:00"
+source_sha256: "be61e5f745e158155f5bb5ff6980b8f789dc2ffb6997668e4ae07f2ccd0e5f7c"
 ---
-
 
 # O.B.J.重荷
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`obj-heavy-burden`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-heavy-burden)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:58:48.145566+00:00`
 - ID：`wpn_claym_0015`
 - 英文名：OBJ Heavy Burden
 - 稀有度：5★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

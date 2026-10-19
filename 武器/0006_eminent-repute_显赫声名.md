@@ -2,12 +2,13 @@
 category: "武器"
 title: "显赫声名"
 slug: "eminent-repute"
+source_id: "wpn_sword_0013"
 source_url: "https://warfarin.wiki/cn/weapons/eminent-repute"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:52:16.396462+00:00"
+source_sha256: "9eef0c715564c4a165436bf696f504528fac5d09d479f766b2ee1f82c8ec88eb"
 ---
-
 
 # 显赫声名
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`eminent-repute`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/eminent-repute)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:52:16.396462+00:00`
 - ID：`wpn_sword_0013`
 - 英文名：Eminent Repute
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

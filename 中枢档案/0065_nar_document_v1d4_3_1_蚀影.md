@@ -1,0 +1,40 @@
+---
+category: "中枢档案"
+title: "蚀影"
+slug: "nar_document_v1d4_3_1"
+source_id: "nar_document_v1d4_3_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d4_3_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:21:32.978000+00:00"
+source_sha256: "3c68d50436ceb6d9efe4887a0721c4df7122adcad89b3f61fd079823748f805b"
+---
+
+# 蚀影
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v1d4_3_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d4_3_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:21:32.978000+00:00`
+- ID：`nar_document_v1d4_3_1`
+- 条目 ID：`nar_document_v1d4_3_1`
+- 正文 ID：`text_v1d4_3`
+- 条目名称：蚀影
+- 类型：中枢档案
+- 类型标识：`document`
+
+## 正文
+
+![Reading/document_Blightshade_intro](https://static.warfarin.wiki/v4/reading/document_Blightshade_intro.webp)
+
+在文明环带的超域研究领域，“蚀影”被视为一种极为罕见的超域活动现象。
+
+蚀影是一种通常表现为具备自主活动能力，存在强烈侵略性的“超域能量复现实体”。在既有的目击记录中，蚀影个体仅会在超域能量活动最活跃、侵蚀灾害最严重的极少数区域出现。
+
+蚀影个体会复现生物受到超域能量活动直接影响，被侵蚀物质完全吞没时的形态。在未受外部影响的情况下，多数蚀影个体展现出模仿生物生前行为的基本行为逻辑。一旦受到惊扰，蚀影个体将表现出高级的运动功能和认知功能，其行为将转变为以暴力手段驱逐或摧毁干扰因素。学界也曾收到过关于蚀影个体试图采取沟通行为的个案报告，但是始终未能得到确凿的证据。
+
+试图解释蚀影的存在及其活动原理的主流假说认为：蚀影的本质是被固定在现实宇宙的微弱超域活动现象场，是未能被彻底抹去的，已死生命的残留信息。在文明环带各方的侵蚀处置人员积累了不少蚀影应对经验的当下，蚀影存在的原因及其活动原理，仍然是一个未解之谜。

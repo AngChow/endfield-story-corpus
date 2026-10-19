@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "培训材料：危险野生动物，以及天使"
 slug: "text_map01_research3_1"
+source_id: "text_map01_research3_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T06:35:28.127589+00:00"
+source_sha256: "3c2f8659027cb0053fa01bafaa06e2c94990013b43d19ccc55082b5b8c6ad3b5"
 ---
-
 
 # 培训材料：危险野生动物，以及天使
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map01_research3_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T06:35:28.127589+00:00`
 - ID：`text_map01_research3_1`
-- 类型：培训材料：危险野生动物，以及天使
+- 条目 ID：`nar_paper_map01_research3_2_1`
+- 正文 ID：`text_map01_research3_1`
+- 条目名称：培训材料：危险野生动物，以及天使
+- 类型：纸质记录
+- 类型标识：`text`
 
 ## 正文
 
@@ -33,6 +38,8 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 我们有一张商会发来的常见天使个体警戒范围统计图，记得之后把数据改大点重印一张，让学员用那个图。别让他们再去野外打着实验的幌子逗天使玩了！真会出人命的！
 
 另外要跟学员讲清楚，虽然萨科塔也经常称呼自己的种族为“天使”，但那是从泰拉带过来的用语习惯，而且在拉特兰语里是另外一个词。
+
+
 
 ……用以判断天使失去威胁性与否的最可靠依据是其光环是否仍存在。只要光环仍在，身体破损的天使个体仍有可能吸收更多环境物质，恢复原本的伤人能力……
 

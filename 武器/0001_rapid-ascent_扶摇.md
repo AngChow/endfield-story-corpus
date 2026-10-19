@@ -2,12 +2,13 @@
 category: "武器"
 title: "扶摇"
 slug: "rapid-ascent"
+source_id: "wpn_sword_0011"
 source_url: "https://warfarin.wiki/cn/weapons/rapid-ascent"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:15:13.852255+00:00"
+source_sha256: "b9fe209979eab5930ad186f3f2ec7c3145fbccae6f85356a0ef07150e50bf75f"
 ---
-
 
 # 扶摇
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`rapid-ascent`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/rapid-ascent)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:15:13.852255+00:00`
 - ID：`wpn_sword_0011`
 - 英文名：Rapid Ascent
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

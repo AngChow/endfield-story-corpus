@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "有关旧日梦魇的报告"
 slug: "text_map01_research4_1"
+source_id: "text_map01_research4_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research4_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T06:35:36.525157+00:00"
+source_sha256: "fa389fb678576ebc274771034bde673e230965a0fa8eadca74f2ab2846d6254c"
 ---
-
 
 # 有关旧日梦魇的报告
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map01_research4_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research4_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T06:35:36.525157+00:00`
 - ID：`text_map01_research4_1`
-- 类型：有关旧日梦魇的报告
+- 条目 ID：`nar_report_map01_research4_1_1`
+- 正文 ID：`text_map01_research4_1`
+- 条目名称：有关旧日梦魇的报告
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

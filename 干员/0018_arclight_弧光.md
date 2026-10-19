@@ -2,12 +2,13 @@
 category: "干员"
 title: "弧光"
 slug: "arclight"
+source_id: "chr_0007_ikut"
 source_url: "https://warfarin.wiki/cn/operators/arclight"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:42:34.198972+00:00"
+source_sha256: "01ce567ac7853bd57a3ebdd38475659aa6662a13a38b71d7522d85b5c7f16bd2"
 ---
-
 
 # 弧光
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`arclight`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/arclight)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:42:34.198972+00:00`
 - ID：`chr_0007_ikut`
 - 英文名：Arclight
 - 稀有度：5★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：弧光是一名使用单手剑的先锋干员，可造成电磁属性的伤害。
 - 属性：电磁
 - 职业：先锋
-- 势力：众生长地
 - 种族：库兰塔
 - 势力标签：众生长地
 - 专长：工具制造、自然学识
 - 爱好：自然、运动
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：益智
+- 不喜欢的行为：益智
+- 昵称：大厨弧光
 - CV：中文：钟可；日文：藤原夏海；英文：Andrea Gatchalian；韩文：金芽珑
 
 ### 标签说明
@@ -46,6 +47,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 自然学识·“师者”
 残酷的生活留下生存经验，而她希望把这些经验传递出去。
+
+#### 自然
+
+自然·探索荒野
+自然充满了危险，但她驻足时只觉得壮美。
 
 #### 工具制造
 
@@ -56,11 +62,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 运动·夜空下奔跑
 荒野是最好的运动场，在那里她可以尽情奔跑。
-
-#### 自然
-
-自然·探索荒野
-自然充满了危险，但她驻足时只觉得壮美。
 
 ## 档案
 
@@ -227,3 +228,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **弧光** (`chr_0007_ikut`, `chr_0007_ikut_mono_skill_ultimate_01`)：终结技1：避无可避。
 - **弧光** (`chr_0007_ikut`, `chr_0007_ikut_mono_skill_ultimate_02`)：终结技2：从风暴中来。
 - **弧光** (`chr_0007_ikut`, `chr_0007_ikut_mono_skill_ultimate_03`)：终结技3：瞬息而至。
+
+## 留影
+
+### 向晚
+
+- 留影 ID：`pic_1_chr_0007_ikut`
+- 物品 ID：`item_pic_1_chr_0007_ikut`
+- 作者：直立行走
+- 潜能等级：1
+
+![向晚](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0007_ikut.webp)
+
+获取后，可解锁弧光的留影“向晚”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+当感官不再可靠，游人从歌谣中获得指引。
+
+### 不息
+
+- 留影 ID：`pic_3_chr_0007_ikut`
+- 物品 ID：`item_pic_3_chr_0007_ikut`
+- 作者：またよし
+- 潜能等级：3
+
+![不息](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0007_ikut.webp)
+
+获取后，可解锁弧光的留影“不息”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+无论前方是怎样的风暴，都无法阻拦她前进的脚步。
+
+### 弧月旋刃
+
+- 留影 ID：`pic_5_chr_0007_ikut`
+- 物品 ID：`item_pic_5_chr_0007_ikut`
+- 作者：Z3zz
+- 潜能等级：5
+
+![弧月旋刃](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0007_ikut.webp)
+
+获取后，可解锁弧光的留影“弧月旋刃”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她始终认为自己只是一名徒从，但许多被她从裂地者刀下救出的人们，依旧会称呼她一声“师者”。

@@ -2,12 +2,13 @@
 category: "武器"
 title: "熔铸火焰"
 slug: "forgeborn-scathe"
+source_id: "wpn_sword_0006"
 source_url: "https://warfarin.wiki/cn/weapons/forgeborn-scathe"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:53:46.823790+00:00"
+source_sha256: "9ebf2bd068354a598e51942907fa0e423c3c6242457aabf7172078ea6069e6d4"
 ---
-
 
 # 熔铸火焰
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`forgeborn-scathe`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/forgeborn-scathe)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:53:46.823790+00:00`
 - ID：`wpn_sword_0006`
 - 英文名：Forgeborn Scathe
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

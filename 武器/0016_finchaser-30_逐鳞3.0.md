@@ -2,12 +2,13 @@
 category: "武器"
 title: "逐鳞3.0"
 slug: "finchaser-30"
+source_id: "wpn_sword_0020"
 source_url: "https://warfarin.wiki/cn/weapons/finchaser-30"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:53:39.403481+00:00"
+source_sha256: "a347c7a3aa8df16fde7463a914d636dacf4cb896998faa2f1482dc08def75ea2"
 ---
-
 
 # 逐鳞3.0
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`finchaser-30`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/finchaser-30)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:53:39.403481+00:00`
 - ID：`wpn_sword_0020`
 - 英文名：Finchaser 3.0
 - 稀有度：5★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

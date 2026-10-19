@@ -2,12 +2,13 @@
 category: "武器"
 title: "热熔切割器"
 slug: "thermite-cutter"
+source_id: "wpn_sword_0012"
 source_url: "https://warfarin.wiki/cn/weapons/thermite-cutter"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:08:14.556347+00:00"
+source_sha256: "18290cfcc010194ce1a5f8b945a824f4be6595467c5f2ee0df869417163a3521"
 ---
-
 
 # 热熔切割器
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`thermite-cutter`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/thermite-cutter)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:08:14.556347+00:00`
 - ID：`wpn_sword_0012`
 - 英文名：Thermite Cutter
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "理性告别"
 slug: "rational-farewell"
+source_id: "wpn_pistol_0004"
 source_url: "https://warfarin.wiki/cn/weapons/rational-farewell"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:06:29.066956+00:00"
+source_sha256: "923be5197c1c347da39b475bb0cc3bbd74654ac9f4dfd04d4f731abd36337b5a"
 ---
-
 
 # 理性告别
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`rational-farewell`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/rational-farewell)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:06:29.066956+00:00`
 - ID：`wpn_pistol_0004`
 - 英文名：Rational Farewell
 - 稀有度：5★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

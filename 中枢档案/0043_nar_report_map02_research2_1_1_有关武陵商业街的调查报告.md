@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "有关武陵商业街的调查报告"
 slug: "nar_report_map02_research2_1_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_report_map02_research2_1_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_report_map02_research2_1_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research2_1_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:23:21.141542+00:00"
+source_sha256: "645135db718d7891b3a464c80f0cf5e83a98eeef54826049c6344e965a255820"
 ---
-
 
 # 有关武陵商业街的调查报告
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_report_map02_research2_1_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_report_map02_research2_1_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research2_1_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:23:21.141542+00:00`
 - ID：`nar_report_map02_research2_1_1`
-- 类型：document
+- 条目 ID：`nar_report_map02_research2_1_1`
+- 正文 ID：`text_map02_research2_1`
+- 条目名称：有关武陵商业街的调查报告
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

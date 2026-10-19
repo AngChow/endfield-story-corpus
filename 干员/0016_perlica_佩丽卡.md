@@ -2,12 +2,13 @@
 category: "干员"
 title: "佩丽卡"
 slug: "perlica"
+source_id: "chr_0004_pelica"
 source_url: "https://warfarin.wiki/cn/operators/perlica"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:52:08.562950+00:00"
+source_sha256: "b98568480727efba8c2378bf7c9d75d1e8c2931e6f125fc6b73ab603b022d3d3"
 ---
-
 
 # 佩丽卡
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`perlica`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/perlica)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:52:08.562950+00:00`
 - ID：`chr_0004_pelica`
 - 英文名：Perlica
 - 稀有度：5★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：佩丽卡是一名使用施术单元的术师干员，可造成电磁属性的伤害。
 - 属性：电磁
 - 职业：术师
-- 势力：终末地工业
 - 种族：黎博利
 - 势力标签：终末地工业
 - 专长：团队管理、源石技艺
 - 爱好：生活、创意
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：运动
-- 行为不可用：内向（系统用游戏中不可见）
+- 不喜欢的行为：运动
+- 不可用的行为：内向（系统用游戏中不可见）
+- 昵称：大厨佩丽卡
 - CV：中文：陈婷婷；日文：若山诗音；英文：Jane Jackson；韩文：柳惠知
 
 ### 标签说明
@@ -250,3 +251,57 @@ M3，这份文件作为“零号委托”的附件封存，不可强制生效。
 - **佩丽卡** (`chr_0004_pelica`, `chr_0004_pelica_mono_skill_ultimate_01`)：终结技1：歼灭坐标，权限七！
 - **佩丽卡** (`chr_0004_pelica`, `chr_0004_pelica_mono_skill_ultimate_02`)：终结技2：目标锁定，开火！
 - **佩丽卡** (`chr_0004_pelica`, `chr_0004_pelica_mono_skill_ultimate_03`)：终结技3：帝江号，清空区域！
+
+## 留影
+
+### 引领者
+
+- 留影 ID：`pic_1_chr_0004_pelica`
+- 物品 ID：`item_pic_1_chr_0004_pelica`
+- 作者：STAR影法师
+- 潜能等级：1
+
+![引领者](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0004_pelica.webp)
+
+获取后，可解锁佩丽卡的留影“引领者”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+当群星的碎屑遮掩住光芒，她平静地照亮你的前路。她在闪耀。
+
+### 启明
+
+- 留影 ID：`pic_1_ex01_chr_0004_pelica`
+- 物品 ID：`item_pic_1_ex01_chr_0004_pelica`
+- 作者：大明
+- 潜能等级：1
+
+![启明](https://static.warfarin.wiki/v4/imageposter/subsize/pic_1_ex01_chr_0004_pelica.webp)
+
+获取后，可解锁佩丽卡的留影“启明”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+每一次深空中的漫步，都是对无垠星河的短暂拜访。
+
+### 协议
+
+- 留影 ID：`pic_3_chr_0004_pelica`
+- 物品 ID：`item_pic_3_chr_0004_pelica`
+- 作者：Director Kuzuri
+- 潜能等级：3
+
+![协议](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0004_pelica.webp)
+
+获取后，可解锁佩丽卡的留影“协议”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+一种可见的思念让她不愿驻足，协议从不是冰冷的束缚。
+
+### 未来
+
+- 留影 ID：`pic_5_chr_0004_pelica`
+- 物品 ID：`item_pic_5_chr_0004_pelica`
+- 作者：IRple2
+- 潜能等级：5
+
+![未来](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0004_pelica.webp)
+
+获取后，可解锁佩丽卡的留影“未来”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+蓝图上刻印了她所编织的无限可能，那是她随身携带的未来。

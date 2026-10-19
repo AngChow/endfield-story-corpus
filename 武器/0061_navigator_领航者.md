@@ -2,12 +2,13 @@
 category: "武器"
 title: "领航者"
 slug: "navigator"
+source_id: "wpn_pistol_0005"
 source_url: "https://warfarin.wiki/cn/weapons/navigator"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:57:21.988065+00:00"
+source_sha256: "a5ec9ee79093b654e448d3f8a85334eeba07bb6616093b4267daa8c57dba0cd6"
 ---
-
 
 # 领航者
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`navigator`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/navigator)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:57:21.988065+00:00`
 - ID：`wpn_pistol_0005`
 - 英文名：Navigator
 - 稀有度：6★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

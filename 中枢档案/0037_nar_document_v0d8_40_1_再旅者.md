@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "再旅者"
 slug: "nar_document_v0d8_40_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_40_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_40_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_40_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:18:04.911619+00:00"
+source_sha256: "a252714ebcad60bac5d43c7cb841b476425437b422004b70b500d1ae76ebacc3"
 ---
-
 
 # 再旅者
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_40_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_40_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_40_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:18:04.911619+00:00`
 - ID：`nar_document_v0d8_40_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_40_1`
+- 正文 ID：`text_v0d8_40`
+- 条目名称：再旅者
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 
@@ -50,4 +55,4 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 罗德岛和终末地无论如何都愿意相信在森林里看见的那道光，以及循着那道光、在混沌之中诞生的意志们。
 
-我也如此相信。
+*我也如此相信。*

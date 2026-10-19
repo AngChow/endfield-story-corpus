@@ -2,12 +2,13 @@
 category: "武器"
 title: "昔日精品"
 slug: "former-finery"
+source_id: "wpn_claym_0006"
 source_url: "https://warfarin.wiki/cn/weapons/former-finery"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:53:48.605219+00:00"
+source_sha256: "c86b1f23ac4e71a553b56adebd061b377bdd58071fc2d5b3d753abb64a235407"
 ---
-
 
 # 昔日精品
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`former-finery`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/former-finery)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:53:48.605219+00:00`
 - ID：`wpn_claym_0006`
 - 英文名：Former Finery
 - 稀有度：6★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "有关武陵交通规划的调查报告"
 slug: "text_map02_research3_1"
+source_id: "text_map02_research3_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research3_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T06:51:15.563175+00:00"
+source_sha256: "12be1d144bc2dde3824f868751e8d7a201bb20b27e257ac5571d46c9090b9b63"
 ---
-
 
 # 有关武陵交通规划的调查报告
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map02_research3_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research3_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T06:51:15.563175+00:00`
 - ID：`text_map02_research3_1`
-- 类型：有关武陵交通规划的调查报告
+- 条目 ID：`nar_report_map02_research3_1_1`
+- 正文 ID：`text_map02_research3_1`
+- 条目名称：有关武陵交通规划的调查报告
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

@@ -2,12 +2,13 @@
 category: "干员"
 title: "陈千语"
 slug: "chen-qianyu"
+source_id: "chr_0005_chen"
 source_url: "https://warfarin.wiki/cn/operators/chen-qianyu"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:44:00.809637+00:00"
+source_sha256: "146f504107d49b2f5f5fa7c04457498e756627b63582d2aa1fd9bafc0779b08f"
 ---
-
 
 # 陈千语
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`chen-qianyu`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/chen-qianyu)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:44:00.809637+00:00`
 - ID：`chr_0005_chen`
 - 英文名：Chen Qianyu
 - 稀有度：5★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：陈千语是一名使用单手剑的近卫干员，可造成物理属性的伤害。
 - 属性：物理
 - 职业：近卫
-- 势力：终末地工业
 - 种族：龙
 - 势力标签：终末地工业
 - 专长：博闻强记、灵光一闪
 - 爱好：文化、公益
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：武陵·跑者严选
-- 行为偏好：科技
-- 行为不可用：内向（系统用游戏中不可见）
+- 不喜欢的行为：科技
+- 不可用的行为：内向（系统用游戏中不可见）
+- 昵称：大厨陈千语
 - CV：中文：吱毛；日文：铃代纱弓；英文：Rebecca Hanssen；韩文：丁海恩
 
 ### 标签说明
@@ -263,3 +264,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **陈千语** (`chr_0005_chen`, `chr_0005_chen_mono_skill_ultimate_01`)：终结技1：当破即破！
 - **陈千语** (`chr_0005_chen`, `chr_0005_chen_mono_skill_ultimate_02`)：终结技2：当断即断！
 - **陈千语** (`chr_0005_chen`, `chr_0005_chen_mono_skill_ultimate_03`)：终结技3：当弃即弃！
+
+## 留影
+
+### 侠迹
+
+- 留影 ID：`pic_1_chr_0005_chen`
+- 物品 ID：`item_pic_1_chr_0005_chen`
+- 作者：ALZiMi
+- 潜能等级：1
+
+![侠迹](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0005_chen.webp)
+
+获取后，可解锁陈千语的留影“侠迹”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+龙与剑，闯天涯。
+
+### 剑语
+
+- 留影 ID：`pic_3_chr_0005_chen`
+- 物品 ID：`item_pic_3_chr_0005_chen`
+- 作者：Kieed
+- 潜能等级：3
+
+![剑语](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0005_chen.webp)
+
+获取后，可解锁陈千语的留影“剑语”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+剑是她对母亲的思念，剑是她选择的道路，剑是她守护你的信念。
+
+### 龙腾
+
+- 留影 ID：`pic_5_chr_0005_chen`
+- 物品 ID：`item_pic_5_chr_0005_chen`
+- 作者：宇木敦哉
+- 潜能等级：5
+
+![龙腾](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0005_chen.webp)
+
+获取后，可解锁陈千语的留影“龙腾”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+剑出，龙腾，风起，云涌。

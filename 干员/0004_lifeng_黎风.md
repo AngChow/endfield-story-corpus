@@ -2,12 +2,13 @@
 category: "干员"
 title: "黎风"
 slug: "lifeng"
+source_id: "chr_0015_lifeng"
 source_url: "https://warfarin.wiki/cn/operators/lifeng"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:45:57.380898+00:00"
+source_sha256: "901efce9601c91b1246de3404a32a09cc760a40ddf37e12c8485826b795291f8"
 ---
-
 
 # 黎风
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`lifeng`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/lifeng)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:45:57.380898+00:00`
 - ID：`chr_0015_lifeng`
 - 英文名：Lifeng
 - 稀有度：6★
@@ -34,10 +35,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 势力标签：宏山科学院
 - 专长：敏捷、自然学识
 - 爱好：运动、自然
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：武陵·跑者严选
-- 行为偏好：艺术
-- 行为不可用：外向（系统用游戏中不可见）
+- 不喜欢的行为：艺术
+- 不可用的行为：外向（系统用游戏中不可见）
+- 昵称：大厨黎风
 - CV：中文：郭鸿博；日文：石桥阳彩；英文：Yung-I Chang；韩文：金润气
 
 ### 标签说明
@@ -47,15 +49,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 敏捷·息壤动力
 装备了最先进的实验型息壤义肢，无论力量、速度还是灵敏度都十分优秀。
 
-#### 自然学识
-
-自然学识·种植
-在那样的环境中长大成人，守护生命已经成为一种本能。
-
 #### 运动
 
 运动·以武修身
 志行千里，须身心并坚。拥有强健的体魄，才能出发去更远的地方。
+
+#### 自然学识
+
+自然学识·种植
+在那样的环境中长大成人，守护生命已经成为一种本能。
 
 #### 自然
 
@@ -326,3 +328,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **黎风** (`chr_0015_lifeng`, `chr_0015_lifeng_mono_skill_ultimate_01`)：终结技1：猜猜在哪只手？
 - **黎风** (`chr_0015_lifeng`, `chr_0015_lifeng_mono_skill_ultimate_02`)：终结技2：摧破业障，降伏诸恶！
 - **黎风** (`chr_0015_lifeng`, `chr_0015_lifeng_mono_skill_ultimate_03`)：终结技3：现忿怒相，破！
+
+## 留影
+
+### 证果
+
+- 留影 ID：`pic_1_chr_0015_lifeng`
+- 物品 ID：`item_pic_1_chr_0015_lifeng`
+- 作者：hou
+- 潜能等级：1
+
+![证果](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0015_lifeng.webp)
+
+获取后，可解锁黎风的留影“证果”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+他又来找你掰手腕了。有朝一日，他会成为你的臂膀。
+
+### 寻道
+
+- 留影 ID：`pic_3_chr_0015_lifeng`
+- 物品 ID：`item_pic_3_chr_0015_lifeng`
+- 作者：某猫monota
+- 潜能等级：3
+
+![寻道](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0015_lifeng.webp)
+
+获取后，可解锁黎风的留影“寻道”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+修行路漫漫，但他目光如炬，奉你为楷模。
+
+### 少年心
+
+- 留影 ID：`pic_5_chr_0015_lifeng`
+- 物品 ID：`item_pic_5_chr_0015_lifeng`
+- 作者：Eteru
+- 潜能等级：5
+
+![少年心](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0015_lifeng.webp)
+
+获取后，可解锁黎风的留影“少年心”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+如璞玉，千琢而不晦。

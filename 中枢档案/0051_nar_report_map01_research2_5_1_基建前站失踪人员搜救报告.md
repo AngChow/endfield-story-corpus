@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "基建前站失踪人员搜救报告"
 slug: "nar_report_map01_research2_5_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_report_map01_research2_5_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_report_map01_research2_5_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_report_map01_research2_5_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:23:00.882164+00:00"
+source_sha256: "949083b20e5653a9944a166441b131b9702926cc5ac03d9f5120f807fe6330e7"
 ---
-
 
 # 基建前站失踪人员搜救报告
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_report_map01_research2_5_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_report_map01_research2_5_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map01_research2_5_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:23:00.882164+00:00`
 - ID：`nar_report_map01_research2_5_1`
-- 类型：document
+- 条目 ID：`nar_report_map01_research2_5_1`
+- 正文 ID：`text_map01_research2_1`
+- 条目名称：基建前站失踪人员搜救报告
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

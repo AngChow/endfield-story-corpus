@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "联盟工团安全局"
 slug: "nar_document_v0d8_13_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_13_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_13_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_13_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:14:42.343958+00:00"
+source_sha256: "2f916fb1be61d5bc1dff96bea2f7fe01581e2b4fa8e8f89406938fd571a3678b"
 ---
-
 
 # 联盟工团安全局
 
@@ -15,14 +16,20 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_13_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_13_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_13_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:14:42.343958+00:00`
 - ID：`nar_document_v0d8_13_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_13_1`
+- 正文 ID：`text_v0d8_13`
+- 条目名称：联盟工团安全局
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
+
+
 
 联盟工团安全局是联盟工团内部负责对内安全、对外情报、特殊环境调查、环带条约执行情况监察等工作的部门。
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "破碎君王"
 slug: "sundered-prince"
+source_id: "wpn_claym_0008"
 source_url: "https://warfarin.wiki/cn/weapons/sundered-prince"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:06:38.431715+00:00"
+source_sha256: "d2cf1b43a4d4d9f342136ed3066d1185e2332fc70032d411e775b95a030e1c52"
 ---
-
 
 # 破碎君王
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`sundered-prince`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/sundered-prince)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:06:38.431715+00:00`
 - ID：`wpn_claym_0008`
 - 英文名：Sundered Prince
 - 稀有度：6★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

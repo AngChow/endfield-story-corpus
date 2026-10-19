@@ -2,12 +2,13 @@
 category: "干员"
 title: "汤汤"
 slug: "tangtang"
+source_id: "chr_0027_tangtang"
 source_url: "https://warfarin.wiki/cn/operators/tangtang"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:52:24.214047+00:00"
+source_sha256: "5f83526a1a4fb7c5bab98a81cfbc27a285340bd252b50d1abac64c3af0579125"
 ---
-
 
 # 汤汤
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`tangtang`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/tangtang)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:52:24.214047+00:00`
 - ID：`chr_0027_tangtang`
 - 英文名：Tangtang
 - 稀有度：6★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：汤汤是一名使用手铳的术师干员，可造成寒冷属性的伤害。
 - 属性：寒冷
 - 职业：术师
-- 势力：终末地工业
 - 种族：菲林
 - 势力标签：终末地工业
 - 专长：作战技巧、敏捷
 - 爱好：自然、创意
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：武陵·游商严选
-- 行为偏好：艺术
-- 行为不可用：内向（系统用游戏中不可见）
+- 不喜欢的行为：艺术
+- 不可用的行为：内向（系统用游戏中不可见）
+- 昵称：大厨汤汤
 - CV：中文：静宸；日文：菲鲁兹·蓝；英文：静宸；韩文：金彩璘
 
 ### 标签说明
@@ -286,3 +287,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **汤汤** (`chr_0027_tangtang`, `chr_0027_tangtang_mono_skill_ultimate_01`)：终结技1：看见你了——
 - **汤汤** (`chr_0027_tangtang`, `chr_0027_tangtang_mono_skill_ultimate_02`)：终结技2：这招叫——站住别跑！
 - **汤汤** (`chr_0027_tangtang`, `chr_0027_tangtang_mono_skill_ultimate_03`)：终结技3：随波而逝吧！
+
+## 留影
+
+### 白水鉴心
+
+- 留影 ID：`pic_1_chr_0027_tangtang`
+- 物品 ID：`item_pic_1_chr_0027_tangtang`
+- 作者：Samail
+- 潜能等级：1
+
+![白水鉴心](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0027_tangtang.webp)
+
+获取后，可解锁汤汤的留影"白水鉴心"。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+汤汤的心是水做的，如月下清波，空明流光。
+
+### 折筠
+
+- 留影 ID：`pic_3_chr_0027_tangtang`
+- 物品 ID：`item_pic_3_chr_0027_tangtang`
+- 作者：二值笔战士
+- 潜能等级：3
+
+![折筠](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0027_tangtang.webp)
+
+获取后，可解锁汤汤的留影"折筠"。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+嗅到竹子的清香时，她忽然想起一个寻常的午后，他们编着来年要穿的蓑衣，阳光落在身上。
+
+### 当家令如山
+
+- 留影 ID：`pic_5_chr_0027_tangtang`
+- 物品 ID：`item_pic_5_chr_0027_tangtang`
+- 作者：수줍(Sjoop)
+- 潜能等级：5
+
+![当家令如山](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0027_tangtang.webp)
+
+获取后，可解锁汤汤的留影"当家令如山"。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+“黑面煞，跟上你大当家！总有一天，我要带你一起去世界的尽头！”

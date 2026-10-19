@@ -2,12 +2,13 @@
 category: "武器"
 title: "光荣记忆"
 slug: "glorious-memory"
+source_id: "wpn_sword_0017"
 source_url: "https://warfarin.wiki/cn/weapons/glorious-memory"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:55:25.313579+00:00"
+source_sha256: "d4195de32b313ca7df54b6183d18a97cc94193372e08618a60b8d6048428b66f"
 ---
-
 
 # 光荣记忆
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`glorious-memory`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/glorious-memory)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:55:25.313579+00:00`
 - ID：`wpn_sword_0017`
 - 英文名：Glorious Memory
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

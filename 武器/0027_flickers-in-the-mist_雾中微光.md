@@ -2,12 +2,13 @@
 category: "武器"
 title: "雾中微光"
 slug: "flickers-in-the-mist"
+source_id: "wpn_funnel_0017"
 source_url: "https://warfarin.wiki/cn/weapons/flickers-in-the-mist"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:53:42.415600+00:00"
+source_sha256: "4634de539fc0e3494e34f6d0c30eeda1cc240b2ffb76730232410c5edd257e8c"
 ---
-
 
 # 雾中微光
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`flickers-in-the-mist`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/flickers-in-the-mist)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:53:42.415600+00:00`
 - ID：`wpn_funnel_0017`
 - 英文名：Flickers in the Mist
 - 稀有度：6★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

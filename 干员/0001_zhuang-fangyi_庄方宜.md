@@ -2,12 +2,13 @@
 category: "干员"
 title: "庄方宜"
 slug: "zhuang-fangyi"
+source_id: "chr_0030_zhuangfy"
 source_url: "https://warfarin.wiki/cn/operators/zhuang-fangyi"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:16:10.016027+00:00"
+source_sha256: "e43978068a7c56ad7ce633f1b110bffd0f47c3e19b8be80bfa45eee032688850"
 ---
-
 
 # 庄方宜
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`zhuang-fangyi`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/zhuang-fangyi)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:16:10.016027+00:00`
 - ID：`chr_0030_zhuangfy`
 - 英文名：Zhuang Fangyi
 - 稀有度：6★
@@ -34,9 +35,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 势力标签：宏山科学院
 - 专长：博闻强记、团队管理
 - 爱好：公益、文化
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：武陵·天师府严选
-- 行为偏好：时尚
+- 不喜欢的行为：时尚
+- 昵称：大厨庄方宜
 - CV：中文：秦紫翼；日文：桑岛法子；英文：Molly Zhang；韩文：宋河琳
 
 ### 标签说明
@@ -269,3 +271,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **庄方宜** (`chr_0030_zhuangfy`, `chr_0030_zhuangfy_mono_skill_ultimate_01`)：终结技1：惊霆无声，流电掣雨。
 - **庄方宜** (`chr_0030_zhuangfy`, `chr_0030_zhuangfy_mono_skill_ultimate_02`)：终结技2：雷雨并作，化育万物。
 - **庄方宜** (`chr_0030_zhuangfy`, `chr_0030_zhuangfy_mono_skill_ultimate_03`)：终结技3：青霄碧落，乌云尽扫。
+
+## 留影
+
+### 总相宜
+
+- 留影 ID：`pic_1_chr_0030_zhuangfy`
+- 物品 ID：`item_pic_1_chr_0030_zhuangfy`
+- 作者：Momoku
+- 潜能等级：1
+
+![总相宜](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0030_zhuangfy.webp)
+
+获取后，可解锁庄方宜的留影"总相宜"。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+闲时忙时，醒时梦时，不论何时，武陵都与她同频呼吸，同频作息。
+
+### 雨停的瞬间
+
+- 留影 ID：`pic_3_chr_0030_zhuangfy`
+- 物品 ID：`item_pic_3_chr_0030_zhuangfy`
+- 作者：KU
+- 潜能等级：3
+
+![雨停的瞬间](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0030_zhuangfy.webp)
+
+获取后，可解锁庄方宜的留影"雨停的瞬间"。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+春雨不落，往日不熄。若是时间停在最初相遇的那一刻，又有多好。
+
+### 大局已定
+
+- 留影 ID：`pic_5_chr_0030_zhuangfy`
+- 物品 ID：`item_pic_5_chr_0030_zhuangfy`
+- 作者：LM7
+- 潜能等级：5
+
+![大局已定](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0030_zhuangfy.webp)
+
+获取后，可解锁庄方宜的留影"大局已定"。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+这一局，她要赢。

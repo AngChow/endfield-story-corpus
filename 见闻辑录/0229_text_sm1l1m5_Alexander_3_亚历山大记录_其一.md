@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "亚历山大记录：其一"
 slug: "text_sm1l1m5_Alexander_3"
+source_id: "text_sm1l1m5_Alexander_3"
 source_url: "https://warfarin.wiki/cn/lore/text_sm1l1m5_Alexander_3"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T06:51:49.073998+00:00"
+source_sha256: "7d5b04b727719b1baff39a963d0b1a952b9c0601da84055ec687fcb71129be6b"
 ---
-
 
 # 亚历山大记录：其一
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_sm1l1m5_Alexander_3`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_sm1l1m5_Alexander_3)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T06:51:49.073998+00:00`
 - ID：`text_sm1l1m5_Alexander_3`
-- 类型：亚历山大记录-其一
+- 条目 ID：`nar_sm1l1m5_Alexander_3`
+- 正文 ID：`text_sm1l1m5_Alexander_3`
+- 条目名称：亚历山大记录·其一
+- 类型：电子档案
+- 类型标识：`text`
 
 ## 正文
 

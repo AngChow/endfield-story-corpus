@@ -2,12 +2,13 @@
 category: "干员"
 title: "伊冯"
 slug: "yvonne"
+source_id: "chr_0017_yvonne"
 source_url: "https://warfarin.wiki/cn/operators/yvonne"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:52:33.701800+00:00"
+source_sha256: "56f67ce194071bed61dbb239c246ba9e89fd43b0bcc43cbbf0550cfcd6324bbe"
 ---
-
 
 # 伊冯
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`yvonne`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/yvonne)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:52:33.701800+00:00`
 - ID：`chr_0017_yvonne`
 - 英文名：Yvonne
 - 稀有度：6★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：伊冯是一名使用手铳的术师干员，可造成寒冷属性的伤害。
 - 属性：寒冷
 - 职业：突击
-- 势力：终末地工业
 - 种族：瓦伊凡
 - 势力标签：终末地工业
 - 专长：灵光一闪、团队管理
 - 爱好：时尚、科技
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：运动
-- 行为不可用：内向（系统用游戏中不可见）
+- 不喜欢的行为：运动
+- 不可用的行为：内向（系统用游戏中不可见）
+- 昵称：大厨伊冯
 - CV：中文：侯小菲；日文：雨宫天；英文：Clare Louise Connolly；韩文：吕允美
 
 ### 标签说明
@@ -47,11 +48,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 灵光一闪·设计灵感
 从不缺少天马行空的巧思。别人看来完全不搭边的东西也能被她组合在一起，发挥奇妙的功效。
-
-#### 团队管理
-
-团队管理·效率
-她的机器帮手不会感到疲惫，随着她的心意行动，为她的工作提供效率保障。
 
 #### 时尚
 
@@ -62,6 +58,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 科技·解析超域
 站在整个塔卫二超域研究的最前沿，向前踏出的每一步都是全新的冒险。
+
+#### 团队管理
+
+团队管理·效率
+她的机器帮手不会感到疲惫，随着她的心意行动，为她的工作提供效率保障。
 
 ## 档案
 
@@ -275,3 +276,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **伊冯** (`chr_0017_yvonne`, `chr_0017_yvonne_mono_skill_ultimate_01`)：终结技1：来，一起跳个舞吧！
 - **伊冯** (`chr_0017_yvonne`, `chr_0017_yvonne_mono_skill_ultimate_02`)：终结技2：感受我“超载的热情”吧！
 - **伊冯** (`chr_0017_yvonne`, `chr_0017_yvonne_mono_skill_ultimate_03`)：终结技3：送你一场烟花秀！
+
+## 留影
+
+### 潮流对谈
+
+- 留影 ID：`pic_1_chr_0017_yvonne`
+- 物品 ID：`item_pic_1_chr_0017_yvonne`
+- 作者：モ誰
+- 潜能等级：1
+
+![潮流对谈](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0017_yvonne.webp)
+
+获取后，可解锁伊冯的留影“潮流对谈”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+从繁忙的超域研究中抽身，休息一下，聊聊《MARTHE月刊》跟流光幻变指甲油吧？
+
+### 自拍邀请
+
+- 留影 ID：`pic_3_chr_0017_yvonne`
+- 物品 ID：`item_pic_3_chr_0017_yvonne`
+- 作者：Kago
+- 潜能等级：3
+
+![自拍邀请](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0017_yvonne.webp)
+
+获取后，可解锁伊冯的留影“自拍邀请”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+跟伊冯一起自拍可不需要什么闪光灯，毕竟她就是最耀眼的光源。
+
+### Win-Win!
+
+- 留影 ID：`pic_5_chr_0017_yvonne`
+- 物品 ID：`item_pic_5_chr_0017_yvonne`
+- 作者：u介
+- 潜能等级：5
+
+![Win-Win!](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0017_yvonne.webp)
+
+获取后，可解锁伊冯的留影“Win-Win!”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+亮丽的涂装、轻快的音乐，还有游戏获胜时的笑容……每个开心的时刻，她都记录了下来，与你共享。

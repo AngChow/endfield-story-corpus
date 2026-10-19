@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "业余者的研究"
 slug: "text_map01_research3_3"
+source_id: "text_map01_research3_3"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_3"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T06:35:32.521679+00:00"
+source_sha256: "743d604acdf72ada3adf4832d151a802ac68f7cb4ff870f8d54e2bb4f03cb2a5"
 ---
-
 
 # 业余者的研究
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map01_research3_3`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_3)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T06:35:32.521679+00:00`
 - ID：`text_map01_research3_3`
-- 类型：业余者的研究<br>
+- 条目 ID：`nar_paper_map01_research3_4_1`
+- 正文 ID：`text_map01_research3_3`
+- 条目名称：业余者的研究
+- 类型：纸质记录
+- 类型标识：`text`
 
 ## 正文
 

@@ -2,12 +2,13 @@
 category: "干员"
 title: "秋栗"
 slug: "akekuri"
+source_id: "chr_0019_karin"
 source_url: "https://warfarin.wiki/cn/operators/akekuri"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:39:21.914466+00:00"
+source_sha256: "b4cf37586fa76e8cfe09a3b43d955181c6d022f0b484d8f3f372e3ba8ec7b95e"
 ---
-
 
 # 秋栗
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`akekuri`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/akekuri)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:39:21.914466+00:00`
 - ID：`chr_0019_karin`
 - 英文名：Akekuri
 - 稀有度：4★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：秋栗是一名使用单手剑的先锋干员，可造成灼热属性的伤害。
 - 属性：灼热
 - 职业：先锋
-- 势力：终末地工业
 - 种族：佩洛
 - 势力标签：终末地工业
 - 专长：团队管理、烹饪
 - 爱好：公益、运动
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：艺术
+- 不喜欢的行为：艺术
+- 昵称：大厨秋栗
 - CV：中文：萧清源；日文：长月葵；英文：Shu Uchida；韩文：金怡侒
 
 ### 标签说明
@@ -46,6 +47,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 烹饪·茶歇时间
 热饮和甜点可以有效地缓解疲劳，消弭冲突，增进了解，提高会议效率。
+
+#### 运动
+
+运动·综合体能训练
+时尚、艺术、文学……她放下了这些曾经感兴趣的东西，把闲暇时间更多地花在了锻炼上。
 
 #### 团队管理
 
@@ -56,11 +62,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 公益·日行一善
 她想到自己做的每一步都能让终末地的理想也迈进一小步，就感到由衷的开心。
-
-#### 运动
-
-运动·综合体能训练
-时尚、艺术、文学……她放下了这些曾经感兴趣的东西，把闲暇时间更多地花在了锻炼上。
 
 ## 档案
 
@@ -275,3 +276,44 @@ P.S. 虽然年度考核中，Z7行动组的正面战斗力评级依然为普通�
 - **秋栗** (`chr_0019_karin`, `chr_0019_karin_mono_skill_ultimate_01`)：终结技1：看我的信号！
 - **秋栗** (`chr_0019_karin`, `chr_0019_karin_mono_skill_ultimate_02`)：终结技2：焰火表演开始！
 - **秋栗** (`chr_0019_karin`, `chr_0019_karin_mono_skill_ultimate_03`)：终结技3：决胜行动方案——
+
+## 留影
+
+### 前来报到
+
+- 留影 ID：`pic_1_chr_0019_karin`
+- 物品 ID：`item_pic_1_chr_0019_karin`
+- 作者：八口力
+- 潜能等级：1
+
+![前来报到](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0019_karin.webp)
+
+获取后，可解锁秋栗的留影“前来报到”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+是理想，是期待，是奔腾的热忱——以笑容宣告，她前来报到。
+
+### 年轻的理想
+
+- 留影 ID：`pic_3_chr_0019_karin`
+- 物品 ID：`item_pic_3_chr_0019_karin`
+- 作者：BBokyo
+- 潜能等级：3
+
+![年轻的理想](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0019_karin.webp)
+
+获取后，可解锁秋栗的留影“年轻的理想”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+用行动照亮身边的人，再把这份光延伸到更远的地方。
+
+### 明日新星
+
+- 留影 ID：`pic_5_chr_0019_karin`
+- 物品 ID：`item_pic_5_chr_0019_karin`
+- 作者：Kaneni
+- 潜能等级：5
+
+![明日新星](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0019_karin.webp)
+
+获取后，可解锁秋栗的留影“明日新星”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她微笑着，像破晓时的风，带着未曾言说的希望，蕴藏着静默的勇气。

@@ -2,12 +2,13 @@
 category: "干员"
 title: "大潘"
 slug: "da-pan"
+source_id: "chr_0018_dapan"
 source_url: "https://warfarin.wiki/cn/operators/da-pan"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:44:21.729526+00:00"
+source_sha256: "b8a9633d21224ffea204f8bd02ae229656b64308ed354e7ea03832a76497a22c"
 ---
-
 
 # 大潘
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`da-pan`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/da-pan)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:44:21.729526+00:00`
 - ID：`chr_0018_dapan`
 - 英文名：Da Pan
 - 稀有度：5★
@@ -34,9 +35,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 势力标签：宏山科学院
 - 专长：烹饪、工具制造
 - 爱好：生活、公益
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：武陵·跑者严选
-- 行为偏好：时尚
+- 不喜欢的行为：时尚
+- 昵称：大厨大潘
 - CV：中文：苏翼；日文：小山力也；英文：许棕哲；韩文：黄椙暎
 
 ### 标签说明
@@ -45,6 +47,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 烹饪·火候
 煎蒸炸炒焖，灶上手法一通百通，但想要百般滋味皆相宜，他也从不吝啬自己的诀窍——“火候”。
+
+#### 生活
+
+生活·善烹美食
+大潘喜欢研究新菜式，而比那更令他开心的，是食客发自内心的一句“好吃”。
 
 #### 工具制造
 
@@ -55,11 +62,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 公益·走南闯北
 既是游商，又是司机、向导、装修师傅，还能保证大家不饿肚子。他要是闲下来，心里就直挠痒。
-
-#### 生活
-
-生活·善烹美食
-大潘喜欢研究新菜式，而比那更令他开心的，是食客发自内心的一句“好吃”。
 
 ## 档案
 
@@ -261,3 +263,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **大潘** (`chr_0018_dapan`, `chr_0018_dapan_mono_skill_ultimate_01`)：终结技1：猛火快炒！
 - **大潘** (`chr_0018_dapan`, `chr_0018_dapan_mono_skill_ultimate_02`)：终结技2：尝尝我的手艺！
 - **大潘** (`chr_0018_dapan`, `chr_0018_dapan_mono_skill_ultimate_03`)：终结技3：让你挑食！
+
+## 留影
+
+### 旅行伊始
+
+- 留影 ID：`pic_1_chr_0018_dapan`
+- 物品 ID：`item_pic_1_chr_0018_dapan`
+- 作者：Rin9
+- 潜能等级：1
+
+![旅行伊始](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0018_dapan.webp)
+
+获取后，可解锁大潘的留影“旅行伊始”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+轻装上阵，引擎轰鸣。他跟他的铁锅，准备出发。
+
+### 宴坐空山
+
+- 留影 ID：`pic_3_chr_0018_dapan`
+- 物品 ID：`item_pic_3_chr_0018_dapan`
+- 作者：E_Volution_
+- 潜能等级：3
+
+![宴坐空山](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0018_dapan.webp)
+
+获取后，可解锁大潘的留影“宴坐空山”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+何人无事，伴三五羽兽，宴坐空山。
+
+### 人间百味
+
+- 留影 ID：`pic_5_chr_0018_dapan`
+- 物品 ID：`item_pic_5_chr_0018_dapan`
+- 作者：黑犬
+- 潜能等级：5
+
+![人间百味](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0018_dapan.webp)
+
+获取后，可解锁大潘的留影“人间百味”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+生活不像做菜，能把料备全再下锅。但所见、所感，都能拿来做食材，翻炒出人间百味。

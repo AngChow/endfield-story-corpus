@@ -2,12 +2,13 @@
 category: "干员"
 title: "艾尔黛拉"
 slug: "ardelia"
+source_id: "chr_0025_ardelia"
 source_url: "https://warfarin.wiki/cn/operators/ardelia"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:42:51.080022+00:00"
+source_sha256: "224b5fdf5cba6deed652bb67c1c5ea9c8bc3268b2e135243162198254f772f74"
 ---
-
 
 # 艾尔黛拉
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`ardelia`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/ardelia)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:42:51.080022+00:00`
 - ID：`chr_0025_ardelia`
 - 英文名：Ardelia
 - 稀有度：6★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：艾尔黛拉是一名使用施术单元的辅助干员，可造成自然属性的伤害。
 - 属性：自然
 - 职业：辅助
-- 势力：罗德岛
 - 种族：卡普里尼
 - 势力标签：罗德岛
 - 专长：自然学识、冒险
 - 爱好：生活、自然
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：文化
+- 不喜欢的行为：文化
+- 昵称：大厨艾尔黛拉
 - CV：中文：降温；日文：金元寿子；英文：Lindsay Sheppard；韩文：金贺娄
 
 ### 标签说明
@@ -52,15 +53,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 自然学识·地质勘探
 垂下一支铅锤，指向大地的心脏。
 
-#### 生活
-
-生活·糕点烘焙
-搅拌黄油和巧克力，试着做一个大号的熔岩蛋糕。“别急嘛，每个人都有份。”
-
 #### 自然
 
 自然·亲近大自然
 雨水冲刷大地的声音，那是世界更新时的话语。 等到明天，一切都会变成新的模样。
+
+#### 生活
+
+生活·糕点烘焙
+搅拌黄油和巧克力，试着做一个大号的熔岩蛋糕。“别急嘛，每个人都有份。”
 
 ## 档案
 
@@ -266,3 +267,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **艾尔黛拉** (`chr_0025_ardelia`, `chr_0025_ardelia_mono_skill_ultimate_01`)：终结技1：多利先生，帮帮忙吧！
 - **艾尔黛拉** (`chr_0025_ardelia`, `chr_0025_ardelia_mono_skill_ultimate_02`)：终结技2：多利先生，别跑太远。
 - **艾尔黛拉** (`chr_0025_ardelia`, `chr_0025_ardelia_mono_skill_ultimate_03`)：终结技3：多利先生，下手轻一些。
+
+## 留影
+
+### 游戏开始
+
+- 留影 ID：`pic_1_chr_0025_ardelia`
+- 物品 ID：`item_pic_1_chr_0025_ardelia`
+- 作者：温泉瓜
+- 潜能等级：1
+
+![游戏开始](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0025_ardelia.webp)
+
+获取后，可解锁艾尔黛拉的留影“游戏开始”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+“多利先生也邀请您了，我们一起加入游戏吧！”
+
+### 无边遐思
+
+- 留影 ID：`pic_3_chr_0025_ardelia`
+- 物品 ID：`item_pic_3_chr_0025_ardelia`
+- 作者：宇木敦哉
+- 潜能等级：3
+
+![无边遐思](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0025_ardelia.webp)
+
+获取后，可解锁艾尔黛拉的留影“无边遐思”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+躺在软绵绵的粉色云朵上，会胡思乱想些什么呢？千奇百怪的石头，不曾到过的地方，还是……
+
+### 心愿
+
+- 留影 ID：`pic_5_chr_0025_ardelia`
+- 物品 ID：`item_pic_5_chr_0025_ardelia`
+- 作者：Eteru
+- 潜能等级：5
+
+![心愿](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0025_ardelia.webp)
+
+获取后，可解锁艾尔黛拉的留影“心愿”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+冰冷坚硬的岩石上开满了花朵，荒漠充满生机和暖意，悠扬的旋律在耳边哼唱……前辈，这不是梦，对吧？

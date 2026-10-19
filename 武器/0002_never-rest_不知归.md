@@ -2,12 +2,13 @@
 category: "武器"
 title: "不知归"
 slug: "never-rest"
+source_id: "wpn_sword_0016"
 source_url: "https://warfarin.wiki/cn/weapons/never-rest"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:57:25.205596+00:00"
+source_sha256: "07b71b6c8d3e03e31eb2eeb44a1de036e4f3019471c49ab2b0c904922cfd3b96"
 ---
-
 
 # 不知归
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`never-rest`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/never-rest)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:57:25.205596+00:00`
 - ID：`wpn_sword_0016`
 - 英文名：Never Rest
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

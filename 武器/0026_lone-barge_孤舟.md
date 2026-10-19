@@ -2,12 +2,13 @@
 category: "武器"
 title: "孤舟"
 slug: "lone-barge"
+source_id: "wpn_funnel_0015"
 source_url: "https://warfarin.wiki/cn/weapons/lone-barge"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:57:08.250012+00:00"
+source_sha256: "ea78b59d71d1b6c1c2be027719a3b7dc61acd0d284817c469b21f3549f6f5f3d"
 ---
-
 
 # 孤舟
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`lone-barge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/lone-barge)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:57:08.250012+00:00`
 - ID：`wpn_funnel_0015`
 - 英文名：Lone Barge
 - 稀有度：6★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

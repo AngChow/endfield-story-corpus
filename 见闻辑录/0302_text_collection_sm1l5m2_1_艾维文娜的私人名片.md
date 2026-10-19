@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "艾维文娜的私人名片"
 slug: "text_collection_sm1l5m2_1"
+source_id: "text_collection_sm1l5m2_1"
 source_url: "https://warfarin.wiki/cn/lore/text_collection_sm1l5m2_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T06:15:32.374823+00:00"
+source_sha256: "600ad32c2e0300f7501185f1da3d701f758f6cdec1a6a91d1ee6480b6c3a67e7"
 ---
-
 
 # 艾维文娜的私人名片
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_collection_sm1l5m2_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_collection_sm1l5m2_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T06:15:32.374823+00:00`
 - ID：`text_collection_sm1l5m2_1`
-- 类型：艾维文娜的私人名片
+- 条目 ID：`nar_sm1l5m2_1`
+- 正文 ID：`text_collection_sm1l5m2_1`
+- 条目名称：艾维文娜的私人名片
+- 类型：藏品
+- 类型标识：`text`
 
 ## 正文
 

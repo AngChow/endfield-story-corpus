@@ -2,12 +2,13 @@
 category: "干员"
 title: "安塔尔"
 slug: "antal"
+source_id: "chr_0023_antal"
 source_url: "https://warfarin.wiki/cn/operators/antal"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:40:39.918489+00:00"
+source_sha256: "c2633bff16b89b759b6d9e47caee0c6af1fd2e20dcccc27db3030270c1bf43a2"
 ---
-
 
 # 安塔尔
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`antal`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/antal)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:40:39.918489+00:00`
 - ID：`chr_0023_antal`
 - 英文名：Antal
 - 稀有度：4★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：安塔尔是一名使用施术单元的辅助干员，可造成电磁属性的伤害。
 - 属性：电磁
 - 职业：辅助
-- 势力：终末地工业
 - 种族：萨弗拉
 - 势力标签：终末地工业
 - 专长：工具制造、局势分析
 - 爱好：益智、创意
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：文化
+- 不喜欢的行为：文化
+- 昵称：大厨安塔尔
 - CV：中文：刘雨轩；日文：武内骏辅；英文：Jacob Craner；韩文：李奎昌
 
 ### 标签说明
@@ -46,6 +47,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 局势分析·谜题拆解
 除了报纸上的脑筋急转弯，很少有什么谜题难得倒他。
+
+#### 益智
+
+益智·游戏性评估
+他从不在乎游戏的胜负，却总是赢的那个。
 
 #### 工具制造
 
@@ -56,11 +62,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 创意·幽默感特训
 他坚信只要不断练习，总有一天能成为一名优秀的冷笑话大师。
-
-#### 益智
-
-益智·游戏性评估
-他从不在乎游戏的胜负，却总是赢的那个。
 
 ## 档案
 
@@ -228,3 +229,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **安塔尔** (`chr_0023_antal`, `chr_0023_antal_mono_skill_ultimate_01`)：终结技1：去吧，制胜关键。
 - **安塔尔** (`chr_0023_antal`, `chr_0023_antal_mono_skill_ultimate_02`)：终结技2：增幅回路，启动。
 - **安塔尔** (`chr_0023_antal`, `chr_0023_antal_mono_skill_ultimate_03`)：终结技3：动力运行。
+
+## 留影
+
+### 志趣
+
+- 留影 ID：`pic_1_chr_0023_antal`
+- 物品 ID：`item_pic_1_chr_0023_antal`
+- 作者：REM
+- 潜能等级：1
+
+![志趣](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0023_antal.webp)
+
+获取后，可解锁安塔尔的留影“志趣”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+于他而言，源石技艺的奥秘是世间万物里最值得探寻一生的事物。
+
+### 潜心
+
+- 留影 ID：`pic_3_chr_0023_antal`
+- 物品 ID：`item_pic_3_chr_0023_antal`
+- 作者：黑犬
+- 潜能等级：3
+
+![潜心](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0023_antal.webp)
+
+获取后，可解锁安塔尔的留影“潜心”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+“别打扰他，他正在进行第一百一十五次用源石技艺将火焰压缩成尘埃的试验。”
+
+### 造极
+
+- 留影 ID：`pic_5_chr_0023_antal`
+- 物品 ID：`item_pic_5_chr_0023_antal`
+- 作者：言犬
+- 潜能等级：5
+
+![造极](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0023_antal.webp)
+
+获取后，可解锁安塔尔的留影“造极”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+他学习，他领悟，他正在无尽的求索中迈向那唯一的解答。

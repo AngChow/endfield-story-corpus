@@ -2,12 +2,13 @@
 category: "武器"
 title: "悼亡诗"
 slug: "stanza-of-memorials"
+source_id: "wpn_funnel_0005"
 source_url: "https://warfarin.wiki/cn/weapons/stanza-of-memorials"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:06:33.149194+00:00"
+source_sha256: "556e717ecbf9b983bb96dff48a3fa941cc6736089f4687ce499cba398a48ac4f"
 ---
-
 
 # 悼亡诗
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`stanza-of-memorials`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/stanza-of-memorials)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:06:33.149194+00:00`
 - ID：`wpn_funnel_0005`
 - 英文名：Stanza of Memorials
 - 稀有度：5★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

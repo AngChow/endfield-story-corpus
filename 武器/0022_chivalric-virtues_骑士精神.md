@@ -2,12 +2,13 @@
 category: "武器"
 title: "骑士精神"
 slug: "chivalric-virtues"
+source_id: "wpn_funnel_0010"
 source_url: "https://warfarin.wiki/cn/weapons/chivalric-virtues"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T04:49:53.226586+00:00"
+source_sha256: "3c7718316434d1732cf6b9d2adcc1c6e047743ca8538e31366c53dedd237ae3c"
 ---
-
 
 # 骑士精神
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`chivalric-virtues`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/chivalric-virtues)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T04:49:53.226586+00:00`
 - ID：`wpn_funnel_0010`
 - 英文名：Chivalric Virtues
 - 稀有度：6★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

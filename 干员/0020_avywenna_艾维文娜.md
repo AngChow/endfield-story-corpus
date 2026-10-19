@@ -2,12 +2,13 @@
 category: "干员"
 title: "艾维文娜"
 slug: "avywenna"
+source_id: "chr_0012_avywen"
 source_url: "https://warfarin.wiki/cn/operators/avywenna"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:42:54.438110+00:00"
+source_sha256: "8285628d651d6a2fca762004a2caf17fe97e9101b93847d1d9c628fe06205b40"
 ---
-
 
 # 艾维文娜
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`avywenna`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/avywenna)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:42:54.438110+00:00`
 - ID：`chr_0012_avywen`
 - 英文名：Avywenna
 - 稀有度：5★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：艾维文娜是一名使用长柄武器的突击干员，可造成电磁属性的伤害。
 - 属性：电磁
 - 职业：突击
-- 势力：环塔商会
 - 种族：卡特斯
 - 势力标签：环塔商会
 - 专长：市井交涉、敏捷
 - 爱好：生活、时尚
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：益智
-- 行为不可用：内向（系统用游戏中不可见）
+- 不喜欢的行为：益智
+- 不可用的行为：内向（系统用游戏中不可见）
+- 昵称：大厨艾维文娜
 - CV：中文：蔡娜；日文：喜多村英梨；英文：Sheena May；韩文：姜恩爱
 
 ### 标签说明
@@ -47,6 +48,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 敏捷·武力
 可不要小觑她的身手，灵活躲闪的同时，她随时准备好一记迅如闪电的冲锋。
+
+#### 生活
+
+生活·人生中转站
+很少有人知道，她喜欢把每个家都布置得舒舒服服，也很少有人知道她到底有多少个家。
 
 #### 市井交涉
 
@@ -57,11 +63,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 时尚·珠宝大采购
 比起炫耀那些珠光宝气，购买本身才真正令她满足。毕竟这场旅行，她可不想再亏待自己。
-
-#### 生活
-
-生活·人生中转站
-很少有人知道，她喜欢把每个家都布置得舒舒服服，也很少有人知道她到底有多少个家。
 
 ## 档案
 
@@ -257,3 +258,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **艾维文娜** (`chr_0012_avywen`, `chr_0012_avywen_mono_skill_ultimate_01`)：终结技1：我可不算温柔！
 - **艾维文娜** (`chr_0012_avywen`, `chr_0012_avywen_mono_skill_ultimate_02`)：终结技2：这是一条噩耗！
 - **艾维文娜** (`chr_0012_avywen`, `chr_0012_avywen_mono_skill_ultimate_03`)：终结技3：掣击，决颤！
+
+## 留影
+
+### 找到你咯
+
+- 留影 ID：`pic_1_chr_0012_avywen`
+- 物品 ID：`item_pic_1_chr_0012_avywen`
+- 作者：se_eeeee
+- 潜能等级：1
+
+![找到你咯](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0012_avywen.webp)
+
+获取后，可解锁艾维文娜的留影“找到你咯”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她一直独自旅行，直到遇见了你。
+
+### 在想我么？
+
+- 留影 ID：`pic_3_chr_0012_avywen`
+- 物品 ID：`item_pic_3_chr_0012_avywen`
+- 作者：umo_yszx
+- 潜能等级：3
+
+![在想我么？](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0012_avywen.webp)
+
+获取后，可解锁艾维文娜的留影“在想我么？”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她收集了许多人的思念与回忆，但很少和别人提起自己的那份。
+
+### 未知邀约
+
+- 留影 ID：`pic_5_chr_0012_avywen`
+- 物品 ID：`item_pic_5_chr_0012_avywen`
+- 作者：LM7
+- 潜能等级：5
+
+![未知邀约](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0012_avywen.webp)
+
+获取后，可解锁艾维文娜的留影“未知邀约”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+面对未知的旅程，信使毫不犹豫地向你发起邀约。

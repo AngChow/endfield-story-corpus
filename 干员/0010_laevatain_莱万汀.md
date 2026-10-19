@@ -2,12 +2,13 @@
 category: "干员"
 title: "莱万汀"
 slug: "laevatain"
+source_id: "chr_0016_laevat"
 source_url: "https://warfarin.wiki/cn/operators/laevatain"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-10-15"
+fetched_at: "2026-10-19T05:45:35.068574+00:00"
+source_sha256: "5cf63fc586cf168de96ea1d599ec1db5cc38362e9fc4ea8c0774b91ececc093f"
 ---
-
 
 # 莱万汀
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`laevatain`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/laevatain)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-10-15`
+- 采集时间：`2026-10-19T05:45:35.068574+00:00`
 - ID：`chr_0016_laevat`
 - 英文名：Laevatain
 - 稀有度：6★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：莱万汀是一名使用单手剑的突击干员，可造成灼热属性的伤害。
 - 属性：灼热
 - 职业：突击
-- 势力：罗德岛
 - 种族：萨卡兹
 - 势力标签：罗德岛
 - 专长：源石技艺、局势分析
 - 爱好：创意、生活
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：科技
+- 不喜欢的行为：科技
+- 昵称：大厨莱万汀
 - CV：中文：阎么么；日文：堀江由衣；英文：Kira Buckland；韩文：金愈琳
 
 ### 标签说明
@@ -301,3 +302,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **莱万汀** (`chr_0016_laevat`, `chr_0016_laevat_mono_skill_ultimate_01`)：终结技1：火焰，照亮黄昏！
 - **莱万汀** (`chr_0016_laevat`, `chr_0016_laevat_mono_skill_ultimate_02`)：终结技2：焚烧黑暗！
 - **莱万汀** (`chr_0016_laevat`, `chr_0016_laevat_mono_skill_ultimate_03`)：终结技3：你的末日到了！
+
+## 留影
+
+### 火与剑
+
+- 留影 ID：`pic_1_chr_0016_laevat`
+- 物品 ID：`item_pic_1_chr_0016_laevat`
+- 作者：Ask
+- 潜能等级：1
+
+![火与剑](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0016_laevat.webp)
+
+获取后，可解锁莱万汀的留影“火与剑”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+火焰吞没了她的过去，但一个许诺，让她决意为未来而挥剑。
+
+### 1538°C
+
+- 留影 ID：`pic_3_chr_0016_laevat`
+- 物品 ID：`item_pic_3_chr_0016_laevat`
+- 作者：嘴広コウ
+- 潜能等级：3
+
+![1538°C](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0016_laevat.webp)
+
+获取后，可解锁莱万汀的留影“1538°C”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+1538°C是铁的熔点，而不是她的。当你做好了准备，就靠近一点吧。
+
+### 熔火之邀
+
+- 留影 ID：`pic_5_chr_0016_laevat`
+- 物品 ID：`item_pic_5_chr_0016_laevat`
+- 作者：min
+- 潜能等级：5
+
+![熔火之邀](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0016_laevat.webp)
+
+获取后，可解锁莱万汀的留影“熔火之邀”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+陪她走进无忆的长夜，陪她焚尽黑暗的梦魇，陪她点燃映照前路的火焰。
