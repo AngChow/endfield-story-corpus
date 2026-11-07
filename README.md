@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Source](https://img.shields.io/badge/Source-Warfarin%20Wiki-blue.svg)](https://warfarin.wiki/cn)
 
-《明日方舟：终末地》简体中文剧情文本的本地化资料库，从 [Warfarin Wiki](https://warfarin.wiki/cn) 采集整理。共收录 **1,498 篇剧情原文**，覆盖任务剧本、Baker 会话、干员档案、武器描述、中枢档案、见闻辑录六大类内容；另有 7 篇世界观分析和 6 篇根目录说明/计划文档，合计 **1,511 篇** Markdown。
+《明日方舟：终末地》简体中文剧情文本的本地化资料库，从 [Warfarin Wiki](https://warfarin.wiki/cn) 采集整理。共收录 **1,498 篇剧情原文**，覆盖任务剧本、Baker 会话、干员档案、武器描述、中枢档案、见闻辑录六大类内容；另有 7 篇世界观分析和 4 篇根目录说明文档，合计 **1,509 篇** Markdown。
 
 > 本库同时是一个 [Codex](https://github.com/openai/codex) Skill--安装后，CodeX 会在你讨论终末地相关剧情时自动调用本库检索。所有文本来源于 Warfarin Wiki，版权归原作者及鹰角网络所有。
 
