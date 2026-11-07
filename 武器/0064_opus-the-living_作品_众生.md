@@ -5,9 +5,9 @@ slug: "opus-the-living"
 source_id: "wpn_pistol_0006"
 source_url: "https://warfarin.wiki/cn/weapons/opus-the-living"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:59:02.411405+00:00"
-source_sha256: "b44756165ae7bd06529ec0e20a4acc78efb94823aebecc92303a7dc93a51e808"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:29.297272+00:00"
+source_sha256: "b50dbe449b4d5f65cee37e6242601efb0839f7f0e8e23a611993ade1eb27501a"
 ---
 
 # 作品：众生
@@ -18,8 +18,8 @@ source_sha256: "b44756165ae7bd06529ec0e20a4acc78efb94823aebecc92303a7dc93a51e808
 - Slug：`opus-the-living`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/opus-the-living)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:59:02.411405+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:29.297272+00:00`
 - ID：`wpn_pistol_0006`
 - 英文名：Opus: The Living
 - 稀有度：5★

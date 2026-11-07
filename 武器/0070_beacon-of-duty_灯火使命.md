@@ -5,9 +5,9 @@ slug: "beacon-of-duty"
 source_id: "wpn_lance_0007"
 source_url: "https://warfarin.wiki/cn/weapons/beacon-of-duty"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:46:11.100794+00:00"
-source_sha256: "7b9be82f63368651e3753119dad0f2742159aacff720c69c0efb254f811c9329"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:19.049162+00:00"
+source_sha256: "41186b37fcc9a553eec3a15afe2a67060651561751ae49477b3eef9067cbb066"
 ---
 
 # 灯火使命
@@ -18,8 +18,8 @@ source_sha256: "7b9be82f63368651e3753119dad0f2742159aacff720c69c0efb254f811c9329
 - Slug：`beacon-of-duty`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/beacon-of-duty)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:46:11.100794+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:19.049162+00:00`
 - ID：`wpn_lance_0007`
 - 英文名：Beacon of Duty
 - 稀有度：6★

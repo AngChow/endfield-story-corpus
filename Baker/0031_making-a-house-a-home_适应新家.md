@@ -5,9 +5,9 @@ slug: "making-a-house-a-home"
 source_id: "topic_chr_0016_laevat_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0016_laevat_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:25.690833+00:00"
-source_sha256: "f12d1fac814a4c48d6fe9974f6c4620c3ff1471fa0e8f052f9e3d8368e8844b1"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:34.585068+00:00"
+source_sha256: "18d3c600d396754f3ac98e4204088e666c1dde9d9e152436e7f334534d8d27fb"
 ---
 
 # 适应新家
@@ -18,8 +18,8 @@ source_sha256: "f12d1fac814a4c48d6fe9974f6c4620c3ff1471fa0e8f052f9e3d8368e8844b1
 - Slug：`making-a-house-a-home`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0016_laevat_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:25.690833+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:34.585068+00:00`
 - ID：`topic_chr_0016_laevat_1`
 - 包含会话：`sns_topic_chr_0016_laevat_1`
 

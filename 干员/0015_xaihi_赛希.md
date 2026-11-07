@@ -5,9 +5,9 @@ slug: "xaihi"
 source_id: "chr_0011_seraph"
 source_url: "https://warfarin.wiki/cn/operators/xaihi"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:31.499435+00:00"
-source_sha256: "7e0da40b58a719c34f4c158bd69556183cddb8e1ac6dcf9884af6e38a8ecb7f3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:06.081895+00:00"
+source_sha256: "93e8c335950c148b14d72de79614e61fdf4ef264e4eb8696c9cc082ea4e4e26d"
 ---
 
 # 赛希
@@ -18,8 +18,8 @@ source_sha256: "7e0da40b58a719c34f4c158bd69556183cddb8e1ac6dcf9884af6e38a8ecb7f3
 - Slug：`xaihi`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/xaihi)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:31.499435+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:06.081895+00:00`
 - ID：`chr_0011_seraph`
 - 英文名：Xaihi
 - 稀有度：5★

@@ -5,9 +5,9 @@ slug: "aspirant"
 source_id: "wpn_sword_0015"
 source_url: "https://warfarin.wiki/cn/weapons/aspirant"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:42:27.388128+00:00"
-source_sha256: "7dcd6160726a784484f693555db25ebdf23514fb1806ffbd433e436bb8a0389f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:08.335381+00:00"
+source_sha256: "efeacef0c3396be3956b0ee84ff042624bc309d19dae57ca5b4f354a8be2c3f6"
 ---
 
 # 仰止
@@ -18,8 +18,8 @@ source_sha256: "7dcd6160726a784484f693555db25ebdf23514fb1806ffbd433e436bb8a0389f
 - Slug：`aspirant`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/aspirant)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:42:27.388128+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:08.335381+00:00`
 - ID：`wpn_sword_0015`
 - 英文名：Aspirant
 - 稀有度：5★

@@ -5,9 +5,9 @@ slug: "the-unsolicited-report"
 source_id: "topic_chr_0029_pograni_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0029_pograni_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:15.856469+00:00"
-source_sha256: "a5453986ff81eddc56ca2f92aa1f1386f330d2635f1a9b6f9ead03f725e596fb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:43.833453+00:00"
+source_sha256: "bb949ff1306683383129f083d82a8da8ec33ffc9ebfbc44466571e2e66decb1a"
 ---
 
 # 要求外的报告
@@ -18,8 +18,8 @@ source_sha256: "a5453986ff81eddc56ca2f92aa1f1386f330d2635f1a9b6f9ead03f725e596fb
 - Slug：`the-unsolicited-report`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0029_pograni_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:15.856469+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:43.833453+00:00`
 - ID：`topic_chr_0029_pograni_1`
 - 包含会话：`sns_topic_chr_0029_pograni_1`
 

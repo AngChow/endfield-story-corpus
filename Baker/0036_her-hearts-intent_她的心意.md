@@ -5,9 +5,9 @@ slug: "her-hearts-intent"
 source_id: "topic_chr_0017_yvonne_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0017_yvonne_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:37.098877+00:00"
-source_sha256: "a91f2cf2611fcb498a06d5bc65df1d425bbf2cd748a420fe2f787a843ad5919c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:53.732824+00:00"
+source_sha256: "5a998b10a8597dfac6b9cf8e012c968b1f7ac4f976080efde8479759912a70bf"
 ---
 
 # 她的心意
@@ -18,8 +18,8 @@ source_sha256: "a91f2cf2611fcb498a06d5bc65df1d425bbf2cd748a420fe2f787a843ad5919c
 - Slug：`her-hearts-intent`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0017_yvonne_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:37.098877+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:53.732824+00:00`
 - ID：`topic_chr_0017_yvonne_3`
 - 包含会话：`sns_topic_chr_0017_yvonne_3`
 

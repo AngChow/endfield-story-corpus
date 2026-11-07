@@ -5,9 +5,9 @@ slug: "wuling-anecdotes"
 source_id: "topic_map02_lv001_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv001_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:18.328222+00:00"
-source_sha256: "9c2adb469bb98f54ba01a9bfc4aa326cd4b5469df6a69c1b555a685ef31e22e9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:51.448894+00:00"
+source_sha256: "c4ecb2056c7493f4dc77bf7cacd2d48120f61d2dabf54d4964177c14adb0c51a"
 ---
 
 # 武陵轶事
@@ -18,8 +18,8 @@ source_sha256: "9c2adb469bb98f54ba01a9bfc4aa326cd4b5469df6a69c1b555a685ef31e22e9
 - Slug：`wuling-anecdotes`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv001_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:18.328222+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:51.448894+00:00`
 - ID：`topic_map02_lv001_2`
 - 包含会话：`sns_topic_map02_lv001_3`、`sns_topic_map02_lv001_4`
 

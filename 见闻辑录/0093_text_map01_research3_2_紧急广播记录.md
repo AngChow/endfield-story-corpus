@@ -5,9 +5,9 @@ slug: "text_map01_research3_2"
 source_id: "text_map01_research3_2"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:35:30.268712+00:00"
-source_sha256: "d891c83020cd7363fddaa29974f8625923c34936a73c0fe3ca11c241075aaff0"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:08.442960+00:00"
+source_sha256: "cc41bdd89e01687b56f6603cc78c2fb4064f94927469f1e559920d2a258a7c3d"
 ---
 
 # 紧急广播记录
@@ -18,8 +18,8 @@ source_sha256: "d891c83020cd7363fddaa29974f8625923c34936a73c0fe3ca11c241075aaff0
 - Slug：`text_map01_research3_2`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:35:30.268712+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:08.442960+00:00`
 - ID：`text_map01_research3_2`
 - 条目 ID：`nar_paper_map01_research3_3_1`
 - 正文 ID：`text_map01_research3_2`

@@ -5,9 +5,9 @@ slug: "text_map01_research3_4"
 source_id: "text_map01_research3_4"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_4"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:35:34.090779+00:00"
-source_sha256: "6b09aea5acbee682297359ce717c9e6ed4599aa151d8750ff37ee6cf4e0f84e1"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:13.810364+00:00"
+source_sha256: "fa9dcd541610a79d90fdc4d8f06b4527d72f487b542e20a2d53602fd5496e261"
 ---
 
 # 四号谷地的天使活动
@@ -18,8 +18,8 @@ source_sha256: "6b09aea5acbee682297359ce717c9e6ed4599aa151d8750ff37ee6cf4e0f84e1
 - Slug：`text_map01_research3_4`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_4)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:35:34.090779+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:13.810364+00:00`
 - ID：`text_map01_research3_4`
 - 条目 ID：`nar_report_map01_research3_5_1`
 - 正文 ID：`text_map01_research3_4`

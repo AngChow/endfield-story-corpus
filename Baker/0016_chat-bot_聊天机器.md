@@ -5,9 +5,9 @@ slug: "chat-bot"
 source_id: "topic_chr_0011_seraph_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0011_seraph_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:04.663469+00:00"
-source_sha256: "d2f26aa6b6518a3cc17cbeb2b3a56207371723868bb306299955c3fb7de24c58"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:48.075459+00:00"
+source_sha256: "82d4e20654c5538adba9a2e1d41f5f899779c1543e99aa94a6db4663c247ccb2"
 ---
 
 # 聊天机器
@@ -18,8 +18,8 @@ source_sha256: "d2f26aa6b6518a3cc17cbeb2b3a56207371723868bb306299955c3fb7de24c58
 - Slug：`chat-bot`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0011_seraph_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:04.663469+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:48.075459+00:00`
 - ID：`topic_chr_0011_seraph_1`
 - 包含会话：`sns_topic_chr_0011_seraph_1`
 

@@ -5,9 +5,9 @@ slug: "phantom-pain"
 source_id: "wpn_claym_0016"
 source_url: "https://warfarin.wiki/cn/weapons/phantom-pain"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:06:22.946079+00:00"
-source_sha256: "5656437e8a26d6a118cc5704405a0562d536e2baaa2928431bf8e7885c4a6223"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:44.393877+00:00"
+source_sha256: "bd1f6c31ec2471a5f2c27ba44820d497f57c1c92e9a0e718e54ac7fbcda342bb"
 ---
 
 # 幻想苦痛
@@ -18,8 +18,8 @@ source_sha256: "5656437e8a26d6a118cc5704405a0562d536e2baaa2928431bf8e7885c4a6223
 - Slug：`phantom-pain`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/phantom-pain)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:06:22.946079+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:44.393877+00:00`
 - ID：`wpn_claym_0016`
 - 英文名：Phantom Pain
 - 稀有度：6★

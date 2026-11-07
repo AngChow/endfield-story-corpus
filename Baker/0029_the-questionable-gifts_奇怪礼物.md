@@ -5,9 +5,9 @@ slug: "the-questionable-gifts"
 source_id: "topic_chr_0015_lifeng_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0015_lifeng_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:22.135481+00:00"
-source_sha256: "5f0e56adc1451077b0cbeea52cf734b3bec95cfb68165eacfc8b9927f392fcae"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:36.051070+00:00"
+source_sha256: "64d10c22de61b778ce83e206519506e3a237e4b9eabdf303d463af4903923292"
 ---
 
 # 奇怪礼物
@@ -18,8 +18,8 @@ source_sha256: "5f0e56adc1451077b0cbeea52cf734b3bec95cfb68165eacfc8b9927f392fcae
 - Slug：`the-questionable-gifts`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0015_lifeng_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:22.135481+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:36.051070+00:00`
 - ID：`topic_chr_0015_lifeng_2`
 - 包含会话：`sns_topic_chr_0015_lifeng_2`
 

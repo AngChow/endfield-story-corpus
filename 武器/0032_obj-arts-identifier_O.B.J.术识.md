@@ -5,9 +5,9 @@ slug: "obj-arts-identifier"
 source_id: "wpn_funnel_0014"
 source_url: "https://warfarin.wiki/cn/weapons/obj-arts-identifier"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:58:44.034181+00:00"
-source_sha256: "e9ec14cc27945ee36ac7a68bd231aad3f4f0024208e45715b9e09060a46076c0"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:51.270285+00:00"
+source_sha256: "678144798aad170a1a82e0ce306c16d290049fdef9557102f563589fadee1e3c"
 ---
 
 # O.B.J.术识
@@ -18,8 +18,8 @@ source_sha256: "e9ec14cc27945ee36ac7a68bd231aad3f4f0024208e45715b9e09060a46076c0
 - Slug：`obj-arts-identifier`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-arts-identifier)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:58:44.034181+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:51.270285+00:00`
 - ID：`wpn_funnel_0014`
 - 英文名：OBJ Arts Identifier
 - 稀有度：5★

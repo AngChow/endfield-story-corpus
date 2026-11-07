@@ -5,9 +5,9 @@ slug: "obj-razorhorn"
 source_id: "wpn_lance_0013"
 source_url: "https://warfarin.wiki/cn/weapons/obj-razorhorn"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:58:49.943466+00:00"
-source_sha256: "578eaa6936d96f507030e1e11f3e144eb6c3d263ef453bd41da7131155f1122d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:01.021683+00:00"
+source_sha256: "aff587456a6cb1eb1e49572416d66e83d4e94bbbc4b2d42b69a9039df6a0abe9"
 ---
 
 # O.B.J.尖峰
@@ -18,8 +18,8 @@ source_sha256: "578eaa6936d96f507030e1e11f3e144eb6c3d263ef453bd41da7131155f1122d
 - Slug：`obj-razorhorn`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-razorhorn)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:58:49.943466+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:01.021683+00:00`
 - ID：`wpn_lance_0013`
 - 英文名：OBJ Razorhorn
 - 稀有度：5★

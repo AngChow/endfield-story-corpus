@@ -5,9 +5,9 @@ slug: "amaranthine-tassel"
 source_id: "wpn_claym_0017"
 source_url: "https://warfarin.wiki/cn/weapons/amaranthine-tassel"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:42:18.667883+00:00"
-source_sha256: "eea44b3a7dfda9812f108bad427ed339fea39fec3bcd6a3417d087021435f95d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:33.913108+00:00"
+source_sha256: "857235d89293f87b381c09a4185d36743293c21b8254cfabb9f93da358e6fd83"
 ---
 
 # 赤缨
@@ -18,8 +18,8 @@ source_sha256: "eea44b3a7dfda9812f108bad427ed339fea39fec3bcd6a3417d087021435f95d
 - Slug：`amaranthine-tassel`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/amaranthine-tassel)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:42:18.667883+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:33.913108+00:00`
 - ID：`wpn_claym_0017`
 - 英文名：Amaranthine Tassel
 - 稀有度：6★

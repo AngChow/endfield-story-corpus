@@ -5,9 +5,9 @@ slug: "ember"
 source_id: "chr_0009_azrila"
 source_url: "https://warfarin.wiki/cn/operators/ember"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:44:24.407743+00:00"
-source_sha256: "fc0b4994e72d16246bbaf4307965f0cd89b3dbac8a1f42d7121667ca9729e122"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:03.559511+00:00"
+source_sha256: "be2af2d7f23dd075be4e6d687af28f040922cf4b84d0262353fbdfae39de7c6e"
 ---
 
 # 余烬
@@ -18,8 +18,8 @@ source_sha256: "fc0b4994e72d16246bbaf4307965f0cd89b3dbac8a1f42d7121667ca9729e122
 - Slug：`ember`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/ember)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:44:24.407743+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:03.559511+00:00`
 - ID：`chr_0009_azrila`
 - 英文名：Ember
 - 稀有度：6★

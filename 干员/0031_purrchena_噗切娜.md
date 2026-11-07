@@ -5,9 +5,9 @@ slug: "purrchena"
 source_id: "chr_0038_purrche"
 source_url: "https://warfarin.wiki/cn/operators/purrchena"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:13.918156+00:00"
-source_sha256: "aba32786fc2f75a01894a4b689dfd852dc8fc258b2514d1692528ca268408a9d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:38.116864+00:00"
+source_sha256: "105b94c207f876ab98d8ada434f9ae5bd07a23d39797d34d26d9507c69904505"
 ---
 
 # 噗切娜
@@ -18,8 +18,8 @@ source_sha256: "aba32786fc2f75a01894a4b689dfd852dc8fc258b2514d1692528ca268408a9d
 - Slug：`purrchena`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/purrchena)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:13.918156+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:38.116864+00:00`
 - ID：`chr_0038_purrche`
 - 英文名：Purrchena
 - 稀有度：5★

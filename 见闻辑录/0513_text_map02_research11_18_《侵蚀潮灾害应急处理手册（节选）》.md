@@ -5,9 +5,9 @@ slug: "text_map02_research11_18"
 source_id: "text_map02_research11_18"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_18"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:53.316252+00:00"
-source_sha256: "e77ce0c7ac448488c4f6a31cb883fcdb834c49e527a51f26fd01712e553d6050"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:36.534804+00:00"
+source_sha256: "17ff62834a3e1475b5ef2d02b5f733e1d57ba2590f042c7f711d8636919113b1"
 ---
 
 # 《侵蚀潮灾害应急处理手册（节选）》
@@ -18,8 +18,8 @@ source_sha256: "e77ce0c7ac448488c4f6a31cb883fcdb834c49e527a51f26fd01712e553d6050
 - Slug：`text_map02_research11_18`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_18)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:53.316252+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:36.534804+00:00`
 - ID：`text_map02_research11_18`
 - 条目 ID：`nar_paper_map02_research11_4_1`
 - 正文 ID：`text_map02_research11_18`

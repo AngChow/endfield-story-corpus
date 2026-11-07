@@ -5,9 +5,9 @@ slug: "power-of-the-aic-factory"
 source_id: "topic_map01_lv002_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv002_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:35.380129+00:00"
-source_sha256: "48cf1c83879e145ed31ee0b826ad856b33c03be6d66a2c38c5cda49c4734763b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:13.951368+00:00"
+source_sha256: "b3bffbcbabf546123c4cf73b5b1dffa20559d23c3249b664a2c724c254a2743c"
 ---
 
 # 集成工业系统的力量
@@ -18,8 +18,8 @@ source_sha256: "48cf1c83879e145ed31ee0b826ad856b33c03be6d66a2c38c5cda49c4734763b
 - Slug：`power-of-the-aic-factory`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv002_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:35.380129+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:13.951368+00:00`
 - ID：`topic_map01_lv002_2`
 - 包含会话：`sns_topic_map01_lv002_3`、`sns_topic_map01_lv002_4`
 

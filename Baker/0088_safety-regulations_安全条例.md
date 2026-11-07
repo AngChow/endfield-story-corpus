@@ -5,9 +5,9 @@ slug: "safety-regulations"
 source_id: "topic_map01_lv007_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv007_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:08.996575+00:00"
-source_sha256: "67e73ce1016e7971e4bc272ae68e5e38c9ed7d5b4c49c82d8eda74b8eee54241"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:40.476656+00:00"
+source_sha256: "ef20f993333db0754f6ce3958bceaffead7f0f58270910bbdc639f6c5002c94f"
 ---
 
 # 安全条例
@@ -18,8 +18,8 @@ source_sha256: "67e73ce1016e7971e4bc272ae68e5e38c9ed7d5b4c49c82d8eda74b8eee54241
 - Slug：`safety-regulations`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv007_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:08.996575+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:40.476656+00:00`
 - ID：`topic_map01_lv007_1`
 - 包含会话：`sns_topic_map01_lv007_1`、`sns_topic_map01_lv007_2`
 

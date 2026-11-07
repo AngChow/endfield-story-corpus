@@ -5,9 +5,9 @@ slug: "zhuang-fangyi"
 source_id: "chr_0030_zhuangfy"
 source_url: "https://warfarin.wiki/cn/operators/zhuang-fangyi"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:16:10.016027+00:00"
-source_sha256: "e43978068a7c56ad7ce633f1b110bffd0f47c3e19b8be80bfa45eee032688850"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:32.360212+00:00"
+source_sha256: "008daa59cfff5c309b1fc3c0b16024e13eb25e77a882fed48f494048634a81f3"
 ---
 
 # 庄方宜
@@ -18,8 +18,8 @@ source_sha256: "e43978068a7c56ad7ce633f1b110bffd0f47c3e19b8be80bfa45eee032688850
 - Slug：`zhuang-fangyi`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/zhuang-fangyi)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:16:10.016027+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:32.360212+00:00`
 - ID：`chr_0030_zhuangfy`
 - 英文名：Zhuang Fangyi
 - 稀有度：6★

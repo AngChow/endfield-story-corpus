@@ -5,9 +5,9 @@ slug: "type-42-solemn-phalanx"
 source_id: "wpn_funnel_0016"
 source_url: "https://warfarin.wiki/cn/weapons/type-42-solemn-phalanx"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:21.933377+00:00"
-source_sha256: "3c665040f61a3871605da698259b37f41a7b2fc36b0d1ec0cf868ff2e0f0b9e3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:51.968897+00:00"
+source_sha256: "f46e57d7c0d40d71b5c166fbfbcd68d3a3dcedccb2e32d4a6f92168f50f4f1ab"
 ---
 
 # 四二式·肃阵
@@ -18,8 +18,8 @@ source_sha256: "3c665040f61a3871605da698259b37f41a7b2fc36b0d1ec0cf868ff2e0f0b9e3
 - Slug：`type-42-solemn-phalanx`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/type-42-solemn-phalanx)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:21.933377+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:51.968897+00:00`
 - ID：`wpn_funnel_0016`
 - 英文名：Type 42: Solemn Phalanx
 - 稀有度：6★

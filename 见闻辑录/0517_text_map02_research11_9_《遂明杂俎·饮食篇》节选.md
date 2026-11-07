@@ -5,9 +5,9 @@ slug: "text_map02_research11_9"
 source_id: "text_map02_research11_9"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_9"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:00.695716+00:00"
-source_sha256: "75209a947a428b3b62612b136855e3009b8342284ce3dfd8073d75b3ddec7c1e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:42.931924+00:00"
+source_sha256: "b2b92c4b704578c28fa847b7541db3b96971cb293feb9ab562d8f618f45b8200"
 ---
 
 # 《遂明杂俎·饮食篇》节选
@@ -18,8 +18,8 @@ source_sha256: "75209a947a428b3b62612b136855e3009b8342284ce3dfd8073d75b3ddec7c1e
 - Slug：`text_map02_research11_9`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_9)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:00.695716+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:42.931924+00:00`
 - ID：`text_map02_research11_9`
 - 条目 ID：`nar_paper_map02_research11_5_1`
 - 正文 ID：`text_map02_research11_9`

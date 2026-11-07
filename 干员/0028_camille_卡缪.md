@@ -5,9 +5,9 @@ slug: "camille"
 source_id: "chr_0033_camille"
 source_url: "https://warfarin.wiki/cn/operators/camille"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:42:56.038767+00:00"
-source_sha256: "8600fd7827752950e85ddf2b6268639e9c158b225cd238a44aefaa903f245999"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:04.571167+00:00"
+source_sha256: "ca831ae8016a60e0381f15a81df8e25f54a0b1884e7496e63a631fdcadd331e4"
 ---
 
 # 卡缪
@@ -18,8 +18,8 @@ source_sha256: "8600fd7827752950e85ddf2b6268639e9c158b225cd238a44aefaa903f245999
 - Slug：`camille`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/camille)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:42:56.038767+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:04.571167+00:00`
 - ID：`chr_0033_camille`
 - 英文名：Camille
 - 稀有度：6★

@@ -5,9 +5,9 @@ slug: "nar_report_map01_research4_1_1"
 source_id: "nar_report_map01_research4_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map01_research4_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:04.769122+00:00"
-source_sha256: "d52afb763e13fbedcf78dc7dfad5025ebf204544fcd10a8ff47a7c6769f86c31"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:48.214790+00:00"
+source_sha256: "d0b67c9fadd8a6a07e2eef7b6e54b34a50732d0e7b05e9ff21c05278427a05f5"
 ---
 
 # 有关旧日梦魇的报告
@@ -18,8 +18,8 @@ source_sha256: "d52afb763e13fbedcf78dc7dfad5025ebf204544fcd10a8ff47a7c6769f86c31
 - Slug：`nar_report_map01_research4_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map01_research4_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:04.769122+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:48.214790+00:00`
 - ID：`nar_report_map01_research4_1_1`
 - 条目 ID：`nar_report_map01_research4_1_1`
 - 正文 ID：`text_map01_research4_1`

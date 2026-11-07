@@ -5,9 +5,9 @@ slug: "the-messengers-woes"
 source_id: "topic_chr_0013_aglina_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0013_aglina_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:08.547281+00:00"
-source_sha256: "de8dd8e0e980989d71f32ae469a518e0c10baa0ac479a9f81bea44d380c7cf5a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:17.145914+00:00"
+source_sha256: "a9320c68fb5d7989cf5f0eb4e7ca3544a16c406ea62caae92d693b0eb5d5c3e2"
 ---
 
 # 信使的烦恼
@@ -18,8 +18,8 @@ source_sha256: "de8dd8e0e980989d71f32ae469a518e0c10baa0ac479a9f81bea44d380c7cf5a
 - Slug：`the-messengers-woes`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0013_aglina_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:08.547281+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:17.145914+00:00`
 - ID：`topic_chr_0013_aglina_2`
 - 包含会话：`sns_topic_chr_0013_aglina_2`
 

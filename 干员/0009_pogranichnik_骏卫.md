@@ -5,9 +5,9 @@ slug: "pogranichnik"
 source_id: "chr_0029_pograni"
 source_url: "https://warfarin.wiki/cn/operators/pogranichnik"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:11.623403+00:00"
-source_sha256: "0c1064dfdf8a2abcfc0b39e5b1d4f2f9a8e551875654b40284d15e7be25e3e79"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:24.058979+00:00"
+source_sha256: "30d717c35a0079693bbd20309927809f27215bd8bb34fa8a096e10b5b2f9fc93"
 ---
 
 # 骏卫
@@ -18,8 +18,8 @@ source_sha256: "0c1064dfdf8a2abcfc0b39e5b1d4f2f9a8e551875654b40284d15e7be25e3e79
 - Slug：`pogranichnik`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/pogranichnik)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:11.623403+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:24.058979+00:00`
 - ID：`chr_0029_pograni`
 - 英文名：Pogranichnik
 - 稀有度：6★

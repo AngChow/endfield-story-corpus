@@ -5,9 +5,9 @@ slug: "opus-etch-figure"
 source_id: "wpn_funnel_0006"
 source_url: "https://warfarin.wiki/cn/weapons/opus-etch-figure"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:58:58.637515+00:00"
-source_sha256: "9299b084a6d81426f1e57e9fa377cc343f735209ad5eaa16edacce7a5c22672b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:24.519231+00:00"
+source_sha256: "6be4fbac2e63dc5dacede523033c9ec3c8bba4ee3d0394681f7db8d06b6a629a"
 ---
 
 # 作品：蚀迹
@@ -18,8 +18,8 @@ source_sha256: "9299b084a6d81426f1e57e9fa377cc343f735209ad5eaa16edacce7a5c22672b
 - Slug：`opus-etch-figure`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/opus-etch-figure)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:58:58.637515+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:24.519231+00:00`
 - ID：`wpn_funnel_0006`
 - 英文名：Opus: Etch Figure
 - 稀有度：6★

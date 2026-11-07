@@ -5,9 +5,9 @@ slug: "newcomer"
 source_id: "topic_map02_lv001_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv001_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:15.152735+00:00"
-source_sha256: "d1a1a0b499d0f0a24e35e90e00be2e9f5d7a0e328fad4cba8b0bfe781d5bd809"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:50.232887+00:00"
+source_sha256: "3282f427cefa1715c8451231eb711a6bcf00ae0d8d1053da7cbc65aa20d93fbd"
 ---
 
 # 初来乍到
@@ -18,8 +18,8 @@ source_sha256: "d1a1a0b499d0f0a24e35e90e00be2e9f5d7a0e328fad4cba8b0bfe781d5bd809
 - Slug：`newcomer`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv001_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:15.152735+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:50.232887+00:00`
 - ID：`topic_map02_lv001_1`
 - 包含会话：`sns_topic_map02_lv001_1`、`sns_topic_map02_lv001_2`
 

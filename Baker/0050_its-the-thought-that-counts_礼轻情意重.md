@@ -5,9 +5,9 @@ slug: "its-the-thought-that-counts"
 source_id: "topic_chr_0022_bounda_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0022_bounda_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:16.301601+00:00"
-source_sha256: "b853e7b5aa4698cdd49c1d6bdaa5e679f9c32c9d3e79d90fa27325a4f6678cfa"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:36.009136+00:00"
+source_sha256: "5d17373eb0c6bf2ecd99d37d2830728c3fabe215975d8bb289421af420d36c8b"
 ---
 
 # 礼轻情意重
@@ -18,8 +18,8 @@ source_sha256: "b853e7b5aa4698cdd49c1d6bdaa5e679f9c32c9d3e79d90fa27325a4f6678cfa
 - Slug：`its-the-thought-that-counts`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0022_bounda_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:16.301601+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:36.009136+00:00`
 - ID：`topic_chr_0022_bounda_2`
 - 包含会话：`sns_topic_chr_0022_bounda_2`
 

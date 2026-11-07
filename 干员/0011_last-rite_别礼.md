@@ -5,9 +5,9 @@ slug: "last-rite"
 source_id: "chr_0026_lastrite"
 source_url: "https://warfarin.wiki/cn/operators/last-rite"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:45:54.020113+00:00"
-source_sha256: "6cee8ba775cac7f7a79b6c8e18ace786b8a3b7f26c9436a1f3df47157072fe08"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:15.746738+00:00"
+source_sha256: "89e064901158842a293520c4d8d7d97767e81e781f416582df2caece5a7ac635"
 ---
 
 # 别礼
@@ -18,8 +18,8 @@ source_sha256: "6cee8ba775cac7f7a79b6c8e18ace786b8a3b7f26c9436a1f3df47157072fe08
 - Slug：`last-rite`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/last-rite)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:45:54.020113+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:15.746738+00:00`
 - ID：`chr_0026_lastrite`
 - 英文名：Last Rite
 - 稀有度：6★

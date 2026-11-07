@@ -5,9 +5,9 @@ slug: "character-study"
 source_id: "topic_chr_0019_karin_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0019_karin_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:45.087141+00:00"
-source_sha256: "7c1d3650a10d2abeab45e6fb61488d2531e5decaa4610fad13290bf3e0c116b9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:05.805589+00:00"
+source_sha256: "1dede8b9d7c53d927059a7370ac6ea8359d60c97b93b4076a7551b69be395c20"
 ---
 
 # 性格观察
@@ -18,8 +18,8 @@ source_sha256: "7c1d3650a10d2abeab45e6fb61488d2531e5decaa4610fad13290bf3e0c116b9
 - Slug：`character-study`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0019_karin_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:45.087141+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:05.805589+00:00`
 - ID：`topic_chr_0019_karin_1`
 - 包含会话：`sns_topic_chr_0019_karin_1`
 

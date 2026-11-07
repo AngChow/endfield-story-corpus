@@ -5,9 +5,9 @@ slug: "text_map02_research11_7"
 source_id: "text_map02_research11_7"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_7"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:59.258199+00:00"
-source_sha256: "a7f614bd47f7beb1ce613fc8fa2dc616875e70e9ec8bc23f18503a9042b3a584"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:43.906473+00:00"
+source_sha256: "fb7c6a708af2ca2ee48c435b6cf52b9771c3e05c52cc3b9755368416155c2db2"
 ---
 
 # 灾害的前兆
@@ -18,8 +18,8 @@ source_sha256: "a7f614bd47f7beb1ce613fc8fa2dc616875e70e9ec8bc23f18503a9042b3a584
 - Slug：`text_map02_research11_7`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_7)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:59.258199+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:43.906473+00:00`
 - ID：`text_map02_research11_7`
 - 条目 ID：`nar_paper_map02_research11_3_1`
 - 正文 ID：`text_map02_research11_7`

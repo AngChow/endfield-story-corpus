@@ -5,9 +5,9 @@ slug: "nar_report_map02_research11_1_1"
 source_id: "nar_report_map02_research11_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research11_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:12.947318+00:00"
-source_sha256: "b9f7527790ca15453b7d7e8f3376244c31e1c3b2e97e6ce20a9f9ef1ceababe5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:08.921318+00:00"
+source_sha256: "8fce6f964dfc97f539548652d8f66a41ea5daeb4ac8b6d2baff380d5261cf8fd"
 ---
 
 # 有关“遂明”的调查报告
@@ -18,8 +18,8 @@ source_sha256: "b9f7527790ca15453b7d7e8f3376244c31e1c3b2e97e6ce20a9f9ef1ceababe5
 - Slug：`nar_report_map02_research11_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research11_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:12.947318+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:08.921318+00:00`
 - ID：`nar_report_map02_research11_1_1`
 - 条目 ID：`nar_report_map02_research11_1_1`
 - 正文 ID：`text_map02_research11_19`

@@ -5,9 +5,9 @@ slug: "text_f1m4d3_gift_1"
 source_id: "text_f1m4d3_gift_1"
 source_url: "https://warfarin.wiki/cn/lore/text_f1m4d3_gift_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:16:00.458804+00:00"
-source_sha256: "caa82f27bd40170b8bf9dd4ac05e9a3417810e9cdf8ac1e5f969a3258513f9b9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:16.923178+00:00"
+source_sha256: "a7de91bc25f8b80a8ddd5f97bbc9585c190e527d9509278a7c6f5da3c7ff7f55"
 ---
 
 # 阿吉的画
@@ -18,8 +18,8 @@ source_sha256: "caa82f27bd40170b8bf9dd4ac05e9a3417810e9cdf8ac1e5f969a3258513f9b9
 - Slug：`text_f1m4d3_gift_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_f1m4d3_gift_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:16:00.458804+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:16.923178+00:00`
 - ID：`text_f1m4d3_gift_1`
 - 条目 ID：`nar_f1m4d3_1`
 - 正文 ID：`text_f1m4d3_gift_1`

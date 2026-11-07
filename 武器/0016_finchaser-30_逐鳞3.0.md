@@ -5,9 +5,9 @@ slug: "finchaser-30"
 source_id: "wpn_sword_0020"
 source_url: "https://warfarin.wiki/cn/weapons/finchaser-30"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:39.403481+00:00"
-source_sha256: "a347c7a3aa8df16fde7463a914d636dacf4cb896998faa2f1482dc08def75ea2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:03.549875+00:00"
+source_sha256: "51581c25a3fd54ef15879acf230304790500029b157eabc7916aa0923e098d78"
 ---
 
 # 逐鳞3.0
@@ -18,8 +18,8 @@ source_sha256: "a347c7a3aa8df16fde7463a914d636dacf4cb896998faa2f1482dc08def75ea2
 - Slug：`finchaser-30`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/finchaser-30)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:39.403481+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:03.549875+00:00`
 - ID：`wpn_sword_0020`
 - 英文名：Finchaser 3.0
 - 稀有度：5★

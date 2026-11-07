@@ -5,9 +5,9 @@ slug: "valiant"
 source_id: "wpn_lance_0010"
 source_url: "https://warfarin.wiki/cn/weapons/valiant"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:29.445968+00:00"
-source_sha256: "a52e145e694261b385ba28ccd3850e65d9c2a9f1809acf2b24b4a567e5ee5b4f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:09.423073+00:00"
+source_sha256: "900808052636987098f203656e51db293b59f98a8047717c4c900da3fbae1419"
 ---
 
 # 骁勇
@@ -18,8 +18,8 @@ source_sha256: "a52e145e694261b385ba28ccd3850e65d9c2a9f1809acf2b24b4a567e5ee5b4f
 - Slug：`valiant`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/valiant)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:29.445968+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:09.423073+00:00`
 - ID：`wpn_lance_0010`
 - 英文名：Valiant
 - 稀有度：6★

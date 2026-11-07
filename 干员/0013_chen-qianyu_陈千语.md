@@ -5,9 +5,9 @@ slug: "chen-qianyu"
 source_id: "chr_0005_chen"
 source_url: "https://warfarin.wiki/cn/operators/chen-qianyu"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:44:00.809637+00:00"
-source_sha256: "146f504107d49b2f5f5fa7c04457498e756627b63582d2aa1fd9bafc0779b08f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:41.567913+00:00"
+source_sha256: "bba43b534a233ec87748afacd85b75d24ff9bb0b1eaccba4cc0146671677abc1"
 ---
 
 # 陈千语
@@ -18,8 +18,8 @@ source_sha256: "146f504107d49b2f5f5fa7c04457498e756627b63582d2aa1fd9bafc0779b08f
 - Slug：`chen-qianyu`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/chen-qianyu)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:44:00.809637+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:41.567913+00:00`
 - ID：`chr_0005_chen`
 - 英文名：Chen Qianyu
 - 稀有度：5★

@@ -5,9 +5,9 @@ slug: "snowshine"
 source_id: "chr_0014_aurora"
 source_url: "https://warfarin.wiki/cn/operators/snowshine"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:21.913477+00:00"
-source_sha256: "877aeb5dca6b38978d6725205daaa9d14f5598573f32289be06109e58b1ae0ec"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:08.445374+00:00"
+source_sha256: "c70aefbe9438c0034ab97a1c336849d5874980b09e54b17ebfb3886c77c6cd97"
 ---
 
 # 昼雪
@@ -18,8 +18,8 @@ source_sha256: "877aeb5dca6b38978d6725205daaa9d14f5598573f32289be06109e58b1ae0ec
 - Slug：`snowshine`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/snowshine)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:21.913477+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:08.445374+00:00`
 - ID：`chr_0014_aurora`
 - 英文名：Snowshine
 - 稀有度：5★

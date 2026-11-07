@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_10_1"
 source_id: "nar_document_v0d8_10_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_10_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:16:11.778457+00:00"
-source_sha256: "00a51a8006f5cd04d0c1e80971e7fdb87b614e5016e4d4aa04f6d908ea228b57"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:09.696801+00:00"
+source_sha256: "ec8d71aec0f7ecfb0ed997f29df25ffb49cd262514e2401e7aabff5b4b1e5679"
 ---
 
 # 枢纽区基地
@@ -18,8 +18,8 @@ source_sha256: "00a51a8006f5cd04d0c1e80971e7fdb87b614e5016e4d4aa04f6d908ea228b57
 - Slug：`nar_document_v0d8_10_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_10_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:16:11.778457+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:09.696801+00:00`
 - ID：`nar_document_v0d8_10_1`
 - 条目 ID：`nar_document_v0d8_10_1`
 - 正文 ID：`text_v0d8_10`

@@ -5,9 +5,9 @@ slug: "chivalric-virtues"
 source_id: "wpn_funnel_0010"
 source_url: "https://warfarin.wiki/cn/weapons/chivalric-virtues"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:49:53.226586+00:00"
-source_sha256: "3c7718316434d1732cf6b9d2adcc1c6e047743ca8538e31366c53dedd237ae3c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:29.416110+00:00"
+source_sha256: "c45416eb92c4d6918494a72ad8ffcb720e4f3278e44eef24cf96a1a3364a5671"
 ---
 
 # 骑士精神
@@ -18,8 +18,8 @@ source_sha256: "3c7718316434d1732cf6b9d2adcc1c6e047743ca8538e31366c53dedd237ae3c
 - Slug：`chivalric-virtues`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/chivalric-virtues)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:49:53.226586+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:29.416110+00:00`
 - ID：`wpn_funnel_0010`
 - 英文名：Chivalric Virtues
 - 稀有度：6★

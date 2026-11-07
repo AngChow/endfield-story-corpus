@@ -5,9 +5,9 @@ slug: "nar_report_map01_research6_1_1"
 source_id: "nar_report_map01_research6_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map01_research6_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:08.300102+00:00"
-source_sha256: "63e158f60c4d3960e2c390db653d8aafe251d5144c38fa4dadcfc6029428e90a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:01.060724+00:00"
+source_sha256: "2460f7966fc5a93831b25cf6d32559c0e11701efccaff77acfb0abbd7d731a21"
 ---
 
 # 有关超域试验场的调查报告
@@ -18,8 +18,8 @@ source_sha256: "63e158f60c4d3960e2c390db653d8aafe251d5144c38fa4dadcfc6029428e90a
 - Slug：`nar_report_map01_research6_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map01_research6_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:08.300102+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:01.060724+00:00`
 - ID：`nar_report_map01_research6_1_1`
 - 条目 ID：`nar_report_map01_research6_1_1`
 - 正文 ID：`text_map01_research6_1`

@@ -5,9 +5,9 @@ slug: "forgeborn-scathe"
 source_id: "wpn_sword_0006"
 source_url: "https://warfarin.wiki/cn/weapons/forgeborn-scathe"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:46.823790+00:00"
-source_sha256: "9ebf2bd068354a598e51942907fa0e423c3c6242457aabf7172078ea6069e6d4"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:57.060402+00:00"
+source_sha256: "1e74fd199ecf196b4d3129b4a7fd021e0a5f318baa3889a77abc87f0630be419"
 ---
 
 # 熔铸火焰
@@ -18,8 +18,8 @@ source_sha256: "9ebf2bd068354a598e51942907fa0e423c3c6242457aabf7172078ea6069e6d4
 - Slug：`forgeborn-scathe`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/forgeborn-scathe)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:46.823790+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:57.060402+00:00`
 - ID：`wpn_sword_0006`
 - 英文名：Forgeborn Scathe
 - 稀有度：6★

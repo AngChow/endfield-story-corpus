@@ -5,9 +5,9 @@ slug: "the-pains-of-becoming"
 source_id: "topic_chr_0028_wulfa_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0028_wulfa_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:12.446283+00:00"
-source_sha256: "e2f6e2abb4846d76e2ed04a166a87880374dd7de3167a06f17250e4ffb0e44e9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:34.076490+00:00"
+source_sha256: "9015151e6b6f7a885a24a7298e12d6e2083ebd46f8f07bfd8f05145841deee69"
 ---
 
 # 成长的阵痛
@@ -18,8 +18,8 @@ source_sha256: "e2f6e2abb4846d76e2ed04a166a87880374dd7de3167a06f17250e4ffb0e44e9
 - Slug：`the-pains-of-becoming`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0028_wulfa_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:12.446283+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:34.076490+00:00`
 - ID：`topic_chr_0028_wulfa_2`
 - 包含会话：`sns_topic_chr_0028_wulfa_2`
 

@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_23_1"
 source_id: "nar_document_v0d8_23_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_23_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:15:01.552642+00:00"
-source_sha256: "c8b605e5d84d70404fad7d3523a29210da823f1a4073202a220bbc67e38bdabf"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:45.064439+00:00"
+source_sha256: "f4fc6c2445be4a4c286e7f23927470fffd7c4f2ca475dafaca6796b5eb329194"
 ---
 
 # 武陵地区
@@ -18,8 +18,8 @@ source_sha256: "c8b605e5d84d70404fad7d3523a29210da823f1a4073202a220bbc67e38bdabf
 - Slug：`nar_document_v0d8_23_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_23_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:15:01.552642+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:45.064439+00:00`
 - ID：`nar_document_v0d8_23_1`
 - 条目 ID：`nar_document_v0d8_23_1`
 - 正文 ID：`text_v0d8_23`

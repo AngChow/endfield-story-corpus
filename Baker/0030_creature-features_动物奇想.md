@@ -5,9 +5,9 @@ slug: "creature-features"
 source_id: "topic_chr_0015_lifeng_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0015_lifeng_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:24.444614+00:00"
-source_sha256: "632fa3f129bd1cfab2cd6838a0001deb9d025641f2c676f0ea0fd5c622a6b107"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:33.404806+00:00"
+source_sha256: "58c00fe37cfd597c6a31b5a2d99528266cbf5759e9d3aa47fee19859d92ba593"
 ---
 
 # 动物奇想
@@ -18,8 +18,8 @@ source_sha256: "632fa3f129bd1cfab2cd6838a0001deb9d025641f2c676f0ea0fd5c622a6b107
 - Slug：`creature-features`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0015_lifeng_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:24.444614+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:33.404806+00:00`
 - ID：`topic_chr_0015_lifeng_3`
 - 包含会话：`sns_topic_chr_0015_lifeng_3`
 

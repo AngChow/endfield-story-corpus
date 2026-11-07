@@ -5,9 +5,9 @@ slug: "fluorite"
 source_id: "chr_0022_bounda"
 source_url: "https://warfarin.wiki/cn/operators/fluorite"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:45:14.756652+00:00"
-source_sha256: "c01b80a2fb24dcd1fccf31398bfecb50c4af4f45a379f7970516acd312226a05"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:39.116550+00:00"
+source_sha256: "316dab4eed68dc4eb080f311a2c018e16cbbd25349d755f7d538a1021553fc3d"
 ---
 
 # 萤石
@@ -18,8 +18,8 @@ source_sha256: "c01b80a2fb24dcd1fccf31398bfecb50c4af4f45a379f7970516acd312226a05
 - Slug：`fluorite`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/fluorite)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:45:14.756652+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:39.116550+00:00`
 - ID：`chr_0022_bounda`
 - 英文名：Fluorite
 - 稀有度：4★

@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_1_1"
 source_id: "nar_document_v0d8_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:14:56.507179+00:00"
-source_sha256: "34533701dfdcada3cb9e4b4fe2a0b9ddefbdb9aafb24dff799ea9442d224ff5e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:15.914364+00:00"
+source_sha256: "0f5bcf8f2a775c2edd12ec955154044d6896474b296b9be3b64665f3ea08d621"
 ---
 
 # 泰拉
@@ -18,8 +18,8 @@ source_sha256: "34533701dfdcada3cb9e4b4fe2a0b9ddefbdb9aafb24dff799ea9442d224ff5e
 - Slug：`nar_document_v0d8_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:14:56.507179+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:15.914364+00:00`
 - ID：`nar_document_v0d8_1_1`
 - 条目 ID：`nar_document_v0d8_1_1`
 - 正文 ID：`text_v0d8_1`

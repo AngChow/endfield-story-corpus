@@ -5,9 +5,9 @@ slug: "topic_chr_0036_jsspsi_16003"
 source_id: "topic_chr_0036_jsspsi_16003"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0036_jsspsi_16003"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:15.221079+00:00"
-source_sha256: "370945b894703a1efc6f55439798beee0b556bead22c5bf271a953aca9b6551d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:51.412918+00:00"
+source_sha256: "ae77cb8848e2ddad1e9b7e7922e8fc8e00fa1e2a19d91570e24d0dd7f9974b03"
 ---
 
 # 代理人的邀约
@@ -18,8 +18,8 @@ source_sha256: "370945b894703a1efc6f55439798beee0b556bead22c5bf271a953aca9b6551d
 - Slug：`topic_chr_0036_jsspsi_16003`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0036_jsspsi_16003)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:15.221079+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:51.412918+00:00`
 - ID：`topic_chr_0036_jsspsi_16003`
 - 包含会话：`sns_topic_chr_0036_jsspsi_16003`
 

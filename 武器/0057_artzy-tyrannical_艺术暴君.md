@@ -5,9 +5,9 @@ slug: "artzy-tyrannical"
 source_id: "wpn_pistol_0010"
 source_url: "https://warfarin.wiki/cn/weapons/artzy-tyrannical"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:42:25.592066+00:00"
-source_sha256: "bead81db79becbc637c8199a4fe3925ebf177edbef17ed0ab704516bb34e7dfe"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:57.775406+00:00"
+source_sha256: "99e00a15d4b4cb3b45229c6a7896566f86a536297c802554f199b78c5c5a8897"
 ---
 
 # 艺术暴君
@@ -18,8 +18,8 @@ source_sha256: "bead81db79becbc637c8199a4fe3925ebf177edbef17ed0ab704516bb34e7dfe
 - Slug：`artzy-tyrannical`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/artzy-tyrannical)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:42:25.592066+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:57.775406+00:00`
 - ID：`wpn_pistol_0010`
 - 英文名：Artzy Tyrannical
 - 稀有度：6★

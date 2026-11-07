@@ -5,9 +5,9 @@ slug: "an-eventful-dream"
 source_id: "topic_chr_0030_zhuangfy_12003"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0030_zhuangfy_12003"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:26.065038+00:00"
-source_sha256: "7ceb3d2858cf821e90f4f4a1551e0b2295a8d306a08eb35e929cc20fadd29bb6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:55.650464+00:00"
+source_sha256: "cc814eeeff352fef7301de1b9e402223bc18aeb929a50d5eba14b3950e207817"
 ---
 
 # 大梦一场
@@ -18,8 +18,8 @@ source_sha256: "7ceb3d2858cf821e90f4f4a1551e0b2295a8d306a08eb35e929cc20fadd29bb6
 - Slug：`an-eventful-dream`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0030_zhuangfy_12003)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:26.065038+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:55.650464+00:00`
 - ID：`topic_chr_0030_zhuangfy_12003`
 - 包含会话：`sns_topic_chr_0030_zhuangfy_12003`
 

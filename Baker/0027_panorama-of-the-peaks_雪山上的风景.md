@@ -5,9 +5,9 @@ slug: "panorama-of-the-peaks"
 source_id: "topic_chr_0014_aurora_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0014_aurora_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:17.756071+00:00"
-source_sha256: "44d667131d1c902ccbc4c50f210b3a9d70802201441fcb457ed9a683612fe0ad"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:24.260391+00:00"
+source_sha256: "46ef6239a25f6b3bff7de5ff09977af3704fd55aaeb2a3988eaaaa7ded7bdefa"
 ---
 
 # 雪山上的风景
@@ -18,8 +18,8 @@ source_sha256: "44d667131d1c902ccbc4c50f210b3a9d70802201441fcb457ed9a683612fe0ad
 - Slug：`panorama-of-the-peaks`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0014_aurora_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:17.756071+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:24.260391+00:00`
 - ID：`topic_chr_0014_aurora_3`
 - 包含会话：`sns_topic_chr_0014_aurora_3`
 

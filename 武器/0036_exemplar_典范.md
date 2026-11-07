@@ -5,9 +5,9 @@ slug: "exemplar"
 source_id: "wpn_claym_0004"
 source_url: "https://warfarin.wiki/cn/weapons/exemplar"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:34.080817+00:00"
-source_sha256: "f10c6dd225d4952de19481c438a2fecaa35f463f34c7f5ac3d1adb978f372480"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:39.042803+00:00"
+source_sha256: "4a0b815170da5e81160906fb8a4fed6f1f5ff2a8b9658fb62c76fbc863a42c03"
 ---
 
 # 典范
@@ -18,8 +18,8 @@ source_sha256: "f10c6dd225d4952de19481c438a2fecaa35f463f34c7f5ac3d1adb978f372480
 - Slug：`exemplar`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/exemplar)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:34.080817+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:39.042803+00:00`
 - ID：`wpn_claym_0004`
 - 英文名：Exemplar
 - 稀有度：6★

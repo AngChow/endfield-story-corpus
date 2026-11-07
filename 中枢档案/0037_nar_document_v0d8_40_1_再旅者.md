@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_40_1"
 source_id: "nar_document_v0d8_40_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_40_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:18:04.911619+00:00"
-source_sha256: "a252714ebcad60bac5d43c7cb841b476425437b422004b70b500d1ae76ebacc3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:35.299601+00:00"
+source_sha256: "27e3082426ad6ba2730b09f2b958871fc08b05c213b241e6e1fa670a317f0864"
 ---
 
 # 再旅者
@@ -18,8 +18,8 @@ source_sha256: "a252714ebcad60bac5d43c7cb841b476425437b422004b70b500d1ae76ebacc3
 - Slug：`nar_document_v0d8_40_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_40_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:18:04.911619+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:35.299601+00:00`
 - ID：`nar_document_v0d8_40_1`
 - 条目 ID：`nar_document_v0d8_40_1`
 - 正文 ID：`text_v0d8_40`

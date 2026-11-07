@@ -5,9 +5,9 @@ slug: "tales-of-the-rock"
 source_id: "topic_chr_0025_ardelia_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0025_ardelia_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:34.328570+00:00"
-source_sha256: "7251216cdee2f674ebe9ab6c84c7d6c93d1c5256b13b6c01db7f437082d2800a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:02.310543+00:00"
+source_sha256: "3460b2cf3d8e89bc22c22aca241faba512205f5ac23e0c52c7dae3852090b73a"
 ---
 
 # 岩石的故事
@@ -18,8 +18,8 @@ source_sha256: "7251216cdee2f674ebe9ab6c84c7d6c93d1c5256b13b6c01db7f437082d2800a
 - Slug：`tales-of-the-rock`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0025_ardelia_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:34.328570+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:02.310543+00:00`
 - ID：`topic_chr_0025_ardelia_1`
 - 包含会话：`sns_topic_chr_0025_ardelia_1`
 

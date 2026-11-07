@@ -5,9 +5,9 @@ slug: "text_f1m4d3_gift_2"
 source_id: "text_f1m4d3_gift_2"
 source_url: "https://warfarin.wiki/cn/lore/text_f1m4d3_gift_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:16:02.589133+00:00"
-source_sha256: "4400a4f0e42ee5af9a0bac8fda924743ebb07a46948cea0edf6f8fa8b995dfff"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:29.080423+00:00"
+source_sha256: "44cdd37118ff82d60819b45fa8d0b8de8f956c42a5f42cf935f64d58910fbd18"
 ---
 
 # 阿杜的录音带
@@ -18,8 +18,8 @@ source_sha256: "4400a4f0e42ee5af9a0bac8fda924743ebb07a46948cea0edf6f8fa8b995dfff
 - Slug：`text_f1m4d3_gift_2`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_f1m4d3_gift_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:16:02.589133+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:29.080423+00:00`
 - ID：`text_f1m4d3_gift_2`
 - 条目 ID：`nar_f1m4d3_2`
 - 正文 ID：`text_f1m4d3_gift_2`

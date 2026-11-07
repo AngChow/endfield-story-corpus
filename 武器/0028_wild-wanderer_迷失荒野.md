@@ -5,9 +5,9 @@ slug: "wild-wanderer"
 source_id: "wpn_funnel_0004"
 source_url: "https://warfarin.wiki/cn/weapons/wild-wanderer"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:09:55.792924+00:00"
-source_sha256: "23c60a451c46f7c53901ac117e97f86a94b185762b08c25789b5c1ab0dda3f36"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:20.477515+00:00"
+source_sha256: "df65c43e340b0179bf8cc3bfda7f176d173572c74bd30ce06385053bc0c5b942"
 ---
 
 # 迷失荒野
@@ -18,8 +18,8 @@ source_sha256: "23c60a451c46f7c53901ac117e97f86a94b185762b08c25789b5c1ab0dda3f36
 - Slug：`wild-wanderer`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/wild-wanderer)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:09:55.792924+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:20.477515+00:00`
 - ID：`wpn_funnel_0004`
 - 英文名：Wild Wanderer
 - 稀有度：5★

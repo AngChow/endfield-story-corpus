@@ -5,9 +5,9 @@ slug: "a-decade-of-slumber"
 source_id: "topic_map01_lv001_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv001_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:29.801194+00:00"
-source_sha256: "fdf1b1e1afe882afda83d54d8f529d1c3e985011623c67707f68b551ca17b33c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:05.129414+00:00"
+source_sha256: "4a4ffe333763f60265905ce82daef333929fe000469cf72b067d09251d2ddd53"
 ---
 
 # 十年沉眠
@@ -18,8 +18,8 @@ source_sha256: "fdf1b1e1afe882afda83d54d8f529d1c3e985011623c67707f68b551ca17b33c
 - Slug：`a-decade-of-slumber`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv001_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:29.801194+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:05.129414+00:00`
 - ID：`topic_map01_lv001_1`
 - 包含会话：`sns_topic_map01_lv001_1`、`sns_topic_map01_lv001_2`
 

@@ -5,9 +5,9 @@ slug: "flavor-enhancement-plan"
 source_id: "topic_chr_0014_aurora_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0014_aurora_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:15.302262+00:00"
-source_sha256: "19b597a8e6dee38132bf9dc0a3ea839907f3e2daa3dccbffabc1ca7bbaa2af02"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:22.111261+00:00"
+source_sha256: "94772536b300cb2ad14f5b31f4c7cccb2af4841189dad0facd70b752016f17ac"
 ---
 
 # 口味改良方案
@@ -18,8 +18,8 @@ source_sha256: "19b597a8e6dee38132bf9dc0a3ea839907f3e2daa3dccbffabc1ca7bbaa2af02
 - Slug：`flavor-enhancement-plan`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0014_aurora_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:15.302262+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:22.111261+00:00`
 - ID：`topic_chr_0014_aurora_2`
 - 包含会话：`sns_topic_chr_0014_aurora_2`
 

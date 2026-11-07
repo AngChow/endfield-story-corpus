@@ -5,9 +5,9 @@ slug: "text_map02_research11_1"
 source_id: "text_map02_research11_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:34.414243+00:00"
-source_sha256: "705da511b0107adc54eb1c6c101232d2f927e785b75c333c48a69decd9e45936"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:18.751164+00:00"
+source_sha256: "a5f3c128fe777310b303d72e81b3fb0970590b44ae4cbbbb3d5a1f53dc91fe8a"
 ---
 
 # 建城缘由考
@@ -18,8 +18,8 @@ source_sha256: "705da511b0107adc54eb1c6c101232d2f927e785b75c333c48a69decd9e45936
 - Slug：`text_map02_research11_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:34.414243+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:18.751164+00:00`
 - ID：`text_map02_research11_1`
 - 条目 ID：`nar_digital_map02_research11_14_1`
 - 正文 ID：`text_map02_research11_1`

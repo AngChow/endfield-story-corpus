@@ -5,9 +5,9 @@ slug: "farsight"
 source_id: "wpn_sword_0026"
 source_url: "https://warfarin.wiki/cn/weapons/farsight"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:36.354811+00:00"
-source_sha256: "64fedcee5bf3c66619634aef3c3f1b94764af3173cf78824faa39ad1d021dc54"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:52.361400+00:00"
+source_sha256: "5aa3ff2ead8c89f19a0869cc0686cb131253ad263129d34cf80c3a78cef8b01a"
 ---
 
 # 遥望
@@ -18,8 +18,8 @@ source_sha256: "64fedcee5bf3c66619634aef3c3f1b94764af3173cf78824faa39ad1d021dc54
 - Slug：`farsight`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/farsight)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:36.354811+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:52.361400+00:00`
 - ID：`wpn_sword_0026`
 - 英文名：Farsight
 - 稀有度：6★

@@ -5,9 +5,9 @@ slug: "crisis-and-tranquility"
 source_id: "topic_map02_lv002_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv002_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:20.320348+00:00"
-source_sha256: "cf86216d5cb1095b674b6e7ccd0c6c2e93b4c66726fbdd9b49f8b0acc0e4d8f4"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:57.288882+00:00"
+source_sha256: "93bf914216f2443ef530034183529b2d9021c1ca4753f6c54d4a98aa94b65b8d"
 ---
 
 # 危机与安宁
@@ -18,8 +18,8 @@ source_sha256: "cf86216d5cb1095b674b6e7ccd0c6c2e93b4c66726fbdd9b49f8b0acc0e4d8f4
 - Slug：`crisis-and-tranquility`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv002_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:20.320348+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:57.288882+00:00`
 - ID：`topic_map02_lv002_1`
 - 包含会话：`sns_topic_map02_lv002_1`、`sns_topic_map02_lv002_2`
 

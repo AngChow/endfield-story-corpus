@@ -5,9 +5,9 @@ slug: "the-birth-of-tweety-bombs"
 source_id: "topic_chr_0017_yvonne_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0017_yvonne_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:34.910572+00:00"
-source_sha256: "b8f55714c3dad49b428d74b40a0be71f33ee800d99862d44ba19859b3a9b4750"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:47.974816+00:00"
+source_sha256: "af468d2a904b9ad74984edd34a774e7c2f025c44cf43bbbe20a169895f09d8cd"
 ---
 
 # 小暴鸰的诞生
@@ -18,8 +18,8 @@ source_sha256: "b8f55714c3dad49b428d74b40a0be71f33ee800d99862d44ba19859b3a9b4750
 - Slug：`the-birth-of-tweety-bombs`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0017_yvonne_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:34.910572+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:47.974816+00:00`
 - ID：`topic_chr_0017_yvonne_2`
 - 包含会话：`sns_topic_chr_0017_yvonne_2`
 

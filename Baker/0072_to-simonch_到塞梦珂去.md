@@ -5,9 +5,9 @@ slug: "to-simonch"
 source_id: "topic_chr_0029_pograni_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0029_pograni_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:19.807246+00:00"
-source_sha256: "21811ad37269f28a14462ac2ff36c017fbe0db9e779cabfe54f4b78dbc770994"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:46.201416+00:00"
+source_sha256: "b1caa9374356d78d4ac132ca437e1ea239d1a1fd7cb5029f589f25e535c8e07d"
 ---
 
 # 到塞梦珂去
@@ -18,8 +18,8 @@ source_sha256: "21811ad37269f28a14462ac2ff36c017fbe0db9e779cabfe54f4b78dbc770994
 - Slug：`to-simonch`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0029_pograni_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:19.807246+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:46.201416+00:00`
 - ID：`topic_chr_0029_pograni_3`
 - 包含会话：`sns_topic_chr_0029_pograni_3`
 

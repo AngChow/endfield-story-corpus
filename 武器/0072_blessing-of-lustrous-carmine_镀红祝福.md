@@ -5,9 +5,9 @@ slug: "blessing-of-lustrous-carmine"
 source_id: "wpn_lance_0015"
 source_url: "https://warfarin.wiki/cn/weapons/blessing-of-lustrous-carmine"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:46:14.740012+00:00"
-source_sha256: "ba24106b10eb51eb427a3866861c878e0b579765800c34239d236b3841c38d30"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:54.866731+00:00"
+source_sha256: "db69b991871e1bbf5ba010e420ed776568f059df7160247bc6039362ae543d8e"
 ---
 
 # 镀红祝福
@@ -18,8 +18,8 @@ source_sha256: "ba24106b10eb51eb427a3866861c878e0b579765800c34239d236b3841c38d30
 - Slug：`blessing-of-lustrous-carmine`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/blessing-of-lustrous-carmine)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:46:14.740012+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:54.866731+00:00`
 - ID：`wpn_lance_0015`
 - 英文名：Blessing of Lustrous Carmine
 - 稀有度：6★

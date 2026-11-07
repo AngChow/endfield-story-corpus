@@ -5,9 +5,9 @@ slug: "reopening-the-test-area"
 source_id: "topic_map02_lv005_12001"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv005_12001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:53.230011+00:00"
-source_sha256: "df5ee43b66617ffedbb63a0b0e726cb41d9bf7d1eaff88e46aff4de41cea308b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:27.929714+00:00"
+source_sha256: "8a1dc946afaf7827daece8bd529aac4faa9dfafdef88f475666d5945aed29a8b"
 ---
 
 # 试验园区的重启
@@ -18,8 +18,8 @@ source_sha256: "df5ee43b66617ffedbb63a0b0e726cb41d9bf7d1eaff88e46aff4de41cea308b
 - Slug：`reopening-the-test-area`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv005_12001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:53.230011+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:27.929714+00:00`
 - ID：`topic_map02_lv005_12001`
 - 包含会话：`sns_topic_map02_lv005_12001`、`sns_topic_map02_lv005_12002`
 

@@ -5,9 +5,9 @@ slug: "the-game-of-giants"
 source_id: "topic_chr_0026_lastrite_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0026_lastrite_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:44.226333+00:00"
-source_sha256: "4a33945c1471041a58675265d7871507187822965feaa4aaffbd013556fe171f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:16.483645+00:00"
+source_sha256: "8b6ae6e823793793d07d6a1164eb99a497c3db0f753dae135111081fd366750a"
 ---
 
 # 商业竞争？
@@ -18,8 +18,8 @@ source_sha256: "4a33945c1471041a58675265d7871507187822965feaa4aaffbd013556fe171f
 - Slug：`the-game-of-giants`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0026_lastrite_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:44.226333+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:16.483645+00:00`
 - ID：`topic_chr_0026_lastrite_1`
 - 包含会话：`sns_topic_chr_0026_lastrite_1`
 

@@ -5,9 +5,9 @@ slug: "topic_chr_0036_jsspsi_16002"
 source_id: "topic_chr_0036_jsspsi_16002"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0036_jsspsi_16002"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:13.170438+00:00"
-source_sha256: "bea131cb44910dd95f00748cef455b6a69b46312a870b460fa06698949982585"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:46.487321+00:00"
+source_sha256: "42e82c732b513f45bb3b8e97175b88abb744ba4bdb779f7c0b3d9bb5fe7372fe"
 ---
 
 # 画家的烦恼
@@ -18,8 +18,8 @@ source_sha256: "bea131cb44910dd95f00748cef455b6a69b46312a870b460fa06698949982585
 - Slug：`topic_chr_0036_jsspsi_16002`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0036_jsspsi_16002)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:13.170438+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:46.487321+00:00`
 - ID：`topic_chr_0036_jsspsi_16002`
 - 包含会话：`sns_topic_chr_0036_jsspsi_16002`
 

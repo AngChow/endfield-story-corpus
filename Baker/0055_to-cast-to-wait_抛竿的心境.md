@@ -5,9 +5,9 @@ slug: "to-cast-to-wait"
 source_id: "topic_chr_0024_deepfin_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0024_deepfin_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:26.831530+00:00"
-source_sha256: "9fe05989e6e5c49f47fb9fbba482247f76d2eeb9f18be570993e165d7e2f74dd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:53.808981+00:00"
+source_sha256: "2d96e2355a79ba8f4c6e0812f08b1985d0c354639c91aa2af80a27545c3ed39e"
 ---
 
 # 抛竿的心境
@@ -18,8 +18,8 @@ source_sha256: "9fe05989e6e5c49f47fb9fbba482247f76d2eeb9f18be570993e165d7e2f74dd
 - Slug：`to-cast-to-wait`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0024_deepfin_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:26.831530+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:53.808981+00:00`
 - ID：`topic_chr_0024_deepfin_1`
 - 包含会话：`sns_topic_chr_0024_deepfin_1`
 

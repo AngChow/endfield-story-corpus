@@ -5,9 +5,9 @@ slug: "text_map02_research11_2"
 source_id: "text_map02_research11_2"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:57.258925+00:00"
-source_sha256: "1f708054a1100837beca0763439a9a35ae923b73e5147cc124dbd9b0927bbae2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:42.529293+00:00"
+source_sha256: "11e657b880eb078430b542e8469a2ada90955a34acc91f2e1f7579495724181b"
 ---
 
 # 城中风貌速览
@@ -18,8 +18,8 @@ source_sha256: "1f708054a1100837beca0763439a9a35ae923b73e5147cc124dbd9b0927bbae2
 - Slug：`text_map02_research11_2`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:57.258925+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:42.529293+00:00`
 - ID：`text_map02_research11_2`
 - 条目 ID：`nar_paper_map02_research11_2_1`
 - 正文 ID：`text_map02_research11_2`

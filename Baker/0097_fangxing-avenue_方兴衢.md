@@ -5,9 +5,9 @@ slug: "fangxing-avenue"
 source_id: "topic_map02_lv002_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv002_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:27.594808+00:00"
-source_sha256: "6bad4854f1ec3850a87e6387c4a4e8a32c797842abc7aea0c1d89007eabed011"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:06.649138+00:00"
+source_sha256: "ca0784f176e4e3db3cd2e393b58d2d900c4d62ae41f94b5c6de1b7a006ff70e2"
 ---
 
 # 方兴衢
@@ -18,8 +18,8 @@ source_sha256: "6bad4854f1ec3850a87e6387c4a4e8a32c797842abc7aea0c1d89007eabed011
 - Slug：`fangxing-avenue`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv002_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:27.594808+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:06.649138+00:00`
 - ID：`topic_map02_lv002_2`
 - 包含会话：`sns_topic_map02_lv002_3`、`sns_topic_map02_lv002_4`、`sns_topic_map02_lv002_5`
 

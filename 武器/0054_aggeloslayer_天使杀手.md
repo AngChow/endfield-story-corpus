@@ -5,9 +5,9 @@ slug: "aggeloslayer"
 source_id: "wpn_lance_0008"
 source_url: "https://warfarin.wiki/cn/weapons/aggeloslayer"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:42:17.048307+00:00"
-source_sha256: "9b25cc3672224ca5135c0914c9c0a54c0840c9ccdcffd51a5287d57246f9f035"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:19.955022+00:00"
+source_sha256: "10f395d6e07b7a8d3b3a9fdfa33b176188a190fe197de56704066a66721ba362"
 ---
 
 # 天使杀手
@@ -18,8 +18,8 @@ source_sha256: "9b25cc3672224ca5135c0914c9c0a54c0840c9ccdcffd51a5287d57246f9f035
 - Slug：`aggeloslayer`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/aggeloslayer)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:42:17.048307+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:19.955022+00:00`
 - ID：`wpn_lance_0008`
 - 英文名：Aggeloslayer
 - 稀有度：4★

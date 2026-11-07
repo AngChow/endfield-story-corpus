@@ -5,9 +5,9 @@ slug: "a-fresh-threat"
 source_id: "topic_map01_lv001_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv001_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:31.186119+00:00"
-source_sha256: "9b67153a96044704da557a0f9a5231f3259c003871a53bf6681ccc7ab03ae3c6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:09.343086+00:00"
+source_sha256: "90ccba57b41394463c099dd00a81ec0dadd5180cf25a46c269ad6e4d0ac121bf"
 ---
 
 # 新的敌人
@@ -18,8 +18,8 @@ source_sha256: "9b67153a96044704da557a0f9a5231f3259c003871a53bf6681ccc7ab03ae3c6
 - Slug：`a-fresh-threat`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv001_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:31.186119+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:09.343086+00:00`
 - ID：`topic_map01_lv001_2`
 - 包含会话：`sns_topic_map01_lv001_3`、`sns_topic_map01_lv001_4`、`sns_topic_map01_lv001_5`
 

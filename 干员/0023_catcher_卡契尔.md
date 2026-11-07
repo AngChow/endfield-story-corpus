@@ -5,9 +5,9 @@ slug: "catcher"
 source_id: "chr_0020_meurs"
 source_url: "https://warfarin.wiki/cn/operators/catcher"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:43:13.263489+00:00"
-source_sha256: "c2708a57f3b1f717f39c6f7c5d31b278e71ac79e5a31daeb5474cd826cd2a1cc"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:21.975008+00:00"
+source_sha256: "ad380da0c0cec3eb1be5983e8f8c9d5c41ab0d36f7328c5d7a68b9fd39d8bd50"
 ---
 
 # 卡契尔
@@ -18,8 +18,8 @@ source_sha256: "c2708a57f3b1f717f39c6f7c5d31b278e71ac79e5a31daeb5474cd826cd2a1cc
 - Slug：`catcher`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/catcher)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:43:13.263489+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:21.975008+00:00`
 - ID：`chr_0020_meurs`
 - 英文名：Catcher
 - 稀有度：4★

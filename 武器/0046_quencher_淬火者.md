@@ -5,9 +5,9 @@ slug: "quencher"
 source_id: "wpn_claym_0009"
 source_url: "https://warfarin.wiki/cn/weapons/quencher"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:06:27.571371+00:00"
-source_sha256: "0817a506ee64d98264c857346fbd84dde08962be6d1b695ca7047384edb57dd7"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:55.763820+00:00"
+source_sha256: "dfadda1548b5e944b98581f159c3d966db510a672f7a6d1f23d7757fbeceef28"
 ---
 
 # 淬火者
@@ -18,8 +18,8 @@ source_sha256: "0817a506ee64d98264c857346fbd84dde08962be6d1b695ca7047384edb57dd7
 - Slug：`quencher`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/quencher)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:06:27.571371+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:55.763820+00:00`
 - ID：`wpn_claym_0009`
 - 英文名：Quencher
 - 稀有度：4★

@@ -5,9 +5,9 @@ slug: "the-price-of-a-vendetta"
 source_id: "topic_chr_0009_azrila_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0009_azrila_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:01.440940+00:00"
-source_sha256: "102693d55ca655ce787b07234f6406301103ce2366769c61f67396ae75e9d3d8"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:47.730874+00:00"
+source_sha256: "6923ad3fd9fb3da7604889fe723b53b811f61329f8a0ee41f68415209ce80d23"
 ---
 
 # 复仇的资格
@@ -18,8 +18,8 @@ source_sha256: "102693d55ca655ce787b07234f6406301103ce2366769c61f67396ae75e9d3d8
 - Slug：`the-price-of-a-vendetta`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0009_azrila_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:01.440940+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:47.730874+00:00`
 - ID：`topic_chr_0009_azrila_3`
 - 包含会话：`sns_topic_chr_0009_azrila_3`
 

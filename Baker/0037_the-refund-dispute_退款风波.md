@@ -5,9 +5,9 @@ slug: "the-refund-dispute"
 source_id: "topic_chr_0018_dapan_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0018_dapan_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:38.506132+00:00"
-source_sha256: "491ff0d3591b0bf718c77f13e207b2d93c624f573ea989e01807e089deb718f0"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:54.145577+00:00"
+source_sha256: "c1101a63bc5cfc3370b1d83f0b6fdded564e0549d3fd36217662bef34bbc6531"
 ---
 
 # 退款风波
@@ -18,8 +18,8 @@ source_sha256: "491ff0d3591b0bf718c77f13e207b2d93c624f573ea989e01807e089deb718f0
 - Slug：`the-refund-dispute`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0018_dapan_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:38.506132+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:54.145577+00:00`
 - ID：`topic_chr_0018_dapan_1`
 - 包含会话：`sns_topic_chr_0018_dapan_1`
 

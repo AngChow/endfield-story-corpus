@@ -5,9 +5,9 @@ slug: "gilberta"
 source_id: "chr_0013_aglina"
 source_url: "https://warfarin.wiki/cn/operators/gilberta"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:45:16.944133+00:00"
-source_sha256: "2f0ce3eff9dc1b78e6b69a27dade6ba698a3d75f2c6cf11562eb0b08bcd8c450"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:49.730473+00:00"
+source_sha256: "7a365f8e2f421d77dd0a90891b3a1cb658361fd03071f0e0b0002aa60c198051"
 ---
 
 # 洁尔佩塔
@@ -18,8 +18,8 @@ source_sha256: "2f0ce3eff9dc1b78e6b69a27dade6ba698a3d75f2c6cf11562eb0b08bcd8c450
 - Slug：`gilberta`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/gilberta)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:45:16.944133+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:49.730473+00:00`
 - ID：`chr_0013_aglina`
 - 英文名：Gilberta
 - 稀有度：6★

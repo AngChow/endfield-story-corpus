@@ -5,9 +5,9 @@ slug: "obj-edge-of-lightness"
 source_id: "wpn_sword_0019"
 source_url: "https://warfarin.wiki/cn/weapons/obj-edge-of-lightness"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:58:46.657619+00:00"
-source_sha256: "2174baa258689f2685259f3cd82b5edab6366eb5719b0bc51410b8c9a3030e4c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:50.112915+00:00"
+source_sha256: "3c866ca6a6662c64fe173470ffa389c44a7995311a1262fb85d2c0c6e71200b7"
 ---
 
 # O.B.J.轻芒
@@ -18,8 +18,8 @@ source_sha256: "2174baa258689f2685259f3cd82b5edab6366eb5719b0bc51410b8c9a3030e4c
 - Slug：`obj-edge-of-lightness`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-edge-of-lightness)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:58:46.657619+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:50.112915+00:00`
 - ID：`wpn_sword_0019`
 - 英文名：OBJ Edge of Lightness
 - 稀有度：5★

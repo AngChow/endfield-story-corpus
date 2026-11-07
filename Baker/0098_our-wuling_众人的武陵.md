@@ -5,9 +5,9 @@ slug: "our-wuling"
 source_id: "topic_map02_lv002_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv002_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:29.699115+00:00"
-source_sha256: "99479675055a04adfcfcba17b075768678f7df761a6c641ab7ccebb17beed825"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:15.445064+00:00"
+source_sha256: "c17ffe47b5d0d513cf80e4a450d2ec38f7100397174066dc51291a0b9a2d2740"
 ---
 
 # 众人的武陵
@@ -18,8 +18,8 @@ source_sha256: "99479675055a04adfcfcba17b075768678f7df761a6c641ab7ccebb17beed825
 - Slug：`our-wuling`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv002_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:29.699115+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:15.445064+00:00`
 - ID：`topic_map02_lv002_3`
 - 包含会话：`sns_topic_map02_lv002_6`、`sns_topic_map02_lv002_7`、`sns_topic_map02_lv002_8`、`sns_topic_map02_lv002_9`
 

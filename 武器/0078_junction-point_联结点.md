@@ -5,9 +5,9 @@ slug: "junction-point"
 source_id: "wpn_funnel_0018"
 source_url: "https://warfarin.wiki/cn/weapons/junction-point"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:04.950402+00:00"
-source_sha256: "8d3da051d815052830f759af24bc9ee62176678619fb96997765ede92d7ed9d8"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:50.970488+00:00"
+source_sha256: "26a5384d9f120c8c42283b4437f2b8f5f838dbf198615e94ec6c94afa8e8c858"
 ---
 
 # 联结点
@@ -18,8 +18,8 @@ source_sha256: "8d3da051d815052830f759af24bc9ee62176678619fb96997765ede92d7ed9d8
 - Slug：`junction-point`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/junction-point)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:04.950402+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:50.970488+00:00`
 - ID：`wpn_funnel_0018`
 - 英文名：Junction Point
 - 稀有度：6★

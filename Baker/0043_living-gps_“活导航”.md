@@ -5,9 +5,9 @@ slug: "living-gps"
 source_id: "topic_chr_0020_meurs_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0020_meurs_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:01.439143+00:00"
-source_sha256: "3d8c2dedc67b86f91cec569639117f45cab883fcf0102c18cca3a9474d931a3d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:14.179462+00:00"
+source_sha256: "8e014edfe73200b57131cc399bcab29a206a320f4b79753381c76064c6ca3d29"
 ---
 
 # “活导航”
@@ -18,8 +18,8 @@ source_sha256: "3d8c2dedc67b86f91cec569639117f45cab883fcf0102c18cca3a9474d931a3d
 - Slug：`living-gps`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0020_meurs_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:01.439143+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:14.179462+00:00`
 - ID：`topic_chr_0020_meurs_1`
 - 包含会话：`sns_topic_chr_0020_meurs_1`
 

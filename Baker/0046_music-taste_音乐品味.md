@@ -5,9 +5,9 @@ slug: "music-taste"
 source_id: "topic_chr_0021_whiten_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:07.717725+00:00"
-source_sha256: "fc4cd7b1052ef8d578f2fe36aec760174fcf453364d7f68ac33ee99c570fc271"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:39.315829+00:00"
+source_sha256: "47708de1dde199476a4e951b34ee600d5253510bac7ef2448ac7ad11cbbe9ef0"
 ---
 
 # 音乐品味
@@ -18,8 +18,8 @@ source_sha256: "fc4cd7b1052ef8d578f2fe36aec760174fcf453364d7f68ac33ee99c570fc271
 - Slug：`music-taste`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:07.717725+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:39.315829+00:00`
 - ID：`topic_chr_0021_whiten_1`
 - 包含会话：`sns_topic_chr_0021_whiten_1`
 

@@ -5,9 +5,9 @@ slug: "yinglung-special-task-force"
 source_id: "topic_map02_lv004_12001"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv004_12001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:49.711375+00:00"
-source_sha256: "b03551d451092a23f204b7d0d315984e2c9376aef0184420e0d4fbd6ad6cac72"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:22.012776+00:00"
+source_sha256: "fcb016ff5720baba82f25ce243359b2e49f3d9a005a855d6a48286a48bb2fd4b"
 ---
 
 # 应龙特勤队
@@ -18,8 +18,8 @@ source_sha256: "b03551d451092a23f204b7d0d315984e2c9376aef0184420e0d4fbd6ad6cac72
 - Slug：`yinglung-special-task-force`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv004_12001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:49.711375+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:22.012776+00:00`
 - ID：`topic_map02_lv004_12001`
 - 包含会话：`sns_topic_map02_lv004_1`、`sns_topic_map02_lv004_2`
 

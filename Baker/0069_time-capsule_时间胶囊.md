@@ -5,9 +5,9 @@ slug: "time-capsule"
 source_id: "topic_chr_0028_wulfa_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0028_wulfa_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:14.518200+00:00"
-source_sha256: "74a6b11472a4bde9b7766b5364014ceedcd9312604e1833a2a63240fe2ae6153"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:38.884159+00:00"
+source_sha256: "dc0486384707c05f70395873c8ef37a977506c5ca0855c2bcec06822e1282eb1"
 ---
 
 # 时间胶囊
@@ -18,8 +18,8 @@ source_sha256: "74a6b11472a4bde9b7766b5364014ceedcd9312604e1833a2a63240fe2ae6153
 - Slug：`time-capsule`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0028_wulfa_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:14.518200+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:38.884159+00:00`
 - ID：`topic_chr_0028_wulfa_3`
 - 包含会话：`sns_topic_chr_0028_wulfa_3`
 

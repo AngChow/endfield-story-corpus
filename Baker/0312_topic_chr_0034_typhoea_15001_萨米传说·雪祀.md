@@ -5,9 +5,9 @@ slug: "topic_chr_0034_typhoea_15001"
 source_id: "topic_chr_0034_typhoea_15001"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0034_typhoea_15001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:58.331125+00:00"
-source_sha256: "d06683a5112fb2b3dddd0f364985d87c432a39e5436b42138545170e911130e5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:26.559576+00:00"
+source_sha256: "9c47b689463533a1812d4405d025dc9baa6db584a4bdace297a737bc6a0a9744"
 ---
 
 # 萨米传说·雪祀
@@ -18,8 +18,8 @@ source_sha256: "d06683a5112fb2b3dddd0f364985d87c432a39e5436b42138545170e911130e5
 - Slug：`topic_chr_0034_typhoea_15001`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0034_typhoea_15001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:58.331125+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:26.559576+00:00`
 - ID：`topic_chr_0034_typhoea_15001`
 - 包含会话：`sns_topic_chr_0034_typhoea_15001`
 

@@ -5,9 +5,9 @@ slug: "topic_chr_0032_arcane_14002"
 source_id: "topic_chr_0032_arcane_14002"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0032_arcane_14002"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:36.359242+00:00"
-source_sha256: "e5ed71199a9ebedbe3a95b5304d038015332583410ad8484b6714415fdfb2891"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:10.500735+00:00"
+source_sha256: "da12931156ab5dfb16c617679727643ea51b6094d5348e2bc3ec3e9e564a8512"
 ---
 
 # “驯兽师”的习惯
@@ -18,8 +18,8 @@ source_sha256: "e5ed71199a9ebedbe3a95b5304d038015332583410ad8484b6714415fdfb2891
 - Slug：`topic_chr_0032_arcane_14002`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0032_arcane_14002)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:36.359242+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:10.500735+00:00`
 - ID：`topic_chr_0032_arcane_14002`
 - 包含会话：`sns_topic_chr_0032_arcane_14002`
 

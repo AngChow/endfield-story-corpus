@@ -5,9 +5,9 @@ slug: "estella"
 source_id: "chr_0021_whiten"
 source_url: "https://warfarin.wiki/cn/operators/estella"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:45:12.171257+00:00"
-source_sha256: "742dfa622e0a9f7ff26117ceb00d91469f7bbeb741b912c5777f70b41a023be7"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:36.270953+00:00"
+source_sha256: "031de65b14a12294e501226055514e0905ed01602fae6d598c37c95c2939ac86"
 ---
 
 # 埃特拉
@@ -18,8 +18,8 @@ source_sha256: "742dfa622e0a9f7ff26117ceb00d91469f7bbeb741b912c5777f70b41a023be7
 - Slug：`estella`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/estella)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:45:12.171257+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:36.270953+00:00`
 - ID：`chr_0021_whiten`
 - 英文名：Estella
 - 稀有度：4★

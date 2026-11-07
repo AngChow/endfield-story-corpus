@@ -5,9 +5,9 @@ slug: "technical-glitch"
 source_id: "topic_map01_lv007_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv007_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:13.894265+00:00"
-source_sha256: "856e72a8eb59b74a36b7356a8a3b7d01af0a089b4abb096575318d5f0c7d689f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:46.930755+00:00"
+source_sha256: "70435f9c0995b9bde0cf0ef993615f932d2b84159dc3509840ecafc13b136331"
 ---
 
 # 机械故障
@@ -18,8 +18,8 @@ source_sha256: "856e72a8eb59b74a36b7356a8a3b7d01af0a089b4abb096575318d5f0c7d689f
 - Slug：`technical-glitch`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv007_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:13.894265+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:46.930755+00:00`
 - ID：`topic_map01_lv007_3`
 - 包含会话：`sns_topic_map01_lv007_5`、`sns_topic_map01_lv007_6`
 

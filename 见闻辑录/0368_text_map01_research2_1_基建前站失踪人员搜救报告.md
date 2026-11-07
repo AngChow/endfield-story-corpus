@@ -5,9 +5,9 @@ slug: "text_map01_research2_1"
 source_id: "text_map01_research2_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research2_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:35:26.284762+00:00"
-source_sha256: "7dccf21a7f5f3194a444a31cbc510cc6145772f476ca3d08592b6ec49147cdac"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:03.448545+00:00"
+source_sha256: "7e3992a07827336868275da6b9521a1a39277702df0146d70b3ef9c0105cd38b"
 ---
 
 # 基建前站失踪人员搜救报告
@@ -18,8 +18,8 @@ source_sha256: "7dccf21a7f5f3194a444a31cbc510cc6145772f476ca3d08592b6ec49147cdac
 - Slug：`text_map01_research2_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research2_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:35:26.284762+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:03.448545+00:00`
 - ID：`text_map01_research2_1`
 - 条目 ID：`nar_report_map01_research2_5_1`
 - 正文 ID：`text_map01_research2_1`

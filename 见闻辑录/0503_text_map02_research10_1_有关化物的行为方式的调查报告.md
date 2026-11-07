@@ -5,9 +5,9 @@ slug: "text_map02_research10_1"
 source_id: "text_map02_research10_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research10_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:32.522342+00:00"
-source_sha256: "b6401047005589a496cc624a0f0d995409b4a7e61e2ff61f6bdb913c9e6308c5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:17.466382+00:00"
+source_sha256: "dc6b78eaf8101bc9c6773c18b192d550053745b264760c232579c06f8c15b05f"
 ---
 
 # 有关化物的行为方式的调查报告
@@ -18,8 +18,8 @@ source_sha256: "b6401047005589a496cc624a0f0d995409b4a7e61e2ff61f6bdb913c9e6308c5
 - Slug：`text_map02_research10_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research10_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:32.522342+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:17.466382+00:00`
 - ID：`text_map02_research10_1`
 - 条目 ID：`nar_report_map02_research10_5_1`
 - 正文 ID：`text_map02_research10_1`

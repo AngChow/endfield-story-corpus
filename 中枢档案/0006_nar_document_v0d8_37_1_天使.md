@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_37_1"
 source_id: "nar_document_v0d8_37_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_37_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:17:56.978034+00:00"
-source_sha256: "8257d9a29d0d76701ef33f3ff1f0a317ec26be64e0fb2b036bb2a3fe6dec27d3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:40.457465+00:00"
+source_sha256: "964226b1d1aaa6dadbd6cbb1a2bfa6665b85f696afc925dfd6ef492769ef7f80"
 ---
 
 # 天使
@@ -18,8 +18,8 @@ source_sha256: "8257d9a29d0d76701ef33f3ff1f0a317ec26be64e0fb2b036bb2a3fe6dec27d3
 - Slug：`nar_document_v0d8_37_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_37_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:17:56.978034+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:40.457465+00:00`
 - ID：`nar_document_v0d8_37_1`
 - 条目 ID：`nar_document_v0d8_37_1`
 - 正文 ID：`text_v0d8_37`

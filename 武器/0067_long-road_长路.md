@@ -5,9 +5,9 @@ slug: "long-road"
 source_id: "wpn_pistol_0003"
 source_url: "https://warfarin.wiki/cn/weapons/long-road"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:13.938256+00:00"
-source_sha256: "8eb0a503745a141ff13b4443a793b97dd0654392c39b34be51461b73c2034c7d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:19.916484+00:00"
+source_sha256: "b3727f46341195e4084ed9db5344a120318c51530ea3f202d9e1fe2138f5dbf6"
 ---
 
 # 长路
@@ -18,8 +18,8 @@ source_sha256: "8eb0a503745a141ff13b4443a793b97dd0654392c39b34be51461b73c2034c7d
 - Slug：`long-road`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/long-road)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:13.938256+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:19.916484+00:00`
 - ID：`wpn_pistol_0003`
 - 英文名：Long Road
 - 稀有度：4★

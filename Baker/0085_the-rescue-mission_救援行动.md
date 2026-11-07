@@ -5,9 +5,9 @@ slug: "the-rescue-mission"
 source_id: "topic_map01_lv006_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv006_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:02.904248+00:00"
-source_sha256: "d37533b20f05831a69bb8f8b31574a4285f718ab8ec8e72ae186ed713e0067b2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:32.628663+00:00"
+source_sha256: "dc318a58dcd767fa64cd9a444617f9fb09a4504508405e8143c2b5c9ae9b9498"
 ---
 
 # 救援行动
@@ -18,8 +18,8 @@ source_sha256: "d37533b20f05831a69bb8f8b31574a4285f718ab8ec8e72ae186ed713e0067b2
 - Slug：`the-rescue-mission`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv006_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:02.904248+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:32.628663+00:00`
 - ID：`topic_map01_lv006_1`
 - 包含会话：`sns_topic_map01_lv006_1`、`sns_topic_map01_lv006_2`
 

@@ -5,9 +5,9 @@ slug: "nar_document_v1d6_2_1"
 source_id: "nar_document_v1d6_2_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d6_2_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:22:56.128296+00:00"
-source_sha256: "571a25c483acf5cd783bfed5d389f2bbf21391eb040d0a8860476eeaba1565cf"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:30.975659+00:00"
+source_sha256: "67d18ae8f901ee9d5d9d319324d186960f576ec23b3405351ce6b79e48820f81"
 ---
 
 # 化物
@@ -18,8 +18,8 @@ source_sha256: "571a25c483acf5cd783bfed5d389f2bbf21391eb040d0a8860476eeaba1565cf
 - Slug：`nar_document_v1d6_2_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d6_2_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:22:56.128296+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:30.975659+00:00`
 - ID：`nar_document_v1d6_2_1`
 - 条目 ID：`nar_document_v1d6_2_1`
 - 正文 ID：`text_v1d6_2`

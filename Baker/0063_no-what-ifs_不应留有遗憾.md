@@ -5,9 +5,9 @@ slug: "no-what-ifs"
 source_id: "topic_chr_0026_lastrite_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0026_lastrite_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:01.587863+00:00"
-source_sha256: "4e49aba0f6c138e39af6ae8ba24f3387391c4b3ecbb3afad203ea028e1763ade"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:16.852889+00:00"
+source_sha256: "7104a1aeb16f410885c53d25483c9ac27c877ef2d3dcb57fc41123623a23210d"
 ---
 
 # 不应留有遗憾
@@ -18,8 +18,8 @@ source_sha256: "4e49aba0f6c138e39af6ae8ba24f3387391c4b3ecbb3afad203ea028e1763ade
 - Slug：`no-what-ifs`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0026_lastrite_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:01.587863+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:16.852889+00:00`
 - ID：`topic_chr_0026_lastrite_3`
 - 包含会话：`sns_topic_chr_0026_lastrite_3`
 

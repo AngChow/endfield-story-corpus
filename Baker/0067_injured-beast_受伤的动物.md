@@ -5,9 +5,9 @@ slug: "injured-beast"
 source_id: "topic_chr_0028_wulfa_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0028_wulfa_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:09.130912+00:00"
-source_sha256: "05b05fc7eea3eb025e67a57ec7d99ae333e61c04e278c67baf081202b392f3d5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:32.445246+00:00"
+source_sha256: "4b5275af89be53f95706c563b075b0b7b523776cea2bf0ad4d73f9a7a9d42189"
 ---
 
 # 受伤的动物
@@ -18,8 +18,8 @@ source_sha256: "05b05fc7eea3eb025e67a57ec7d99ae333e61c04e278c67baf081202b392f3d5
 - Slug：`injured-beast`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0028_wulfa_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:09.130912+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:32.445246+00:00`
 - ID：`topic_chr_0028_wulfa_1`
 - 包含会话：`sns_topic_chr_0028_wulfa_1`
 

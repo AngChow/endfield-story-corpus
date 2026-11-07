@@ -5,9 +5,9 @@ slug: "navigator"
 source_id: "wpn_pistol_0005"
 source_url: "https://warfarin.wiki/cn/weapons/navigator"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:21.988065+00:00"
-source_sha256: "a5ec9ee79093b654e448d3f8a85334eeba07bb6616093b4267daa8c57dba0cd6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:30.907818+00:00"
+source_sha256: "43052bb4f0f9d8113bab21813e3f88bf674b6194607fcaa7a2b3406fc0558ee6"
 ---
 
 # 领航者
@@ -18,8 +18,8 @@ source_sha256: "a5ec9ee79093b654e448d3f8a85334eeba07bb6616093b4267daa8c57dba0cd6
 - Slug：`navigator`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/navigator)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:21.988065+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:30.907818+00:00`
 - ID：`wpn_pistol_0005`
 - 英文名：Navigator
 - 稀有度：6★

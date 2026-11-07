@@ -5,9 +5,9 @@ slug: "sufferings-end"
 source_id: "wpn_funnel_0020"
 source_url: "https://warfarin.wiki/cn/weapons/sufferings-end"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:06:36.044094+00:00"
-source_sha256: "c182c575f857dfda942ec47eb01f5e22cbc99e8bdf02f09eee1f15844a63725c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:14.516092+00:00"
+source_sha256: "46a0e06066cabaa4ed730741776a7ff14170851c2a3dc1ea28b1b002df3dbed3"
 ---
 
 # 苦难的尽头
@@ -18,8 +18,8 @@ source_sha256: "c182c575f857dfda942ec47eb01f5e22cbc99e8bdf02f09eee1f15844a63725c
 - Slug：`sufferings-end`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/sufferings-end)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:06:36.044094+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:14.516092+00:00`
 - ID：`wpn_funnel_0020`
 - 英文名：Suffering's End
 - 稀有度：6★

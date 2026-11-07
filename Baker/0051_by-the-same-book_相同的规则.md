@@ -5,9 +5,9 @@ slug: "by-the-same-book"
 source_id: "topic_chr_0022_bounda_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0022_bounda_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:18.945003+00:00"
-source_sha256: "469d179aae406ff1d21ae1c9d6fe622e7f249e0bf933a1504d1f1c87288b52cc"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:43.864702+00:00"
+source_sha256: "7e2e11e58da1223faf8812b726bada371926c7af47ef0b399aece8646f0f63fe"
 ---
 
 # 相同的规则
@@ -18,8 +18,8 @@ source_sha256: "469d179aae406ff1d21ae1c9d6fe622e7f249e0bf933a1504d1f1c87288b52cc
 - Slug：`by-the-same-book`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0022_bounda_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:18.945003+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:43.864702+00:00`
 - ID：`topic_chr_0022_bounda_3`
 - 包含会话：`sns_topic_chr_0022_bounda_3`
 

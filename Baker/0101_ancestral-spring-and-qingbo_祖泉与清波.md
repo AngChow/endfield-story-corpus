@@ -5,9 +5,9 @@ slug: "ancestral-spring-and-qingbo"
 source_id: "topic_map02_lv003_11002"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv003_11002"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:36.845724+00:00"
-source_sha256: "b53ecb38f74e8bc75a87e62cba4952bb463dec9cc0262d5271d1de3e3d1367b3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:18.185923+00:00"
+source_sha256: "c1c915dbe953d1244297c02ff99cc236da53eae7128d5993667eface7b682097"
 ---
 
 # 祖泉与清波
@@ -18,8 +18,8 @@ source_sha256: "b53ecb38f74e8bc75a87e62cba4952bb463dec9cc0262d5271d1de3e3d1367b3
 - Slug：`ancestral-spring-and-qingbo`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv003_11002)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:36.845724+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:18.185923+00:00`
 - ID：`topic_map02_lv003_11002`
 - 包含会话：`sns_topic_map02_lv003_4`、`sns_topic_map02_lv003_5`
 

@@ -5,9 +5,9 @@ slug: "topic_chr_0038_purrchena_15001"
 source_id: "topic_chr_0038_purrchena_15001"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0038_purrchena_15001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:17.946341+00:00"
-source_sha256: "d518df8e8e9af659b837333ab0903f74c3df195abda25f780ac47c6887a73b4d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:54.103107+00:00"
+source_sha256: "bb1e9b4f5a844f516627217e347b08a9bfdacfd0397a96d3f95b414fe51bd888"
 ---
 
 # 噗切娜的消息误发啦！
@@ -18,8 +18,8 @@ source_sha256: "d518df8e8e9af659b837333ab0903f74c3df195abda25f780ac47c6887a73b4d
 - Slug：`topic_chr_0038_purrchena_15001`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0038_purrchena_15001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:17.946341+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:54.103107+00:00`
 - ID：`topic_chr_0038_purrchena_15001`
 - 包含会话：`sns_topic_chr_0038_purrchena_15001`
 

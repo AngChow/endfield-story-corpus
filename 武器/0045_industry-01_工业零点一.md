@@ -5,9 +5,9 @@ slug: "industry-01"
 source_id: "wpn_claym_0003"
 source_url: "https://warfarin.wiki/cn/weapons/industry-01"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:55:38.204861+00:00"
-source_sha256: "2922b6b04145c41439f4777a0dfe23f2c15fb631b6c214a7457d0e64cbed059c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:25.626057+00:00"
+source_sha256: "493562118b8061a6bcbc62a410e3fbe9d42b0725cc84481949c2c7d164cb3d84"
 ---
 
 # 工业零点一
@@ -18,8 +18,8 @@ source_sha256: "2922b6b04145c41439f4777a0dfe23f2c15fb631b6c214a7457d0e64cbed059c
 - Slug：`industry-01`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/industry-01)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:55:38.204861+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:25.626057+00:00`
 - ID：`wpn_claym_0003`
 - 英文名：Industry 0.1
 - 稀有度：4★

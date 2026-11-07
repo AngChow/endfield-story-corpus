@@ -5,9 +5,9 @@ slug: "white-night-nova"
 source_id: "wpn_sword_0014"
 source_url: "https://warfarin.wiki/cn/weapons/white-night-nova"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:09:54.689161+00:00"
-source_sha256: "2022e6519d1cf48346ec1b3c771e81cd6b9549ad9317d2ffa561eef3b3fc3b21"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:20.520044+00:00"
+source_sha256: "0927c101cf8f7568a056204ce48625626ac0fb0d9440a887d5cbd33f3baa7a24"
 ---
 
 # 白夜新星
@@ -18,8 +18,8 @@ source_sha256: "2022e6519d1cf48346ec1b3c771e81cd6b9549ad9317d2ffa561eef3b3fc3b21
 - Slug：`white-night-nova`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/white-night-nova)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:09:54.689161+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:20.520044+00:00`
 - ID：`wpn_sword_0014`
 - 英文名：White Night Nova
 - 稀有度：6★

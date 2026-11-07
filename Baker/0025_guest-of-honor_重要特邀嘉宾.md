@@ -5,9 +5,9 @@ slug: "guest-of-honor"
 source_id: "topic_chr_0014_aurora_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0014_aurora_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:13.620553+00:00"
-source_sha256: "343327c483bcde2fbde96d02eaafeedc9467e9f625db71ae58c9791c48b9d83c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:24.149941+00:00"
+source_sha256: "290c506438435031e43b07ab5cdd6e74c5ab77a6c6fa2a240a4126b4398d53c1"
 ---
 
 # 重要特邀嘉宾
@@ -18,8 +18,8 @@ source_sha256: "343327c483bcde2fbde96d02eaafeedc9467e9f625db71ae58c9791c48b9d83c
 - Slug：`guest-of-honor`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0014_aurora_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:13.620553+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:24.149941+00:00`
 - ID：`topic_chr_0014_aurora_1`
 - 包含会话：`sns_topic_chr_0014_aurora_1`
 

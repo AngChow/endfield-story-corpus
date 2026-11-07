@@ -5,9 +5,9 @@ slug: "jade-vessel"
 source_id: "wpn_claym_0018"
 source_url: "https://warfarin.wiki/cn/weapons/jade-vessel"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:55:39.773105+00:00"
-source_sha256: "592b96ac95592d660ac244ac5dc7895990efa953441ff111acfddce8daede419"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:29.448570+00:00"
+source_sha256: "aaa918b3529ceb7f2252792d8d8c077a47065d6c6cfee670b59028136ec98a29"
 ---
 
 # 玉中身
@@ -18,8 +18,8 @@ source_sha256: "592b96ac95592d660ac244ac5dc7895990efa953441ff111acfddce8daede419
 - Slug：`jade-vessel`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/jade-vessel)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:55:39.773105+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:29.448570+00:00`
 - ID：`wpn_claym_0018`
 - 英文名：Jade Vessel
 - 稀有度：6★

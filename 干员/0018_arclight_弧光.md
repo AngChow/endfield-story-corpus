@@ -5,9 +5,9 @@ slug: "arclight"
 source_id: "chr_0007_ikut"
 source_url: "https://warfarin.wiki/cn/operators/arclight"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:42:34.198972+00:00"
-source_sha256: "01ce567ac7853bd57a3ebdd38475659aa6662a13a38b71d7522d85b5c7f16bd2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:31.265243+00:00"
+source_sha256: "c6859fef43a5f64e900990b051163c9a96d802327fb83efaf085ad31209ea113"
 ---
 
 # 弧光
@@ -18,8 +18,8 @@ source_sha256: "01ce567ac7853bd57a3ebdd38475659aa6662a13a38b71d7522d85b5c7f16bd2
 - Slug：`arclight`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/arclight)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:42:34.198972+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:31.265243+00:00`
 - ID：`chr_0007_ikut`
 - 英文名：Arclight
 - 稀有度：5★

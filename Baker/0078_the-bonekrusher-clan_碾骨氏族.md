@@ -5,9 +5,9 @@ slug: "the-bonekrusher-clan"
 source_id: "topic_map01_lv002_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv002_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:33.719515+00:00"
-source_sha256: "ae12373b3539d9a7ec49823d6282b50d4b056ca7195ecd99f4f33705eca6445f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:08.630512+00:00"
+source_sha256: "1fe338306d668260032fbe24c6b25a1bd56e225aeba9f54baf2c571e052d26ad"
 ---
 
 # 碾骨氏族
@@ -18,8 +18,8 @@ source_sha256: "ae12373b3539d9a7ec49823d6282b50d4b056ca7195ecd99f4f33705eca6445f
 - Slug：`the-bonekrusher-clan`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv002_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:33.719515+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:08.630512+00:00`
 - ID：`topic_map01_lv002_1`
 - 包含会话：`sns_topic_map01_lv002_1`、`sns_topic_map01_lv002_2`
 

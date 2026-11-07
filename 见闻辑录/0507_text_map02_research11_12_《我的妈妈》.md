@@ -5,9 +5,9 @@ slug: "text_map02_research11_12"
 source_id: "text_map02_research11_12"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_12"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:41.102464+00:00"
-source_sha256: "cdf7ff8933dd441e7884c59f0aa549749ce89d66e14cd00084acd1e2aad2b2b6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:24.601599+00:00"
+source_sha256: "6081e9d1afe7fb89e3efd41b5d553a8e204fed8b0fea5071c7c5400dc8986726"
 ---
 
 # 《我的妈妈》
@@ -18,8 +18,8 @@ source_sha256: "cdf7ff8933dd441e7884c59f0aa549749ce89d66e14cd00084acd1e2aad2b2b6
 - Slug：`text_map02_research11_12`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_12)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:41.102464+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:24.601599+00:00`
 - ID：`text_map02_research11_12`
 - 条目 ID：`nar_paper_map02_research11_8_1`
 - 正文 ID：`text_map02_research11_12`

@@ -5,9 +5,9 @@ slug: "lone-barge"
 source_id: "wpn_funnel_0015"
 source_url: "https://warfarin.wiki/cn/weapons/lone-barge"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:08.250012+00:00"
-source_sha256: "ea78b59d71d1b6c1c2be027719a3b7dc61acd0d284817c469b21f3549f6f5f3d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:59.632270+00:00"
+source_sha256: "daa4f52a4f4491c9ed009a693b4b0e4e1d8805ae756073e36a5978007e64b474"
 ---
 
 # 孤舟
@@ -18,8 +18,8 @@ source_sha256: "ea78b59d71d1b6c1c2be027719a3b7dc61acd0d284817c469b21f3549f6f5f3d
 - Slug：`lone-barge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/lone-barge)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:08.250012+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:59.632270+00:00`
 - ID：`wpn_funnel_0015`
 - 英文名：Lone Barge
 - 稀有度：6★

@@ -5,9 +5,9 @@ slug: "nar_report_map02_research6_7_1"
 source_id: "nar_report_map02_research6_7_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research6_7_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:29.819703+00:00"
-source_sha256: "409362436ac4aa8a3e81b6b07825f6fd4b594534028276998886f9e6ed7b478e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:52.155387+00:00"
+source_sha256: "3aa645eba62dd3447692c518b642f10fe8c24d4326b0a668d484f9abc1d1904f"
 ---
 
 # 有关藏剑谷炎国遗迹的调查报告
@@ -18,8 +18,8 @@ source_sha256: "409362436ac4aa8a3e81b6b07825f6fd4b594534028276998886f9e6ed7b478e
 - Slug：`nar_report_map02_research6_7_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research6_7_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:29.819703+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:52.155387+00:00`
 - ID：`nar_report_map02_research6_7_1`
 - 条目 ID：`nar_report_map02_research6_7_1`
 - 正文 ID：`text_map02_research6_1`

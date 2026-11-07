@@ -5,9 +5,9 @@ slug: "same-kind-of-trouble"
 source_id: "topic_chr_0004_pelica_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0004_pelica_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:39.382428+00:00"
-source_sha256: "19144014dc5e31ce7f91128839246784d023007acf4691e8a23cba45a44ee249"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:08.931073+00:00"
+source_sha256: "438963226c06326f2725a04c02914c4e479197b91fd98ffc35ece34cadee4987"
 ---
 
 # 同一种烦恼
@@ -18,8 +18,8 @@ source_sha256: "19144014dc5e31ce7f91128839246784d023007acf4691e8a23cba45a44ee249
 - Slug：`same-kind-of-trouble`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0004_pelica_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:39.382428+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:08.931073+00:00`
 - ID：`topic_chr_0004_pelica_3`
 - 包含会话：`sns_topic_chr_0004_pelica_3`
 

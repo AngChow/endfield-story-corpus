@@ -5,9 +5,9 @@ slug: "da-pan"
 source_id: "chr_0018_dapan"
 source_url: "https://warfarin.wiki/cn/operators/da-pan"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:44:21.729526+00:00"
-source_sha256: "b8a9633d21224ffea204f8bd02ae229656b64308ed354e7ea03832a76497a22c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:47.646114+00:00"
+source_sha256: "e766ee0ff3ac6d31c32c49245ed391d609cf22c20d265a8b68ca00bec44dd4d1"
 ---
 
 # 大潘
@@ -18,8 +18,8 @@ source_sha256: "b8a9633d21224ffea204f8bd02ae229656b64308ed354e7ea03832a76497a22c
 - Slug：`da-pan`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/da-pan)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:44:21.729526+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:47.646114+00:00`
 - ID：`chr_0018_dapan`
 - 英文名：Da Pan
 - 稀有度：5★

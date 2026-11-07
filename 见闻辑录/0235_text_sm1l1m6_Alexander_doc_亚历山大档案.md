@@ -5,9 +5,9 @@ slug: "text_sm1l1m6_Alexander_doc"
 source_id: "text_sm1l1m6_Alexander_doc"
 source_url: "https://warfarin.wiki/cn/lore/text_sm1l1m6_Alexander_doc"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:52:42.288100+00:00"
-source_sha256: "33f0c4f994801e16f68ba72ca9a1bd2eb554646878d37530ab0aa92980fc2078"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:27:13.524221+00:00"
+source_sha256: "efa113cb773260cdca2ba9aa15b393de55ddac2a10a1a8f648d15d45f13c9296"
 ---
 
 # 亚历山大档案
@@ -18,8 +18,8 @@ source_sha256: "33f0c4f994801e16f68ba72ca9a1bd2eb554646878d37530ab0aa92980fc2078
 - Slug：`text_sm1l1m6_Alexander_doc`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_sm1l1m6_Alexander_doc)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:52:42.288100+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:27:13.524221+00:00`
 - ID：`text_sm1l1m6_Alexander_doc`
 - 条目 ID：`nar_sm1l1m6_Alexander_doc`
 - 正文 ID：`text_sm1l1m6_Alexander_doc`

@@ -5,9 +5,9 @@ slug: "now-playing"
 source_id: "topic_chr_0018_dapan_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0018_dapan_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:40.824973+00:00"
-source_sha256: "19ab3745ef83b13f585ec3d65bcfcbb94d5328ce35cae62c6eb4d1439a658bac"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:58.676238+00:00"
+source_sha256: "c4afbbe90008ecac1aa5e64661e34ef968e4bb5a12217eff04035f4d93d82c6e"
 ---
 
 # 电影上映
@@ -18,8 +18,8 @@ source_sha256: "19ab3745ef83b13f585ec3d65bcfcbb94d5328ce35cae62c6eb4d1439a658bac
 - Slug：`now-playing`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0018_dapan_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:40.824973+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:58.676238+00:00`
 - ID：`topic_chr_0018_dapan_2`
 - 包含会话：`sns_topic_chr_0018_dapan_2`
 

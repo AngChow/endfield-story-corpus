@@ -5,9 +5,9 @@ slug: "topic_chr_0032_arcane_14001"
 source_id: "topic_chr_0032_arcane_14001"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0032_arcane_14001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:34.260067+00:00"
-source_sha256: "89840b74962f61ede54d7ec88993acbd41782900f9daaf721517bc429658a835"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:08.479640+00:00"
+source_sha256: "2f3bd8883a155c969a289a4ed7dc90b10ee6f1ff4a201e52dd6c646d262578de"
 ---
 
 # 难得片刻闲余
@@ -18,8 +18,8 @@ source_sha256: "89840b74962f61ede54d7ec88993acbd41782900f9daaf721517bc429658a835
 - Slug：`topic_chr_0032_arcane_14001`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0032_arcane_14001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:34.260067+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:08.479640+00:00`
 - ID：`topic_chr_0032_arcane_14001`
 - 包含会话：`sns_topic_chr_0032_arcane_14001`
 

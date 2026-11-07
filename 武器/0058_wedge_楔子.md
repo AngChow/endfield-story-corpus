@@ -5,9 +5,9 @@ slug: "wedge"
 source_id: "wpn_pistol_0008"
 source_url: "https://warfarin.wiki/cn/weapons/wedge"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:09:50.429175+00:00"
-source_sha256: "524c28a3ff676675b9fd9cc9a588e0cb5cd946b17a15d8e5ab908fb588d9f0a1"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:13.250442+00:00"
+source_sha256: "0a6c22172860f39cf4943442f3123fe2290f1aec671f202f59e4b0cb08b67ae3"
 ---
 
 # 楔子
@@ -18,8 +18,8 @@ source_sha256: "524c28a3ff676675b9fd9cc9a588e0cb5cd946b17a15d8e5ab908fb588d9f0a1
 - Slug：`wedge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/wedge)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:09:50.429175+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:13.250442+00:00`
 - ID：`wpn_pistol_0008`
 - 英文名：Wedge
 - 稀有度：6★

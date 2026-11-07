@@ -5,9 +5,9 @@ slug: "nar_document_v1d5_1_1"
 source_id: "nar_document_v1d5_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d5_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:21:38.276318+00:00"
-source_sha256: "e02fdb79df8a0fab8e060014bc28316e504a632c58708e240be4efe19f472ab0"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:12.133134+00:00"
+source_sha256: "f62c74272bacf45c780df82a23b4ddbd9236d4617b0a0fb82e4e9fa8e62aa3d1"
 ---
 
 # 萨米维格
@@ -18,8 +18,8 @@ source_sha256: "e02fdb79df8a0fab8e060014bc28316e504a632c58708e240be4efe19f472ab0
 - Slug：`nar_document_v1d5_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d5_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:21:38.276318+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:12.133134+00:00`
 - ID：`nar_document_v1d5_1_1`
 - 条目 ID：`nar_document_v1d5_1_1`
 - 正文 ID：`text_v1d5_1`

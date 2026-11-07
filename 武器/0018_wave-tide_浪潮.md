@@ -5,9 +5,9 @@ slug: "wave-tide"
 source_id: "wpn_sword_0009"
 source_url: "https://warfarin.wiki/cn/weapons/wave-tide"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:32.046441+00:00"
-source_sha256: "d731ae11027badf3bcbdebc9b5e4fe8f4f001c0cf2086acfa6d767864832d2ed"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:10.027585+00:00"
+source_sha256: "eaaa6b09a6a485501c280607215b1635e13872f9e3dc510123dfd41e22410f81"
 ---
 
 # 浪潮
@@ -18,8 +18,8 @@ source_sha256: "d731ae11027badf3bcbdebc9b5e4fe8f4f001c0cf2086acfa6d767864832d2ed
 - Slug：`wave-tide`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/wave-tide)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:32.046441+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:10.027585+00:00`
 - ID：`wpn_sword_0009`
 - 英文名：Wave Tide
 - 稀有度：4★

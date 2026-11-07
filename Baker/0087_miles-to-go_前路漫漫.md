@@ -5,9 +5,9 @@ slug: "miles-to-go"
 source_id: "topic_map01_lv006_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv006_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:07.788670+00:00"
-source_sha256: "88cf65b96426ef7d1315ec888f1d3e496a0582076959897baa334e7448c008c5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:38.169772+00:00"
+source_sha256: "a90b56c20bea69f6cb20771d9e7da50aa4bbcb5071939ab9a971b654b305b6a7"
 ---
 
 # 前路漫漫
@@ -18,8 +18,8 @@ source_sha256: "88cf65b96426ef7d1315ec888f1d3e496a0582076959897baa334e7448c008c5
 - Slug：`miles-to-go`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv006_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:07.788670+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:38.169772+00:00`
 - ID：`topic_map01_lv006_3`
 - 包含会话：`sns_topic_map01_lv006_5`、`sns_topic_map01_lv006_6`
 

@@ -5,9 +5,9 @@ slug: "boundless-energy"
 source_id: "topic_chr_0015_lifeng_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0015_lifeng_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:19.143008+00:00"
-source_sha256: "d340e955e08799d6b2497da5dec2fa5b4567a3bacc07314c73f2bfcc5a9a8455"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:25.955147+00:00"
+source_sha256: "55ffdb763683d94a6ab9ee1c442c0b1fd6cf73688a3f257d12e24cdd8bd8fb79"
 ---
 
 # 充沛能量
@@ -18,8 +18,8 @@ source_sha256: "d340e955e08799d6b2497da5dec2fa5b4567a3bacc07314c73f2bfcc5a9a8455
 - Slug：`boundless-energy`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0015_lifeng_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:19.143008+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:25.955147+00:00`
 - ID：`topic_chr_0015_lifeng_1`
 - 包含会话：`sns_topic_chr_0015_lifeng_1`
 

@@ -5,9 +5,9 @@ slug: "spring-tea-of-wuling"
 source_id: "topic_chr_0030_zhuangfy_12001"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0030_zhuangfy_12001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:22.535699+00:00"
-source_sha256: "25f2dd417d8f28a40423c05431729188c7ab48d9fff170566aca0b0093368091"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:51.585135+00:00"
+source_sha256: "0280cc229132db5595d50444dfd0930815de71d743719603d9d39ae6de67b5e0"
 ---
 
 # 武陵春茶
@@ -18,8 +18,8 @@ source_sha256: "25f2dd417d8f28a40423c05431729188c7ab48d9fff170566aca0b0093368091
 - Slug：`spring-tea-of-wuling`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0030_zhuangfy_12001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:22.535699+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:51.585135+00:00`
 - ID：`topic_chr_0030_zhuangfy_12001`
 - 包含会话：`sns_topic_chr_0030_zhuangfy_12001`
 

@@ -5,9 +5,9 @@ slug: "a-voice-for-the-land"
 source_id: "topic_chr_0025_ardelia_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0025_ardelia_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:40.887698+00:00"
-source_sha256: "89e0a94231c12a723c7405afed09990ad3ada730117ca1744f88bdf88d576129"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:03.982477+00:00"
+source_sha256: "33016999891f64bdb9a375b6f735cbe7ab14d38bc805cf90a3dab3243e5ddca6"
 ---
 
 # 为大地发声
@@ -18,8 +18,8 @@ source_sha256: "89e0a94231c12a723c7405afed09990ad3ada730117ca1744f88bdf88d576129
 - Slug：`a-voice-for-the-land`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0025_ardelia_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:40.887698+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:03.982477+00:00`
 - ID：`topic_chr_0025_ardelia_2`
 - 包含会话：`sns_topic_chr_0025_ardelia_2`
 

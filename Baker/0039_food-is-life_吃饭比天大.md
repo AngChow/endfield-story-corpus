@@ -5,9 +5,9 @@ slug: "food-is-life"
 source_id: "topic_chr_0018_dapan_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0018_dapan_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:43.878467+00:00"
-source_sha256: "3a3e5b0e939031152506f4593e987418774dcbb07d64c9b7efc38327c2367fde"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:00.221432+00:00"
+source_sha256: "e0ffa4559c7a5df93908831682b4b596c13513fa5f5bffba8a62c052fa139160"
 ---
 
 # 吃饭比天大
@@ -18,8 +18,8 @@ source_sha256: "3a3e5b0e939031152506f4593e987418774dcbb07d64c9b7efc38327c2367fde
 - Slug：`food-is-life`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0018_dapan_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:43.878467+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:00.221432+00:00`
 - ID：`topic_chr_0018_dapan_3`
 - 包含会话：`sns_topic_chr_0018_dapan_3`
 

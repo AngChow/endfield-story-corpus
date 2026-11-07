@@ -5,9 +5,9 @@ slug: "nar_document_v1d2_10_1"
 source_id: "nar_document_v1d2_10_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d2_10_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:18:21.109247+00:00"
-source_sha256: "04c27ff4b61294926163cabf728ae2d4111903bb16b0ad73096212bd164b37e0"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:26.546239+00:00"
+source_sha256: "dbaf9e3c459e54207b0a9ac3436d9e73a65292a64ad7a2dc8c6d675b05f13d35"
 ---
 
 # 宏山选剑局
@@ -18,8 +18,8 @@ source_sha256: "04c27ff4b61294926163cabf728ae2d4111903bb16b0ad73096212bd164b37e0
 - Slug：`nar_document_v1d2_10_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d2_10_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:18:21.109247+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:26.546239+00:00`
 - ID：`nar_document_v1d2_10_1`
 - 条目 ID：`nar_document_v1d2_10_1`
 - 正文 ID：`text_v1d2_10`

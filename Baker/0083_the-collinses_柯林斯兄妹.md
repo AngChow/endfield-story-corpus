@@ -5,9 +5,9 @@ slug: "the-collinses"
 source_id: "topic_map01_lv005_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv005_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:58.704896+00:00"
-source_sha256: "606230ddb4e5abfcfab332fec057b52f9faeaa60f057088324b2c969d44f6157"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:27.663815+00:00"
+source_sha256: "2a64ae515266cc6f138db56956c8d5ce05ebc58faf906da66bdbd9bc42a66002"
 ---
 
 # 柯林斯兄妹
@@ -18,8 +18,8 @@ source_sha256: "606230ddb4e5abfcfab332fec057b52f9faeaa60f057088324b2c969d44f6157
 - Slug：`the-collinses`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv005_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:58.704896+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:27.663815+00:00`
 - ID：`topic_map01_lv005_2`
 - 包含会话：`sns_topic_map01_lv005_3`、`sns_topic_map01_lv005_4`
 

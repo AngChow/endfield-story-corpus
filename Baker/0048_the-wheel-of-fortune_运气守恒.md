@@ -5,9 +5,9 @@ slug: "the-wheel-of-fortune"
 source_id: "topic_chr_0021_whiten_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:12.546280+00:00"
-source_sha256: "105d645c70343588d1711fde77b0a6d711fddf1c1db71c2f24f13f666b92b43a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:34.856132+00:00"
+source_sha256: "1f435047184bb06dff5aae49589a8223cebef8965dc62cf6645a3a0197e1294d"
 ---
 
 # 运气守恒
@@ -18,8 +18,8 @@ source_sha256: "105d645c70343588d1711fde77b0a6d711fddf1c1db71c2f24f13f666b92b43a
 - Slug：`the-wheel-of-fortune`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:12.546280+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:34.856132+00:00`
 - ID：`topic_chr_0021_whiten_3`
 - 包含会话：`sns_topic_chr_0021_whiten_3`
 

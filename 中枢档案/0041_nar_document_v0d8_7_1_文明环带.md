@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_7_1"
 source_id: "nar_document_v0d8_7_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_7_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:18:13.349630+00:00"
-source_sha256: "c486f67ade77176ce72e0b87106bc1a517bba3e41c278b632ec9336445e1d3dd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:19.419069+00:00"
+source_sha256: "208e69a84d41a11a36239e9dba327976cbbb82d1c610432e5714393fc23478a9"
 ---
 
 # 文明环带
@@ -18,8 +18,8 @@ source_sha256: "c486f67ade77176ce72e0b87106bc1a517bba3e41c278b632ec9336445e1d3dd
 - Slug：`nar_document_v0d8_7_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_7_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:18:13.349630+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:19.419069+00:00`
 - ID：`nar_document_v0d8_7_1`
 - 条目 ID：`nar_document_v0d8_7_1`
 - 正文 ID：`text_v0d8_7`

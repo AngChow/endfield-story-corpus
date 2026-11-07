@@ -5,9 +5,9 @@ slug: "the-murphys-law-enforcer"
 source_id: "topic_chr_0022_bounda_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0022_bounda_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:14.613143+00:00"
-source_sha256: "f37da458a406fd99d7aad22a4a0c7130aec74be5c81de3e7da72057d3f3ab111"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:33.015716+00:00"
+source_sha256: "556d5328462eed7cdb3214e72e595fcf21ca8410d92d7de59f74067d27d8923c"
 ---
 
 # “全自动惹事机”
@@ -18,8 +18,8 @@ source_sha256: "f37da458a406fd99d7aad22a4a0c7130aec74be5c81de3e7da72057d3f3ab111
 - Slug：`the-murphys-law-enforcer`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0022_bounda_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:14.613143+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:33.015716+00:00`
 - ID：`topic_chr_0022_bounda_1`
 - 包含会话：`sns_topic_chr_0022_bounda_1`
 

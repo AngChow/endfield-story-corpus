@@ -5,9 +5,9 @@ slug: "topic_chr_0038_purrchena_15002"
 source_id: "topic_chr_0038_purrchena_15002"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0038_purrchena_15002"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:20.049940+00:00"
-source_sha256: "cc6c647f144a5bda2a86dce5859fba7ee7bffa7046830bd19de6d8cc15965dc6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:57.783344+00:00"
+source_sha256: "62f545cf588f167ce333e98c3dc1717a3b4ce444c2f250c87cc6c5b5e7b4a16c"
 ---
 
 # 噗切娜的睡觉风波哦……
@@ -18,8 +18,8 @@ source_sha256: "cc6c647f144a5bda2a86dce5859fba7ee7bffa7046830bd19de6d8cc15965dc6
 - Slug：`topic_chr_0038_purrchena_15002`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0038_purrchena_15002)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:20.049940+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:57.783344+00:00`
 - ID：`topic_chr_0038_purrchena_15002`
 - 包含会话：`sns_topic_chr_0038_purrchena_15002`
 

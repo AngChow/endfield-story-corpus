@@ -5,9 +5,9 @@ slug: "text_map01_research3_1"
 source_id: "text_map01_research3_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:35:28.127589+00:00"
-source_sha256: "3c2f8659027cb0053fa01bafaa06e2c94990013b43d19ccc55082b5b8c6ad3b5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:03.919195+00:00"
+source_sha256: "b9060daaaed7d2a8ac8aa9ef0b3b8e27575313ff915a6855d24a6adc7c744371"
 ---
 
 # 培训材料：危险野生动物，以及天使
@@ -18,8 +18,8 @@ source_sha256: "3c2f8659027cb0053fa01bafaa06e2c94990013b43d19ccc55082b5b8c6ad3b5
 - Slug：`text_map01_research3_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:35:28.127589+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:03.919195+00:00`
 - ID：`text_map01_research3_1`
 - 条目 ID：`nar_paper_map01_research3_2_1`
 - 正文 ID：`text_map01_research3_1`

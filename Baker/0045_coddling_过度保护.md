@@ -5,9 +5,9 @@ slug: "coddling"
 source_id: "topic_chr_0020_meurs_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0020_meurs_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:06.523400+00:00"
-source_sha256: "c69dde47fdf9b4e2d606b7dad4f99d6e0f1b786ff97c33c0134a5f58bc524e6f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:22.514461+00:00"
+source_sha256: "52847129529aac98770041ad4c1c493cdd60b2fb8f0c012cd759945bf7502d64"
 ---
 
 # 过度保护
@@ -18,8 +18,8 @@ source_sha256: "c69dde47fdf9b4e2d606b7dad4f99d6e0f1b786ff97c33c0134a5f58bc524e6f
 - Slug：`coddling`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0020_meurs_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:06.523400+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:22.514461+00:00`
 - ID：`topic_chr_0020_meurs_3`
 - 包含会话：`sns_topic_chr_0020_meurs_3`
 

@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_5_1"
 source_id: "nar_document_v0d8_5_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_5_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:18:09.886915+00:00"
-source_sha256: "7b2afd4ad3476486d5526a3e256a7fd552a7ec9bdac2445634e86904fdaf3159"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:58.340619+00:00"
+source_sha256: "0c2647f1afcb1d0017905e9fc4e828b6195cab93715cf19362091c083ea6863c"
 ---
 
 # 星门
@@ -18,8 +18,8 @@ source_sha256: "7b2afd4ad3476486d5526a3e256a7fd552a7ec9bdac2445634e86904fdaf3159
 - Slug：`nar_document_v0d8_5_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_5_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:18:09.886915+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:58.340619+00:00`
 - ID：`nar_document_v0d8_5_1`
 - 条目 ID：`nar_document_v0d8_5_1`
 - 正文 ID：`text_v0d8_5`

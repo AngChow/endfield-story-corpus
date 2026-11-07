@@ -5,9 +5,9 @@ slug: "rational-farewell"
 source_id: "wpn_pistol_0004"
 source_url: "https://warfarin.wiki/cn/weapons/rational-farewell"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:06:29.066956+00:00"
-source_sha256: "923be5197c1c347da39b475bb0cc3bbd74654ac9f4dfd04d4f731abd36337b5a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:00.241072+00:00"
+source_sha256: "9953ce0b8b7b2ffb952f0a7c9b041dbb137f36d444c2fb636d25190bba391a88"
 ---
 
 # 理性告别
@@ -18,8 +18,8 @@ source_sha256: "923be5197c1c347da39b475bb0cc3bbd74654ac9f4dfd04d4f731abd36337b5a
 - Slug：`rational-farewell`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/rational-farewell)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:06:29.066956+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:00.241072+00:00`
 - ID：`wpn_pistol_0004`
 - 英文名：Rational Farewell
 - 稀有度：5★

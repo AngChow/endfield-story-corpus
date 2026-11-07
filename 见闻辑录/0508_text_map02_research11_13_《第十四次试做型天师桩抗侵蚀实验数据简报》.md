@@ -5,9 +5,9 @@ slug: "text_map02_research11_13"
 source_id: "text_map02_research11_13"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_13"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:43.166408+00:00"
-source_sha256: "a75575bff9a6131a91924a85431ecf71605cd662b818d99cd0050c48b6036c9f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:24.909404+00:00"
+source_sha256: "e8960a5a1583459c851675046b0f38095b31ffe2c7699796733bcbe79305ce2c"
 ---
 
 # 《第十四次试做型天师桩抗侵蚀实验数据简报》
@@ -18,8 +18,8 @@ source_sha256: "a75575bff9a6131a91924a85431ecf71605cd662b818d99cd0050c48b6036c9f
 - Slug：`text_map02_research11_13`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_13)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:43.166408+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:24.909404+00:00`
 - ID：`text_map02_research11_13`
 - 条目 ID：`nar_paper_map02_research11_9_1`
 - 正文 ID：`text_map02_research11_13`

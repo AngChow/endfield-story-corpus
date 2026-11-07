@@ -5,9 +5,9 @@ slug: "utjug-order"
 source_id: "topic_map01_lv007_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv007_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:11.166402+00:00"
-source_sha256: "8160c51b9c8c21bcc931e3880dca0921d25e40b948661a8a75e962674eea5a6a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:41.843347+00:00"
+source_sha256: "6afa310b8ed86d49cfead6d7aa7b0810ecf07db5f7379f7aa75e87294f4ca131"
 ---
 
 # “烙铁指令”
@@ -18,8 +18,8 @@ source_sha256: "8160c51b9c8c21bcc931e3880dca0921d25e40b948661a8a75e962674eea5a6a
 - Slug：`utjug-order`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv007_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:11.166402+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:41.843347+00:00`
 - ID：`topic_map01_lv007_2`
 - 包含会话：`sns_topic_map01_lv007_3`、`sns_topic_map01_lv007_4`
 

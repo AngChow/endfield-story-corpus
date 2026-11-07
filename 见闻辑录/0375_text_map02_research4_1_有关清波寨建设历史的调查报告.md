@@ -5,9 +5,9 @@ slug: "text_map02_research4_1"
 source_id: "text_map02_research4_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research4_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:17.349579+00:00"
-source_sha256: "ead2f6087cc01e98ef54221a32592e32935774a989de39bb836de98024ffa7de"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:52.353808+00:00"
+source_sha256: "868e75452b6d9bf797392867adea0be691af80825b659092908d78c2b2865d12"
 ---
 
 # 有关清波寨建设历史的调查报告
@@ -18,8 +18,8 @@ source_sha256: "ead2f6087cc01e98ef54221a32592e32935774a989de39bb836de98024ffa7de
 - Slug：`text_map02_research4_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research4_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:17.349579+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:52.353808+00:00`
 - ID：`text_map02_research4_1`
 - 条目 ID：`nar_report_map02_research4_1_1`
 - 正文 ID：`text_map02_research4_1`

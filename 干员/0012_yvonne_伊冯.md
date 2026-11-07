@@ -5,9 +5,9 @@ slug: "yvonne"
 source_id: "chr_0017_yvonne"
 source_url: "https://warfarin.wiki/cn/operators/yvonne"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:33.701800+00:00"
-source_sha256: "56f67ce194071bed61dbb239c246ba9e89fd43b0bcc43cbbf0550cfcd6324bbe"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:44.527238+00:00"
+source_sha256: "c63c3adbfceae231bb0dea0f931f28c94f2e3459bff4e91eab632cff2ac0c7ab"
 ---
 
 # 伊冯
@@ -18,8 +18,8 @@ source_sha256: "56f67ce194071bed61dbb239c246ba9e89fd43b0bcc43cbbf0550cfcd6324bbe
 - Slug：`yvonne`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/yvonne)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:33.701800+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:44.527238+00:00`
 - ID：`chr_0017_yvonne`
 - 英文名：Yvonne
 - 稀有度：6★

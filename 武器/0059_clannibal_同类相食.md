@@ -5,9 +5,9 @@ slug: "clannibal"
 source_id: "wpn_pistol_0009"
 source_url: "https://warfarin.wiki/cn/weapons/clannibal"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:49:55.583259+00:00"
-source_sha256: "365f2305d10d0031a7b26975bb2ecd04253a1597a6e2317b86e4fe6ffac04e9f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:43.693736+00:00"
+source_sha256: "a6aae8e1a78de1890891c378929ec387562489e2fddd21e96e3f436f8f600b4c"
 ---
 
 # 同类相食
@@ -18,8 +18,8 @@ source_sha256: "365f2305d10d0031a7b26975bb2ecd04253a1597a6e2317b86e4fe6ffac04e9f
 - Slug：`clannibal`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/clannibal)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:49:55.583259+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:43.693736+00:00`
 - ID：`wpn_pistol_0009`
 - 英文名：Clannibal
 - 稀有度：6★

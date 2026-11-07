@@ -5,9 +5,9 @@ slug: "racing-the-blight"
 source_id: "topic_chr_0025_ardelia_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0025_ardelia_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:42.199473+00:00"
-source_sha256: "e18684bfb9fc7f03afa348e7a4dce04bf01593830a334fe8f56468a74ed7e36d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:17.886935+00:00"
+source_sha256: "a01b8c41eac95de191a9829a33bc65a28bfcc54aa78d028c32569a6916b11f9e"
 ---
 
 # 与侵蚀赛跑
@@ -18,8 +18,8 @@ source_sha256: "e18684bfb9fc7f03afa348e7a4dce04bf01593830a334fe8f56468a74ed7e36d
 - Slug：`racing-the-blight`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0025_ardelia_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:42.199473+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:17.886935+00:00`
 - ID：`topic_chr_0025_ardelia_3`
 - 包含会话：`sns_topic_chr_0025_ardelia_3`
 

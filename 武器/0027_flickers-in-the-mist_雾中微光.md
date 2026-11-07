@@ -5,9 +5,9 @@ slug: "flickers-in-the-mist"
 source_id: "wpn_funnel_0017"
 source_url: "https://warfarin.wiki/cn/weapons/flickers-in-the-mist"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:42.415600+00:00"
-source_sha256: "4634de539fc0e3494e34f6d0c30eeda1cc240b2ffb76730232410c5edd257e8c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:26.500957+00:00"
+source_sha256: "8d71ffd1d13e351c1137bc3f37d7abf63c781a219fead7315f02280beb560e9e"
 ---
 
 # 雾中微光
@@ -18,8 +18,8 @@ source_sha256: "4634de539fc0e3494e34f6d0c30eeda1cc240b2ffb76730232410c5edd257e8c
 - Slug：`flickers-in-the-mist`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/flickers-in-the-mist)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:42.415600+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:26.500957+00:00`
 - ID：`wpn_funnel_0017`
 - 英文名：Flickers in the Mist
 - 稀有度：6★

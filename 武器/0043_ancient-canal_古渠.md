@@ -5,9 +5,9 @@ slug: "ancient-canal"
 source_id: "wpn_claym_0014"
 source_url: "https://warfarin.wiki/cn/weapons/ancient-canal"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:42:22.076077+00:00"
-source_sha256: "fa01e71ed756150d6fd50a75736a6e48937a2d8fc04b82f4f75c82d72a977fb3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:45.979095+00:00"
+source_sha256: "b54b54e1596b8d6913f925ca6c4754bf2cf898ced0673c418cc6ff09c15b88fc"
 ---
 
 # 古渠
@@ -18,8 +18,8 @@ source_sha256: "fa01e71ed756150d6fd50a75736a6e48937a2d8fc04b82f4f75c82d72a977fb3
 - Slug：`ancient-canal`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/ancient-canal)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:42:22.076077+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:45.979095+00:00`
 - ID：`wpn_claym_0014`
 - 英文名：Ancient Canal
 - 稀有度：5★

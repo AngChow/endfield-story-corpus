@@ -5,9 +5,9 @@ slug: "a-blessing-in-disguise"
 source_id: "topic_chr_0027_tangtang_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0027_tangtang_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:07.875731+00:00"
-source_sha256: "a1a95112ccada4ad2db55a516013b217e260549deae8d1d8ebefd5af718c2196"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:28.251591+00:00"
+source_sha256: "eae3f0e10eaef434883969289626dfb10bb912d852e40c9ef2963dfac8870bae"
 ---
 
 # 弄拙成巧
@@ -18,8 +18,8 @@ source_sha256: "a1a95112ccada4ad2db55a516013b217e260549deae8d1d8ebefd5af718c2196
 - Slug：`a-blessing-in-disguise`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0027_tangtang_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:07.875731+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:28.251591+00:00`
 - ID：`topic_chr_0027_tangtang_3`
 - 包含会话：`sns_topic_chr_0027_tangtang_3`
 

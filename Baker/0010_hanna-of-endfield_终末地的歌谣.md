@@ -5,9 +5,9 @@ slug: "hanna-of-endfield"
 source_id: "topic_chr_0007_ikut_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0007_ikut_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:52.276050+00:00"
-source_sha256: "577c6ffed293ac906984777221dfb798f8723eb697484c2082e16750cd9993a9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:33.145847+00:00"
+source_sha256: "d16191b94cbb209a13490d716da1a4225a914d68090a15ced9d86017d5ca31eb"
 ---
 
 # 终末地的歌谣
@@ -18,8 +18,8 @@ source_sha256: "577c6ffed293ac906984777221dfb798f8723eb697484c2082e16750cd9993a9
 - Slug：`hanna-of-endfield`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0007_ikut_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:52.276050+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:33.145847+00:00`
 - ID：`topic_chr_0007_ikut_1`
 - 包含会话：`sns_topic_chr_0007_ikut_1`
 

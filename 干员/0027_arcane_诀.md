@@ -5,9 +5,9 @@ slug: "arcane"
 source_id: "chr_0032_lizhiyan"
 source_url: "https://warfarin.wiki/cn/operators/arcane"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:42:31.346477+00:00"
-source_sha256: "f187a8e865131870ae448f03ebe73510c180bfe4f212b2b40718a91fa3707671"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:36.583272+00:00"
+source_sha256: "1272f6dec3dfaeb80da617eba2a0f8fa071f8542de3f27e0f105bfdabfd7a1b2"
 ---
 
 # 诀
@@ -18,8 +18,8 @@ source_sha256: "f187a8e865131870ae448f03ebe73510c180bfe4f212b2b40718a91fa3707671
 - Slug：`arcane`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/arcane)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:42:31.346477+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:36.583272+00:00`
 - ID：`chr_0032_lizhiyan`
 - 英文名：Arcane
 - 稀有度：6★

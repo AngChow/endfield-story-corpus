@@ -5,9 +5,9 @@ slug: "snow-for-the-fallen"
 source_id: "topic_chr_0029_pograni_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0029_pograni_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:17.628099+00:00"
-source_sha256: "4f5693e7b578052ae66a6ec0e6cc354d726c3c82d0d3a958799c8e5321da0aeb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:47.199754+00:00"
+source_sha256: "8ef58e3fda03afcd305fd426f52ad52683ca12f3c156d432bf40f747853cb13b"
 ---
 
 # 战士的雪
@@ -18,8 +18,8 @@ source_sha256: "4f5693e7b578052ae66a6ec0e6cc354d726c3c82d0d3a958799c8e5321da0aeb
 - Slug：`snow-for-the-fallen`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0029_pograni_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:17.628099+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:47.199754+00:00`
 - ID：`topic_chr_0029_pograni_2`
 - 包含会话：`sns_topic_chr_0029_pograni_2`
 

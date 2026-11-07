@@ -5,9 +5,9 @@ slug: "text_map02_research3_1"
 source_id: "text_map02_research3_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research3_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:15.563175+00:00"
-source_sha256: "12be1d144bc2dde3824f868751e8d7a201bb20b27e257ac5571d46c9090b9b63"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:50.811486+00:00"
+source_sha256: "b9accb828cd741dbd3d86ea19e4fa1ae3e6daf1e2f6dd8ebd84d9c84d1713752"
 ---
 
 # 有关武陵交通规划的调查报告
@@ -18,8 +18,8 @@ source_sha256: "12be1d144bc2dde3824f868751e8d7a201bb20b27e257ac5571d46c9090b9b63
 - Slug：`text_map02_research3_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research3_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:15.563175+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:50.811486+00:00`
 - ID：`text_map02_research3_1`
 - 条目 ID：`nar_report_map02_research3_1_1`
 - 正文 ID：`text_map02_research3_1`

@@ -5,9 +5,9 @@ slug: "fluorescent-roc"
 source_id: "wpn_funnel_0003"
 source_url: "https://warfarin.wiki/cn/weapons/fluorescent-roc"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:44.665043+00:00"
-source_sha256: "1b469df9831acba01e2e23cc45798ff73bdfc89063b05c60d08391a67004b1cb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:39.046151+00:00"
+source_sha256: "f0528593bb5a29c6f2d8770819a66508dc678084646d4c3f60357d0931c107df"
 ---
 
 # 荧光雷羽
@@ -18,8 +18,8 @@ source_sha256: "1b469df9831acba01e2e23cc45798ff73bdfc89063b05c60d08391a67004b1cb
 - Slug：`fluorescent-roc`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/fluorescent-roc)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:44.665043+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:39.046151+00:00`
 - ID：`wpn_funnel_0003`
 - 英文名：Fluorescent Roc
 - 稀有度：4★

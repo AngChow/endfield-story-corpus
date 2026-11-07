@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_3_1"
 source_id: "nar_document_v0d8_3_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_3_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:18:03.195799+00:00"
-source_sha256: "2f5faa01b3b97dd1a48ba0f2087b7a9b503e7d0f35c79a97ee507efc4c760085"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:19.970058+00:00"
+source_sha256: "c455b36bd14bfe322d936889ec5efda712af7dfa09cfed0e1e2b95fc39c57247"
 ---
 
 # 源石技艺和源石技术
@@ -18,8 +18,8 @@ source_sha256: "2f5faa01b3b97dd1a48ba0f2087b7a9b503e7d0f35c79a97ee507efc4c760085
 - Slug：`nar_document_v0d8_3_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_3_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:18:03.195799+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:19.970058+00:00`
 - ID：`nar_document_v0d8_3_1`
 - 条目 ID：`nar_document_v0d8_3_1`
 - 正文 ID：`text_v0d8_3`

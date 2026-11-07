@@ -5,9 +5,9 @@ slug: "typhoeus"
 source_id: "chr_0034_typhoea"
 source_url: "https://warfarin.wiki/cn/operators/typhoeus"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:26.853724+00:00"
-source_sha256: "5aab4b0fa18e219c41a7d418b9228fb6929fa263f13677fcea708ac91a273c03"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:33.002877+00:00"
+source_sha256: "23d5278183b3e7bb0285b4d3aa840438222b6dd729e613d7a62fb7456b4653d1"
 ---
 
 # 提弗洛斯
@@ -18,8 +18,8 @@ source_sha256: "5aab4b0fa18e219c41a7d418b9228fb6929fa263f13677fcea708ac91a273c03
 - Slug：`typhoeus`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/typhoeus)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:26.853724+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:33.002877+00:00`
 - ID：`chr_0034_typhoea`
 - 英文名：Typhoeus
 - 稀有度：6★

@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_17_1"
 source_id: "nar_document_v0d8_17_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_17_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:14:51.240445+00:00"
-source_sha256: "b7659020689370e0dbdca5ab73ebb7210dc6ff2dccadce216dfc777a89de6edc"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:38.983905+00:00"
+source_sha256: "f77f4e72f39cc4b1c98571c51a58774b5b101cbbe8befde1c00187d230da7a8b"
 ---
 
 # 迷踪林与竹林虫
@@ -18,8 +18,8 @@ source_sha256: "b7659020689370e0dbdca5ab73ebb7210dc6ff2dccadce216dfc777a89de6edc
 - Slug：`nar_document_v0d8_17_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_17_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:14:51.240445+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:38.983905+00:00`
 - ID：`nar_document_v0d8_17_1`
 - 条目 ID：`nar_document_v0d8_17_1`
 - 正文 ID：`text_v0d8_17`

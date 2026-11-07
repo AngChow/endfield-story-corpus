@@ -5,9 +5,9 @@ slug: "akekuri"
 source_id: "chr_0019_karin"
 source_url: "https://warfarin.wiki/cn/operators/akekuri"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:39:21.914466+00:00"
-source_sha256: "b4cf37586fa76e8cfe09a3b43d955181c6d022f0b484d8f3f372e3ba8ec7b95e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:34.854672+00:00"
+source_sha256: "0375b6371b779c1a6e12617096bffef1abfbc5bc74ee95d80f6da255d2d674bf"
 ---
 
 # 秋栗
@@ -18,8 +18,8 @@ source_sha256: "b4cf37586fa76e8cfe09a3b43d955181c6d022f0b484d8f3f372e3ba8ec7b95e
 - Slug：`akekuri`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/akekuri)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:39:21.914466+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:34.854672+00:00`
 - ID：`chr_0019_karin`
 - 英文名：Akekuri
 - 稀有度：4★

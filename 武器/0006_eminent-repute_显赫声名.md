@@ -5,9 +5,9 @@ slug: "eminent-repute"
 source_id: "wpn_sword_0013"
 source_url: "https://warfarin.wiki/cn/weapons/eminent-repute"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:52:16.396462+00:00"
-source_sha256: "9eef0c715564c4a165436bf696f504528fac5d09d479f766b2ee1f82c8ec88eb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:25.733713+00:00"
+source_sha256: "a5266866b9a5b876b1bec86254cff3ff03ca987975b826725984c9de619184a0"
 ---
 
 # 显赫声名
@@ -18,8 +18,8 @@ source_sha256: "9eef0c715564c4a165436bf696f504528fac5d09d479f766b2ee1f82c8ec88eb
 - Slug：`eminent-repute`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/eminent-repute)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:52:16.396462+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:25.733713+00:00`
 - ID：`wpn_sword_0013`
 - 英文名：Eminent Repute
 - 稀有度：6★

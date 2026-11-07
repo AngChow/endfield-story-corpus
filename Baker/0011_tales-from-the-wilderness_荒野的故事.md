@@ -5,9 +5,9 @@ slug: "tales-from-the-wilderness"
 source_id: "topic_chr_0007_ikut_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0007_ikut_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:54.219812+00:00"
-source_sha256: "486124db28409d9e42478a217271c03266f1658f01aca97d49b217396d269509"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:34.888176+00:00"
+source_sha256: "b9e1baeafe11a66ea12bacc7c6f51edf6a057b4580e0c349c385be0831712609"
 ---
 
 # 荒野的故事
@@ -18,8 +18,8 @@ source_sha256: "486124db28409d9e42478a217271c03266f1658f01aca97d49b217396d269509
 - Slug：`tales-from-the-wilderness`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0007_ikut_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:54.219812+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:34.888176+00:00`
 - ID：`topic_chr_0007_ikut_2`
 - 包含会话：`sns_topic_chr_0007_ikut_2`
 

@@ -5,9 +5,9 @@ slug: "bamboo-chimes-and-ghostly-sighs"
 source_id: "topic_map02_lv003_11001"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv003_11001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:34.121708+00:00"
-source_sha256: "f0fe74ad20e43a3e4b8549fb520b84b5462dfb4dd60d02b06f202ce13bcd2997"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:17.210635+00:00"
+source_sha256: "c34507dcbaf6a4b46c4ced8fa6c694529b92bad67b3db4fa7a5b8e5927f22118"
 ---
 
 # 竹铃幽咽
@@ -18,8 +18,8 @@ source_sha256: "f0fe74ad20e43a3e4b8549fb520b84b5462dfb4dd60d02b06f202ce13bcd2997
 - Slug：`bamboo-chimes-and-ghostly-sighs`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv003_11001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:34.121708+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:17.210635+00:00`
 - ID：`topic_map02_lv003_11001`
 - 包含会话：`sns_topic_map02_lv003_1`、`sns_topic_map02_lv003_2`、`sns_topic_map02_lv003_3`
 

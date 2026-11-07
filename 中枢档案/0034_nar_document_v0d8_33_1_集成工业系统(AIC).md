@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_33_1"
 source_id: "nar_document_v0d8_33_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_33_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:17:50.534029+00:00"
-source_sha256: "438acbb0a95a925d4f10a173965d59c653ecc96d63b1778753af3a236f2520af"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:02.590744+00:00"
+source_sha256: "c8c1efb53637d7cb602fefe5d730502038795b0a59f6b1e1fcb311427610fc2e"
 ---
 
 # 集成工业系统（AIC）
@@ -18,8 +18,8 @@ source_sha256: "438acbb0a95a925d4f10a173965d59c653ecc96d63b1778753af3a236f2520af
 - Slug：`nar_document_v0d8_33_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_33_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:17:50.534029+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:02.590744+00:00`
 - ID：`nar_document_v0d8_33_1`
 - 条目 ID：`nar_document_v0d8_33_1`
 - 正文 ID：`text_v0d8_33`

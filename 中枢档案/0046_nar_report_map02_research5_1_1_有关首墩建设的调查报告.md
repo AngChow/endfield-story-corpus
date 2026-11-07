@@ -5,9 +5,9 @@ slug: "nar_report_map02_research5_1_1"
 source_id: "nar_report_map02_research5_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research5_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:28.438554+00:00"
-source_sha256: "a92b6a5b510c05d6264572dfe82edc57efaef30252e67f72ec50a5c77ca80aef"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:43.406659+00:00"
+source_sha256: "14991506cd8932762fbf0a71c1eb1e133241e8ae8217014c9ccc3672d2b8c926"
 ---
 
 # 有关首墩建设的调查报告
@@ -18,8 +18,8 @@ source_sha256: "a92b6a5b510c05d6264572dfe82edc57efaef30252e67f72ec50a5c77ca80aef
 - Slug：`nar_report_map02_research5_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research5_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:28.438554+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:43.406659+00:00`
 - ID：`nar_report_map02_research5_1_1`
 - 条目 ID：`nar_report_map02_research5_1_1`
 - 正文 ID：`text_map02_research5_1`

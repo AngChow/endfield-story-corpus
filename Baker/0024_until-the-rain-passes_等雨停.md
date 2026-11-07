@@ -5,9 +5,9 @@ slug: "until-the-rain-passes"
 source_id: "topic_chr_0013_aglina_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0013_aglina_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:10.656749+00:00"
-source_sha256: "62cec8da5a05204507d03d24668582e410f111252bb80b2ab3e632b84b86fe5b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:13.959219+00:00"
+source_sha256: "b95e120e52d74ff66b7fbee1e277c09ad4acb50aae9c9cb43d2cb2520301fc8a"
 ---
 
 # 等雨停
@@ -18,8 +18,8 @@ source_sha256: "62cec8da5a05204507d03d24668582e410f111252bb80b2ab3e632b84b86fe5b
 - Slug：`until-the-rain-passes`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0013_aglina_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:10.656749+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:13.959219+00:00`
 - ID：`topic_chr_0013_aglina_3`
 - 包含会话：`sns_topic_chr_0013_aglina_3`
 

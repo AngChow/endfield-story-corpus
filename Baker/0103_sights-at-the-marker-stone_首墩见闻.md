@@ -5,9 +5,9 @@ slug: "sights-at-the-marker-stone"
 source_id: "topic_map02_lv004_12002"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv004_12002"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:51.276205+00:00"
-source_sha256: "0672a38adff8eb6612fa89d657b4cbcee94472326c4a15e138423472a341667b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:24.863722+00:00"
+source_sha256: "e07dd3187a4de01df1ca4c6a9c4a71661542a94d04e3f68bd6d85d37357776f6"
 ---
 
 # 首墩见闻
@@ -18,8 +18,8 @@ source_sha256: "0672a38adff8eb6612fa89d657b4cbcee94472326c4a15e138423472a341667b
 - Slug：`sights-at-the-marker-stone`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv004_12002)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:51.276205+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:24.863722+00:00`
 - ID：`topic_map02_lv004_12002`
 - 包含会话：`sns_topic_map02_lv004_3`、`sns_topic_map02_lv004_4`
 

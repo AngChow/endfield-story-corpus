@@ -5,9 +5,9 @@ slug: "wuling-and-burdenbeast"
 source_id: "topic_map02_lv002_4"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv002_4"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:31.732285+00:00"
-source_sha256: "fe6723bc47dfea05f198b368ba1c28ff69b359d13c7d85915e6ae428323d7df6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:14.421483+00:00"
+source_sha256: "018f4e3c5983385cd7e6723dc06f4f945630e5c752342e958b12b9b9bf94c074"
 ---
 
 # 武陵与驮兽
@@ -18,8 +18,8 @@ source_sha256: "fe6723bc47dfea05f198b368ba1c28ff69b359d13c7d85915e6ae428323d7df6
 - Slug：`wuling-and-burdenbeast`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv002_4)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:31.732285+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:14.421483+00:00`
 - ID：`topic_map02_lv002_4`
 - 包含会话：`sns_topic_map02_lv002_10`、`sns_topic_map02_lv002_11`
 

@@ -5,9 +5,9 @@ slug: "antal"
 source_id: "chr_0023_antal"
 source_url: "https://warfarin.wiki/cn/operators/antal"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:40:39.918489+00:00"
-source_sha256: "c2633bff16b89b759b6d9e47caee0c6af1fd2e20dcccc27db3030270c1bf43a2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:02.929098+00:00"
+source_sha256: "5210342f82e49231b07bad4f49932224cfc8da6e1c5bb0ff3cba74b7ecaa1da5"
 ---
 
 # 安塔尔
@@ -18,8 +18,8 @@ source_sha256: "c2633bff16b89b759b6d9e47caee0c6af1fd2e20dcccc27db3030270c1bf43a2
 - Slug：`antal`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/antal)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:40:39.918489+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:02.929098+00:00`
 - ID：`chr_0023_antal`
 - 英文名：Antal
 - 稀有度：4★

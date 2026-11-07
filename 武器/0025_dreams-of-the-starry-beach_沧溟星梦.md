@@ -5,9 +5,9 @@ slug: "dreams-of-the-starry-beach"
 source_id: "wpn_funnel_0013"
 source_url: "https://warfarin.wiki/cn/weapons/dreams-of-the-starry-beach"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:52:13.744647+00:00"
-source_sha256: "c119fde11aac2ae61784840554dddb41c7678c745141d18b28cc61a81f838161"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:11.268765+00:00"
+source_sha256: "18cca52e34784a3d247ff008542233de81661f54aaf0c15249c10a511428270a"
 ---
 
 # 沧溟星梦
@@ -18,8 +18,8 @@ source_sha256: "c119fde11aac2ae61784840554dddb41c7678c745141d18b28cc61a81f838161
 - Slug：`dreams-of-the-starry-beach`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/dreams-of-the-starry-beach)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:52:13.744647+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:11.268765+00:00`
 - ID：`wpn_funnel_0013`
 - 英文名：Dreams of the Starry Beach
 - 稀有度：6★

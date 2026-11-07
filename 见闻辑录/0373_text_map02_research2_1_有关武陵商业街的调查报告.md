@@ -5,9 +5,9 @@ slug: "text_map02_research2_1"
 source_id: "text_map02_research2_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research2_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:06.724906+00:00"
-source_sha256: "16fb18d5c839c48ada6b1926223e506e24d2c720a1770e1ea90e8666f3b1237e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:47.283982+00:00"
+source_sha256: "d1ae26d98a2e20d24b458a44cfc082ec6883478e520686ee5c21a22a3f2f09d8"
 ---
 
 # 有关武陵商业街的调查报告
@@ -18,8 +18,8 @@ source_sha256: "16fb18d5c839c48ada6b1926223e506e24d2c720a1770e1ea90e8666f3b1237e
 - Slug：`text_map02_research2_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research2_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:06.724906+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:47.283982+00:00`
 - ID：`text_map02_research2_1`
 - 条目 ID：`nar_report_map02_research2_1_1`
 - 正文 ID：`text_map02_research2_1`

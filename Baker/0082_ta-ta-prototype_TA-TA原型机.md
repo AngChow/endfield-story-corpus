@@ -5,9 +5,9 @@ slug: "ta-ta-prototype"
 source_id: "topic_map01_lv005_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv005_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:56.008215+00:00"
-source_sha256: "529b865beb2474e4542a7f9d1e451b923e9d6bf9d32dd79cbef3257d12f80ebd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:29.461692+00:00"
+source_sha256: "a75189335d565e93f19c42caa73207e220498714f4e76322e752daf337975af8"
 ---
 
 # TA-TA原型机
@@ -18,8 +18,8 @@ source_sha256: "529b865beb2474e4542a7f9d1e451b923e9d6bf9d32dd79cbef3257d12f80ebd
 - Slug：`ta-ta-prototype`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv005_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:56.008215+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:29.461692+00:00`
 - ID：`topic_map01_lv005_1`
 - 包含会话：`sns_topic_map01_lv005_1`、`sns_topic_map01_lv005_2`
 

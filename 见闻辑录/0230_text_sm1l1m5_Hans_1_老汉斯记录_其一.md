@@ -5,9 +5,9 @@ slug: "text_sm1l1m5_Hans_1"
 source_id: "text_sm1l1m5_Hans_1"
 source_url: "https://warfarin.wiki/cn/lore/text_sm1l1m5_Hans_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:57.237248+00:00"
-source_sha256: "569d8f83deb5830ae002c1f27c84a1731bbad65ad14fb0b8431e0d8613603d8a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:27:06.573436+00:00"
+source_sha256: "cb586caecd0caba94b88d4a1cba4c4abb5622d5fe5a7d5c5dfd3b6d708f5fd8f"
 ---
 
 # 老汉斯记录：其一
@@ -18,8 +18,8 @@ source_sha256: "569d8f83deb5830ae002c1f27c84a1731bbad65ad14fb0b8431e0d8613603d8a
 - Slug：`text_sm1l1m5_Hans_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_sm1l1m5_Hans_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:57.237248+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:27:06.573436+00:00`
 - ID：`text_sm1l1m5_Hans_1`
 - 条目 ID：`nar_sm1l1m5_Hans_1`
 - 正文 ID：`text_sm1l1m5_Hans_1`

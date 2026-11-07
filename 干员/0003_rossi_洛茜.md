@@ -5,9 +5,9 @@ slug: "rossi"
 source_id: "chr_0028_wulfa"
 source_url: "https://warfarin.wiki/cn/operators/rossi"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:16.644979+00:00"
-source_sha256: "d9c5917f714081e60051c77fe3f6a9b4b6d2c1fe715ebd5e2687e98059bd2399"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:47.670583+00:00"
+source_sha256: "24cf08cbd0cafc36c8ce0ebb6ae2a29d0566043e06cc630f440f5c0a1683d245"
 ---
 
 # 洛茜
@@ -18,8 +18,8 @@ source_sha256: "d9c5917f714081e60051c77fe3f6a9b4b6d2c1fe715ebd5e2687e98059bd2399
 - Slug：`rossi`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/rossi)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:16.644979+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:47.670583+00:00`
 - ID：`chr_0028_wulfa`
 - 英文名：Rossi
 - 稀有度：6★

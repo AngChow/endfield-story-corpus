@@ -5,9 +5,9 @@ slug: "a-weapon-precisely"
 source_id: "topic_chr_0005_chen_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0005_chen_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:46.368592+00:00"
-source_sha256: "4c766ff73856ea69805409985e6eaf880a580baab0820ccc5086156813b2a826"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:21.977460+00:00"
+source_sha256: "f22b060864d7e7fa9b3cf39abb36c4a049dd4580028ad45c6ecc954e99dc785d"
 ---
 
 # 恰如武器
@@ -18,8 +18,8 @@ source_sha256: "4c766ff73856ea69805409985e6eaf880a580baab0820ccc5086156813b2a826
 - Slug：`a-weapon-precisely`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0005_chen_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:46.368592+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:21.977460+00:00`
 - ID：`topic_chr_0005_chen_3`
 - 包含会话：`sns_topic_chr_0005_chen_3`
 

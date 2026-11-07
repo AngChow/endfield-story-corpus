@@ -5,9 +5,9 @@ slug: "umbra-of-frigid-eventide"
 source_id: "wpn_funnel_0019"
 source_url: "https://warfarin.wiki/cn/weapons/umbra-of-frigid-eventide"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:25.178491+00:00"
-source_sha256: "6b98c8b2dc0403fca46debbf0476ce329334ade770aa123f2ec10c26b1014e3f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:56.080428+00:00"
+source_sha256: "1ee1bdce753db1b733db233bc7a00fa66f925d9afa6b1d7386273a9ed39f659e"
 ---
 
 # 寒夜幽影
@@ -18,8 +18,8 @@ source_sha256: "6b98c8b2dc0403fca46debbf0476ce329334ade770aa123f2ec10c26b1014e3f
 - Slug：`umbra-of-frigid-eventide`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/umbra-of-frigid-eventide)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:25.178491+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:56.080428+00:00`
 - ID：`wpn_funnel_0019`
 - 英文名：Umbra of Frigid Eventide
 - 稀有度：6★

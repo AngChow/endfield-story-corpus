@@ -5,9 +5,9 @@ slug: "the-intimate-pages"
 source_id: "topic_chr_0012_avywen_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:16.105735+00:00"
-source_sha256: "995dd8ed19a9a5a51951644feed61ad464dfebafa456b0922940c35cb3a21c87"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:58.185792+00:00"
+source_sha256: "d85e6345515e4eafc8f493d9a6b18301933327cf3a60cb0d00a144a1f8125e0b"
 ---
 
 # 独家日记
@@ -18,8 +18,8 @@ source_sha256: "995dd8ed19a9a5a51951644feed61ad464dfebafa456b0922940c35cb3a21c87
 - Slug：`the-intimate-pages`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:16.105735+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:58.185792+00:00`
 - ID：`topic_chr_0012_avywen_1`
 - 包含会话：`sns_topic_chr_0012_avywen_1`
 

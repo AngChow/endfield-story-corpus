@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_12_1"
 source_id: "nar_document_v0d8_12_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_12_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:14:40.797266+00:00"
-source_sha256: "e46b5b707d9294f66463a2233d3808be001a6785066b677f58de7541ac6af7bf"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:29.960362+00:00"
+source_sha256: "170e64644de7837823027bc6d25d3e0aef1089aba9ccff852fa04275dd710732"
 ---
 
 # 英雄阿伯莉
@@ -18,8 +18,8 @@ source_sha256: "e46b5b707d9294f66463a2233d3808be001a6785066b677f58de7541ac6af7bf
 - Slug：`nar_document_v0d8_12_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_12_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:14:40.797266+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:29.960362+00:00`
 - ID：`nar_document_v0d8_12_1`
 - 条目 ID：`nar_document_v0d8_12_1`
 - 正文 ID：`text_v0d8_12`

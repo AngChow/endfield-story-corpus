@@ -5,9 +5,9 @@ slug: "long-heritage"
 source_id: "wpn_claym_0019"
 source_url: "https://warfarin.wiki/cn/weapons/long-heritage"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:11.431609+00:00"
-source_sha256: "a8f21861d00307e4d6ad2150f531803975ee6b9f00d74fa6fc2ed692ab4d8bf1"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:08.806203+00:00"
+source_sha256: "70660c9fb12f5603cce81aa246f3b2f530c4c0ae76af3ea664478cb07a310477"
 ---
 
 # 悠久传承
@@ -18,8 +18,8 @@ source_sha256: "a8f21861d00307e4d6ad2150f531803975ee6b9f00d74fa6fc2ed692ab4d8bf1
 - Slug：`long-heritage`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/long-heritage)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:11.431609+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:08.806203+00:00`
 - ID：`wpn_claym_0019`
 - 英文名：Long Heritage
 - 稀有度：6★

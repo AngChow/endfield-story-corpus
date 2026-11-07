@@ -5,9 +5,9 @@ slug: "text_map02_research11_10"
 source_id: "text_map02_research11_10"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_10"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:36.223895+00:00"
-source_sha256: "83c71942e9e81cc7f0e7a7c40f3a25da9820b773c20608efa2abc6f2c0f2f4fd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:18.863385+00:00"
+source_sha256: "2eb78ab2a3b7bc37e39c5015f6f4618af51e751bfaabd12d3a930b4227527419"
 ---
 
 # 《一份夹在书页里的信件》
@@ -18,8 +18,8 @@ source_sha256: "83c71942e9e81cc7f0e7a7c40f3a25da9820b773c20608efa2abc6f2c0f2f4fd
 - Slug：`text_map02_research11_10`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_10)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:36.223895+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:18.863385+00:00`
 - ID：`text_map02_research11_10`
 - 条目 ID：`nar_paper_map02_research11_6_1`
 - 正文 ID：`text_map02_research11_10`

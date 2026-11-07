@@ -5,9 +5,9 @@ slug: "a-token-of-her-heart"
 source_id: "topic_chr_0023_antal_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0023_antal_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:24.748986+00:00"
-source_sha256: "b35d9bf67007d0edaab7a7edb8ad426cf1a91eacd68663f3040fe79e0ec03017"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:50.932569+00:00"
+source_sha256: "2423cc068933a107e3d7eba7522b0cb1694c26530a9e07dfc84562b28de121bc"
 ---
 
 # 奶奶的谢礼
@@ -18,8 +18,8 @@ source_sha256: "b35d9bf67007d0edaab7a7edb8ad426cf1a91eacd68663f3040fe79e0ec03017
 - Slug：`a-token-of-her-heart`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0023_antal_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:24.748986+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:50.932569+00:00`
 - ID：`topic_chr_0023_antal_3`
 - 包含会话：`sns_topic_chr_0023_antal_3`
 

@@ -5,9 +5,9 @@ slug: "global-tour"
 source_id: "topic_chr_0005_chen_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0005_chen_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:43.586678+00:00"
-source_sha256: "349497aa22520b65ae2271d5505e26a177529ba771a334be7501b89027655c1c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:17.117609+00:00"
+source_sha256: "6d91073b87871a45375367532ed49f883384751efb471b76abc6b5ed3627e948"
 ---
 
 # 世间巡游
@@ -18,8 +18,8 @@ source_sha256: "349497aa22520b65ae2271d5505e26a177529ba771a334be7501b89027655c1c
 - Slug：`global-tour`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0005_chen_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:43.586678+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:17.117609+00:00`
 - ID：`topic_chr_0005_chen_2`
 - 包含会话：`sns_topic_chr_0005_chen_2`
 

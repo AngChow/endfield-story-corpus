@@ -5,9 +5,9 @@ slug: "nar_report_map02_research9_1_1"
 source_id: "nar_report_map02_research9_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research9_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:35.645126+00:00"
-source_sha256: "5d2c8a69a17ec7fbe3cab0e8c2e310d74d5ca7d4c4d402604b1f6e6b9fbff26b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:02.974065+00:00"
+source_sha256: "5225c922cbe357db2d11625ef19c879bc4ce172fd7ebec2f8e9ef93f1de4b5f3"
 ---
 
 # 关于应龙关的调查报告
@@ -18,8 +18,8 @@ source_sha256: "5d2c8a69a17ec7fbe3cab0e8c2e310d74d5ca7d4c4d402604b1f6e6b9fbff26b
 - Slug：`nar_report_map02_research9_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research9_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:35.645126+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:02.974065+00:00`
 - ID：`nar_report_map02_research9_1_1`
 - 条目 ID：`nar_report_map02_research9_1_1`
 - 正文 ID：`text_map02_research9_1`

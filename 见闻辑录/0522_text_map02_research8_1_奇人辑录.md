@@ -5,9 +5,9 @@ slug: "text_map02_research8_1"
 source_id: "text_map02_research8_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research8_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:26.168695+00:00"
-source_sha256: "a5b3a8b954cded66af8423b1bfe1a2b3f197073878ae5e86643c5dd8d9adbdfb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:54.312315+00:00"
+source_sha256: "2101dd9faa6a26930421be7abc110708e03f7e1cc8574862b1bfc578dfaa9fed"
 ---
 
 # 奇人辑录
@@ -18,8 +18,8 @@ source_sha256: "a5b3a8b954cded66af8423b1bfe1a2b3f197073878ae5e86643c5dd8d9adbdfb
 - Slug：`text_map02_research8_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research8_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:26.168695+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:54.312315+00:00`
 - ID：`text_map02_research8_1`
 - 条目 ID：`nar_report_map02_research8_8_1`
 - 正文 ID：`text_map02_research8_1`

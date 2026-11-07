@@ -5,9 +5,9 @@ slug: "deja-vu"
 source_id: "topic_chr_0005_chen_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0005_chen_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:42.001036+00:00"
-source_sha256: "c5844465d822091586ad5248c562099a2701e53f5544738c416bbaf47af3e4a7"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:13.193088+00:00"
+source_sha256: "84847045ed15fa83ec5469750afeff18214e5ed1133c34a511dfa36787fa5e9e"
 ---
 
 # 似曾相识
@@ -18,8 +18,8 @@ source_sha256: "c5844465d822091586ad5248c562099a2701e53f5544738c416bbaf47af3e4a7
 - Slug：`deja-vu`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0005_chen_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:42.001036+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:13.193088+00:00`
 - ID：`topic_chr_0005_chen_1`
 - 包含会话：`sns_topic_chr_0005_chen_1`
 

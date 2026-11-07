@@ -5,9 +5,9 @@ slug: "golden-age"
 source_id: "wpn_lance_0016"
 source_url: "https://warfarin.wiki/cn/weapons/golden-age"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:55:28.964587+00:00"
-source_sha256: "bd2cdf27a5a54b06e9bed47daddee87fd5ed21e5d7d4fda51ca58d7380f9783a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:00.993959+00:00"
+source_sha256: "2995b81681547b4bf5ceff29f6c76dd48e5956616699d6e2afeafc39fc30466b"
 ---
 
 # 黄金时代
@@ -18,8 +18,8 @@ source_sha256: "bd2cdf27a5a54b06e9bed47daddee87fd5ed21e5d7d4fda51ca58d7380f9783a
 - Slug：`golden-age`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/golden-age)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:55:28.964587+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:00.993959+00:00`
 - ID：`wpn_lance_0016`
 - 英文名：Golden Age
 - 稀有度：6★

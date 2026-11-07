@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_26_1"
 source_id: "nar_document_v0d8_26_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_26_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:15:07.595899+00:00"
-source_sha256: "169573217d53d3b403e59c1d143b0855990b07a3536e54adac1695de5945b4cf"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:19.290264+00:00"
+source_sha256: "b0f9fde9d0b3dc53746ae3d8c90d30a041758d66ab066dbf9ec57c9c050cb502"
 ---
 
 # 终末地工业
@@ -18,8 +18,8 @@ source_sha256: "169573217d53d3b403e59c1d143b0855990b07a3536e54adac1695de5945b4cf
 - Slug：`nar_document_v0d8_26_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_26_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:15:07.595899+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:19.290264+00:00`
 - ID：`nar_document_v0d8_26_1`
 - 条目 ID：`nar_document_v0d8_26_1`
 - 正文 ID：`text_v0d8_26`

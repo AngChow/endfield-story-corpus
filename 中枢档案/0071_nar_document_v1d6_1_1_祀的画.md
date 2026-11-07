@@ -5,9 +5,9 @@ slug: "nar_document_v1d6_1_1"
 source_id: "nar_document_v1d6_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d6_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:21:45.313048+00:00"
-source_sha256: "0fcdb66713b0855706637990b72c25f53e9552fe4b5f6ebde45b8f1fccdb6586"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:25.785915+00:00"
+source_sha256: "b41afa4a2b530c6636d52f7644bfa4423bb83f2f46c45d223b594495a975c53d"
 ---
 
 # 祀的画
@@ -18,8 +18,8 @@ source_sha256: "0fcdb66713b0855706637990b72c25f53e9552fe4b5f6ebde45b8f1fccdb6586
 - Slug：`nar_document_v1d6_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d6_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:21:45.313048+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:25.785915+00:00`
 - ID：`nar_document_v1d6_1_1`
 - 条目 ID：`nar_document_v1d6_1_1`
 - 正文 ID：`text_v1d6_1`

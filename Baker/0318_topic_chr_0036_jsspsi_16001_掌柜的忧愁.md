@@ -5,9 +5,9 @@ slug: "topic_chr_0036_jsspsi_16001"
 source_id: "topic_chr_0036_jsspsi_16001"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0036_jsspsi_16001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:12.047815+00:00"
-source_sha256: "31547e7aabc42a92bcbd26d5ad0772406206aa61369a6d1f0fe8813711dba472"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:46.770082+00:00"
+source_sha256: "6b761bac581c87eff52b817ba157b105e31fc98b0d9460e085617ec585d9bd31"
 ---
 
 # 掌柜的忧愁
@@ -18,8 +18,8 @@ source_sha256: "31547e7aabc42a92bcbd26d5ad0772406206aa61369a6d1f0fe8813711dba472
 - Slug：`topic_chr_0036_jsspsi_16001`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0036_jsspsi_16001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:12.047815+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:46.770082+00:00`
 - ID：`topic_chr_0036_jsspsi_16001`
 - 包含会话：`sns_topic_chr_0036_jsspsi_16001`
 

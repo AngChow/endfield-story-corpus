@@ -5,9 +5,9 @@ slug: "wulfgard"
 source_id: "chr_0006_wolfgd"
 source_url: "https://warfarin.wiki/cn/operators/wulfgard"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:29.063961+00:00"
-source_sha256: "e0ec7f8bba2d784f2c7e55db436f053b7b01257e42f50a4adc89cbba173d6756"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:47.640046+00:00"
+source_sha256: "8fefdc180b68cd17c5f6e1b3be9dae724ee8b2bd7b716f45ebcbe4dda15b7c42"
 ---
 
 # 狼卫
@@ -18,8 +18,8 @@ source_sha256: "e0ec7f8bba2d784f2c7e55db436f053b7b01257e42f50a4adc89cbba173d6756
 - Slug：`wulfgard`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/wulfgard)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:29.063961+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:47.640046+00:00`
 - ID：`chr_0006_wolfgd`
 - 英文名：Wulfgard
 - 稀有度：5★

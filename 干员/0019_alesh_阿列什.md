@@ -5,9 +5,9 @@ slug: "alesh"
 source_id: "chr_0024_deepfin"
 source_url: "https://warfarin.wiki/cn/operators/alesh"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:39:45.822571+00:00"
-source_sha256: "80cea6328c55e1ef99afb9e0dbb23444c65058c8753a6018f6a2e20be8864853"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:47.855362+00:00"
+source_sha256: "be175e368f2b9e4987e6a1bf391a083b949e2a1c2bc2836a8d7662abe72ccbb2"
 ---
 
 # 阿列什
@@ -18,8 +18,8 @@ source_sha256: "80cea6328c55e1ef99afb9e0dbb23444c65058c8753a6018f6a2e20be8864853
 - Slug：`alesh`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/alesh)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:39:45.822571+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:47.855362+00:00`
 - ID：`chr_0024_deepfin`
 - 英文名：Alesh
 - 稀有度：5★

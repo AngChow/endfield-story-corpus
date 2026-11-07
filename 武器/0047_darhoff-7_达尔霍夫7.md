@@ -5,9 +5,9 @@ slug: "darhoff-7"
 source_id: "wpn_claym_0010"
 source_url: "https://warfarin.wiki/cn/weapons/darhoff-7"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:50:01.585751+00:00"
-source_sha256: "6a6af1bd38e5955c81834de20c13e5ff628ae9acd69b0fb7613a99b70330b5b1"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:20.090133+00:00"
+source_sha256: "99a0191d44a01fbfdfbadd57b21e775e0df624c6810d2d991d79a182423e05dd"
 ---
 
 # 达尔霍夫7
@@ -18,8 +18,8 @@ source_sha256: "6a6af1bd38e5955c81834de20c13e5ff628ae9acd69b0fb7613a99b70330b5b1
 - Slug：`darhoff-7`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/darhoff-7)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:50:01.585751+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:20.090133+00:00`
 - ID：`wpn_claym_0010`
 - 英文名：Darhoff 7
 - 稀有度：3★

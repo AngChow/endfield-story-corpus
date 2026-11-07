@@ -5,9 +5,9 @@ slug: "the-messengers-new-style"
 source_id: "topic_chr_0013_aglina_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0013_aglina_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:22.898558+00:00"
-source_sha256: "226ce4c9feea0c8e5838398ec090a4437d4cab677b0a228436a285a1c09c923e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:09.885633+00:00"
+source_sha256: "94ab002b2a992bf6a05dc5cebfd3812f477cf22725493431328ef2b9f9524342"
 ---
 
 # 信使的新装
@@ -18,8 +18,8 @@ source_sha256: "226ce4c9feea0c8e5838398ec090a4437d4cab677b0a228436a285a1c09c923e
 - Slug：`the-messengers-new-style`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0013_aglina_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:22.898558+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:09.885633+00:00`
 - ID：`topic_chr_0013_aglina_1`
 - 包含会话：`sns_topic_chr_0013_aglina_1`
 

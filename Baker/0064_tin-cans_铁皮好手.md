@@ -5,9 +5,9 @@ slug: "tin-cans"
 source_id: "topic_chr_0027_tangtang_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0027_tangtang_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:03.014890+00:00"
-source_sha256: "b448158e794003ac771b97f2ad8c6dee39977b6d95858b0be42f58af172dacba"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:28.298720+00:00"
+source_sha256: "b43b54e17c6691710d79531a6f13a5638f9d7e36805f8d561cdf3a4c53578569"
 ---
 
 # 铁皮好手
@@ -18,8 +18,8 @@ source_sha256: "b448158e794003ac771b97f2ad8c6dee39977b6d95858b0be42f58af172dacba
 - Slug：`tin-cans`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0027_tangtang_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:03.014890+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:28.298720+00:00`
 - ID：`topic_chr_0027_tangtang_1`
 - 包含会话：`sns_topic_chr_0027_tangtang_1`
 

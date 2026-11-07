@@ -5,9 +5,9 @@ slug: "ruler-of-the-training-cabin"
 source_id: "topic_chr_0009_azrila_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0009_azrila_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:10:08.093679+00:00"
-source_sha256: "6c96505d3990306befb9e312fd98112325edc42604e95c535633e665d2ef0c4d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:40.115329+00:00"
+source_sha256: "f8bc38316dd3d28422c82390bcaf734e72838060a390177121e63ae61ad3bb98"
 ---
 
 # 训练室的统治者
@@ -18,8 +18,8 @@ source_sha256: "6c96505d3990306befb9e312fd98112325edc42604e95c535633e665d2ef0c4d
 - Slug：`ruler-of-the-training-cabin`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0009_azrila_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:10:08.093679+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:40.115329+00:00`
 - ID：`topic_chr_0009_azrila_1`
 - 包含会话：`sns_topic_chr_0009_azrila_1`
 

@@ -5,9 +5,9 @@ slug: "endministrator"
 source_id: "chr_0003_endminf"
 source_url: "https://warfarin.wiki/cn/operators/endministrator"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:44:49.734194+00:00"
-source_sha256: "6f95199d01f6dd82e4ec06759efefa4166fbe013b1aa8eec99b2ab79925ff2d3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:10.964148+00:00"
+source_sha256: "1f1a01590047f17cd2602c0135c76cc885317cf4a96e0605ce5bc84fc4af1f3c"
 ---
 
 # 管理员
@@ -18,8 +18,8 @@ source_sha256: "6f95199d01f6dd82e4ec06759efefa4166fbe013b1aa8eec99b2ab79925ff2d3
 - Slug：`endministrator`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/endministrator)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:44:49.734194+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:10.964148+00:00`
 - ID：`chr_0003_endminf`
 - 英文名：Endministrator
 - 稀有度：6★

@@ -5,9 +5,9 @@ slug: "arts-talent"
 source_id: "topic_chr_0023_antal_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0023_antal_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:23.448379+00:00"
-source_sha256: "c20b09902cf413b11fde9df949980eb7c622258aac69b4b92cf4236a1270d69e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:48.625016+00:00"
+source_sha256: "01ee93b274f98afb660fd8f67b0912afbf3a2625b62752e658e8a898551f96a1"
 ---
 
 # 术法的天分
@@ -18,8 +18,8 @@ source_sha256: "c20b09902cf413b11fde9df949980eb7c622258aac69b4b92cf4236a1270d69e
 - Slug：`arts-talent`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0023_antal_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:23.448379+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:48.625016+00:00`
 - ID：`topic_chr_0023_antal_2`
 - 包含会话：`sns_topic_chr_0023_antal_2`
 

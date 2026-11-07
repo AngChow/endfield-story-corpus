@@ -5,9 +5,9 @@ slug: "travel-log"
 source_id: "topic_chr_0016_laevat_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0016_laevat_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:29.742981+00:00"
-source_sha256: "383a22fad5f200b767ce87cdb09827b68fc9e6e405bf01052fa9adc2204503af"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:44.974261+00:00"
+source_sha256: "f0a7e803edfd20caa4c07fa0470f8fa5bd8a45481625d0a433f23d01bcba6800"
 ---
 
 # 旅行记录
@@ -18,8 +18,8 @@ source_sha256: "383a22fad5f200b767ce87cdb09827b68fc9e6e405bf01052fa9adc2204503af
 - Slug：`travel-log`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0016_laevat_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:29.742981+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:44.974261+00:00`
 - ID：`topic_chr_0016_laevat_3`
 - 包含会话：`sns_topic_chr_0016_laevat_3`
 

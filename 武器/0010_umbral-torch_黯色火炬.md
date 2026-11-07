@@ -5,9 +5,9 @@ slug: "umbral-torch"
 source_id: "wpn_sword_0010"
 source_url: "https://warfarin.wiki/cn/weapons/umbral-torch"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:26.478146+00:00"
-source_sha256: "212a1e903abea37af2bb77b2774f70ff5672de80a0d954a7e69034be1ad0d466"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:03.613680+00:00"
+source_sha256: "752216c8945c2a8504101ee4df2fe459cc6ae51e0f7cc5f912c8d9911893f996"
 ---
 
 # 黯色火炬
@@ -18,8 +18,8 @@ source_sha256: "212a1e903abea37af2bb77b2774f70ff5672de80a0d954a7e69034be1ad0d466
 - Slug：`umbral-torch`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/umbral-torch)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:26.478146+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:03.613680+00:00`
 - ID：`wpn_sword_0010`
 - 英文名：Umbral Torch
 - 稀有度：6★

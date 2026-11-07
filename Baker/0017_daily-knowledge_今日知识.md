@@ -5,9 +5,9 @@ slug: "daily-knowledge"
 source_id: "topic_chr_0011_seraph_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0011_seraph_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:06.865209+00:00"
-source_sha256: "4c18d36f73cb9e39feb0842bb55e13e54196300408e0f391b0834753b17936de"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:55.717055+00:00"
+source_sha256: "1f2b8c215bc1e192a8eb15bf6751336bc3a9c8b9554b8758765474adbf3769b2"
 ---
 
 # 今日知识
@@ -18,8 +18,8 @@ source_sha256: "4c18d36f73cb9e39feb0842bb55e13e54196300408e0f391b0834753b17936de
 - Slug：`daily-knowledge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0011_seraph_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:06.865209+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:55.717055+00:00`
 - ID：`topic_chr_0011_seraph_2`
 - 包含会话：`sns_topic_chr_0011_seraph_2`
 

@@ -5,9 +5,9 @@ slug: "complexed-industry"
 source_id: "wpn_sword_0024"
 source_url: "https://warfarin.wiki/cn/weapons/complexed-industry"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:50:00.050925+00:00"
-source_sha256: "443baaddba6d2c5d1a0a19ceaf74e7e3b3f77f8d4e0d7767470108374ce6d3e1"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:12.661167+00:00"
+source_sha256: "75ec1bc7d6323c056f86f622bcf4917b8fee6e09e15c784734807ffbf691b0fd"
 ---
 
 # 聚合工业
@@ -18,8 +18,8 @@ source_sha256: "443baaddba6d2c5d1a0a19ceaf74e7e3b3f77f8d4e0d7767470108374ce6d3e1
 - Slug：`complexed-industry`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/complexed-industry)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:50:00.050925+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:12.661167+00:00`
 - ID：`wpn_sword_0024`
 - 英文名：Complexed Industry
 - 稀有度：6★

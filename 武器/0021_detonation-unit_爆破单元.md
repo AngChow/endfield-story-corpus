@@ -5,9 +5,9 @@ slug: "detonation-unit"
 source_id: "wpn_funnel_0008"
 source_url: "https://warfarin.wiki/cn/weapons/detonation-unit"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:52:11.709175+00:00"
-source_sha256: "be5c5542413d52d8eb2a3f3a782aea4ab6db46aca6ec202837b3d5a0524deff9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:01.105143+00:00"
+source_sha256: "54a21a77bcd96c8b68642be812fd723f4ecc34d8910c88a22052f82783199138"
 ---
 
 # 爆破单元
@@ -18,8 +18,8 @@ source_sha256: "be5c5542413d52d8eb2a3f3a782aea4ab6db46aca6ec202837b3d5a0524deff9
 - Slug：`detonation-unit`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/detonation-unit)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:52:11.709175+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:01.105143+00:00`
 - ID：`wpn_funnel_0008`
 - 英文名：Detonation Unit
 - 稀有度：6★

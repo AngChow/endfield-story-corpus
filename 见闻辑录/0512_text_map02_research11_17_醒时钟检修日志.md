@@ -5,9 +5,9 @@ slug: "text_map02_research11_17"
 source_id: "text_map02_research11_17"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_17"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:50.857341+00:00"
-source_sha256: "96c863ce3dbf550be8a9647ad5fc8d9ba28b6627f833b6491e5e7d06c9842fd3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:35.044714+00:00"
+source_sha256: "3a2fd3597ecafaef077a3a6f579ae7d43f3b772934995603e994a934ae0e84e7"
 ---
 
 # 醒时钟检修日志
@@ -18,8 +18,8 @@ source_sha256: "96c863ce3dbf550be8a9647ad5fc8d9ba28b6627f833b6491e5e7d06c9842fd3
 - Slug：`text_map02_research11_17`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_17)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:50.857341+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:35.044714+00:00`
 - ID：`text_map02_research11_17`
 - 条目 ID：`nar_digital_map02_research11_12_1`
 - 正文 ID：`text_map02_research11_17`

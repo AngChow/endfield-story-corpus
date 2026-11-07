@@ -5,9 +5,9 @@ slug: "hypernova-auto"
 source_id: "wpn_funnel_0001"
 source_url: "https://warfarin.wiki/cn/weapons/hypernova-auto"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:55:36.748145+00:00"
-source_sha256: "4424e2a71e40e9c3fc1036706418d03d59886d9ccf677c06a068c579bbce39e7"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:42.192018+00:00"
+source_sha256: "a418df4a17f23180f9cfe52c7ad0dd1f29a11a3cf48ae0b3f038785121b2f657"
 ---
 
 # 全自动骇新星
@@ -18,8 +18,8 @@ source_sha256: "4424e2a71e40e9c3fc1036706418d03d59886d9ccf677c06a068c579bbce39e7
 - Slug：`hypernova-auto`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/hypernova-auto)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:55:36.748145+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:42.192018+00:00`
 - ID：`wpn_funnel_0001`
 - 英文名：Hypernova Auto
 - 稀有度：4★

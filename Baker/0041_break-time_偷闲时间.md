@@ -5,9 +5,9 @@ slug: "break-time"
 source_id: "topic_chr_0019_karin_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0019_karin_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:48.739385+00:00"
-source_sha256: "fc85dd9a2f8294b9c6f66ad89546be1229b112bb69902901b44584a0409571b9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:06.535014+00:00"
+source_sha256: "6463d7b8b5004ad882a46b3bed1aa8d7f616307b4c1ea42098c5b840023ae899"
 ---
 
 # 偷闲时间
@@ -18,8 +18,8 @@ source_sha256: "fc85dd9a2f8294b9c6f66ad89546be1229b112bb69902901b44584a0409571b9
 - Slug：`break-time`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0019_karin_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:48.739385+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:06.535014+00:00`
 - ID：`topic_chr_0019_karin_2`
 - 包含会话：`sns_topic_chr_0019_karin_2`
 

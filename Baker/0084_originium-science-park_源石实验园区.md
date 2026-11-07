@@ -5,9 +5,9 @@ slug: "originium-science-park"
 source_id: "topic_map01_lv005_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv005_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:59.944653+00:00"
-source_sha256: "e57006aea5d882359238f8f760ab06f83d92bf448b8f68501f4e3a4c682159b3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:29.540039+00:00"
+source_sha256: "682840070b22fbeddc54af5d9525492c452ba7e45d48d8be31d6a71562e129ce"
 ---
 
 # 源石实验园区
@@ -18,8 +18,8 @@ source_sha256: "e57006aea5d882359238f8f760ab06f83d92bf448b8f68501f4e3a4c682159b3
 - Slug：`originium-science-park`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv005_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:59.944653+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:29.540039+00:00`
 - ID：`topic_map01_lv005_3`
 - 包含会话：`sns_topic_map01_lv005_5`、`sns_topic_map01_lv005_6`
 

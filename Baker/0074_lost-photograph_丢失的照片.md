@@ -5,9 +5,9 @@ slug: "lost-photograph"
 source_id: "topic_chr_0030_zhuangfy_12002"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0030_zhuangfy_12002"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:23.905290+00:00"
-source_sha256: "b93f69df72eb2dcdf91380f427d2ce3cedf28872f8fe9eb580f7b3268d5002f0"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:00.890402+00:00"
+source_sha256: "c5ddd67c657bf7ab46cf7d308973b7976812bff9b9fb05edbe3f400775a0e9ed"
 ---
 
 # 丢失的照片
@@ -18,8 +18,8 @@ source_sha256: "b93f69df72eb2dcdf91380f427d2ce3cedf28872f8fe9eb580f7b3268d5002f0
 - Slug：`lost-photograph`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0030_zhuangfy_12002)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:23.905290+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:00.890402+00:00`
 - ID：`topic_chr_0030_zhuangfy_12002`
 - 包含会话：`sns_topic_chr_0030_zhuangfy_12002`
 

@@ -5,9 +5,9 @@ slug: "the-motorbikes-journey"
 source_id: "topic_chr_0007_ikut_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0007_ikut_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:57.566644+00:00"
-source_sha256: "e63d4607e699f7c8ea9af164802fab9f7b67f00d3c17246cafef394fa11c50f8"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:37.925307+00:00"
+source_sha256: "ec049fdf3589e017522de02985a7ba8506ddeb59c4b07963da0235845d79c7e0"
 ---
 
 # 摩托车的成长
@@ -18,8 +18,8 @@ source_sha256: "e63d4607e699f7c8ea9af164802fab9f7b67f00d3c17246cafef394fa11c50f8
 - Slug：`the-motorbikes-journey`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0007_ikut_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:57.566644+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:37.925307+00:00`
 - ID：`topic_chr_0007_ikut_3`
 - 包含会话：`sns_topic_chr_0007_ikut_3`
 

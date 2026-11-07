@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_14_1"
 source_id: "nar_document_v0d8_14_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_14_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:14:44.025979+00:00"
-source_sha256: "16970d4b0b07df835bfec6bedeef450442dcad46f37b87e083c52b4708fb8f9c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:54.354635+00:00"
+source_sha256: "b50f44377ec8d107a8a1a49865ca88a22abbd300aa082855639ce7f4b066d7bb"
 ---
 
 # 世代摇篮
@@ -18,8 +18,8 @@ source_sha256: "16970d4b0b07df835bfec6bedeef450442dcad46f37b87e083c52b4708fb8f9c
 - Slug：`nar_document_v0d8_14_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_14_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:14:44.025979+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:54.354635+00:00`
 - ID：`nar_document_v0d8_14_1`
 - 条目 ID：`nar_document_v0d8_14_1`
 - 正文 ID：`text_v0d8_14`

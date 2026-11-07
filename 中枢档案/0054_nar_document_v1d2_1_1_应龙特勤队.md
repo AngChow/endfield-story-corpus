@@ -5,9 +5,9 @@ slug: "nar_document_v1d2_1_1"
 source_id: "nar_document_v1d2_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d2_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:21:07.044802+00:00"
-source_sha256: "2ac5d9bf100f3b6e86857c5fb0f64334712aa14d5c46787746c2228a53d9c03a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:48.476071+00:00"
+source_sha256: "995fa51c28fea355008e4996d21be93e38d2393759896767592976afb00d4952"
 ---
 
 # 应龙特勤队
@@ -18,8 +18,8 @@ source_sha256: "2ac5d9bf100f3b6e86857c5fb0f64334712aa14d5c46787746c2228a53d9c03a
 - Slug：`nar_document_v1d2_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d2_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:21:07.044802+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:48.476071+00:00`
 - ID：`nar_document_v1d2_1_1`
 - 条目 ID：`nar_document_v1d2_1_1`
 - 正文 ID：`text_v1d2_1`

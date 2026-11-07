@@ -5,9 +5,9 @@ slug: "khravengger"
 source_id: "wpn_claym_0013"
 source_url: "https://warfarin.wiki/cn/weapons/khravengger"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:07.199192+00:00"
-source_sha256: "c5da6d864ef8c12108e48428b30107b7a2b2e8e3c599630b51a2f15619397c04"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:55.542978+00:00"
+source_sha256: "70de931caab5319656d7070b471a0e908fef0e475100394ec21c964d5a617dd4"
 ---
 
 # 赫拉芬格
@@ -18,8 +18,8 @@ source_sha256: "c5da6d864ef8c12108e48428b30107b7a2b2e8e3c599630b51a2f15619397c04
 - Slug：`khravengger`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/khravengger)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:07.199192+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:55.542978+00:00`
 - ID：`wpn_claym_0013`
 - 英文名：Khravengger
 - 稀有度：6★

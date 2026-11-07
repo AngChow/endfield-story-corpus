@@ -5,9 +5,9 @@ slug: "avywenna"
 source_id: "chr_0012_avywen"
 source_url: "https://warfarin.wiki/cn/operators/avywenna"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:42:54.438110+00:00"
-source_sha256: "8285628d651d6a2fca762004a2caf17fe97e9101b93847d1d9c628fe06205b40"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:59.751814+00:00"
+source_sha256: "1a1cebf8be5c6b79d87853ed7ffbd193f9ff2204ec953a8a345717f69a0628b6"
 ---
 
 # 艾维文娜
@@ -18,8 +18,8 @@ source_sha256: "8285628d651d6a2fca762004a2caf17fe97e9101b93847d1d9c628fe06205b40
 - Slug：`avywenna`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/avywenna)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:42:54.438110+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:59.751814+00:00`
 - ID：`chr_0012_avywen`
 - 英文名：Avywenna
 - 稀有度：5★

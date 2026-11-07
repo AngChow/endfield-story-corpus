@@ -5,9 +5,9 @@ slug: "bedazzling-night-debut"
 source_id: "wpn_lance_0014"
 source_url: "https://warfarin.wiki/cn/weapons/bedazzling-night-debut"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:46:12.366515+00:00"
-source_sha256: "60d1341bb7fa4d8314fd2713fd2a85c6d947ecbc75b19954a586f7b990bb8375"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:39.268938+00:00"
+source_sha256: "a011d2ade5a3d23ab07a1aef6ea6282b0ad00d770e12c0544a75424a4c378a92"
 ---
 
 # 曜夜的首演
@@ -18,8 +18,8 @@ source_sha256: "60d1341bb7fa4d8314fd2713fd2a85c6d947ecbc75b19954a586f7b990bb8375
 - Slug：`bedazzling-night-debut`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/bedazzling-night-debut)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:46:12.366515+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:39.268938+00:00`
 - ID：`wpn_lance_0014`
 - 英文名：Bedazzling Night Debut
 - 稀有度：6★

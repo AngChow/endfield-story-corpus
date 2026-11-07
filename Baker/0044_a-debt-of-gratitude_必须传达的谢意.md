@@ -5,9 +5,9 @@ slug: "a-debt-of-gratitude"
 source_id: "topic_chr_0020_meurs_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0020_meurs_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:03.459635+00:00"
-source_sha256: "2976a66bec05a94db45116fc978d76b8cf940e65180f45c445ce9d2f35fc1927"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:16.392934+00:00"
+source_sha256: "f2a2446eb3044b3b5ddd86d2b0463ce452d9f8580406d920474deeacb3bf9e84"
 ---
 
 # 必须传达的谢意
@@ -18,8 +18,8 @@ source_sha256: "2976a66bec05a94db45116fc978d76b8cf940e65180f45c445ce9d2f35fc1927
 - Slug：`a-debt-of-gratitude`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0020_meurs_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:03.459635+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:16.392934+00:00`
 - ID：`topic_chr_0020_meurs_2`
 - 包含会话：`sns_topic_chr_0020_meurs_2`
 

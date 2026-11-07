@@ -5,9 +5,9 @@ slug: "fire-and-ice"
 source_id: "topic_chr_0016_laevat_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0016_laevat_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:27.791896+00:00"
-source_sha256: "3c54a6dfc8252c03a4c5a743cb23909959de952b5ac811f1e47ffa53874f9fb5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:46.809382+00:00"
+source_sha256: "6a39c0ff84ba2b04445b95d24daff6a7c74d105fa2633b1ef8781d23681a9cca"
 ---
 
 # 冰与火
@@ -18,8 +18,8 @@ source_sha256: "3c54a6dfc8252c03a4c5a743cb23909959de952b5ac811f1e47ffa53874f9fb5
 - Slug：`fire-and-ice`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0016_laevat_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:27.791896+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:46.809382+00:00`
 - ID：`topic_chr_0016_laevat_2`
 - 包含会话：`sns_topic_chr_0016_laevat_2`
 

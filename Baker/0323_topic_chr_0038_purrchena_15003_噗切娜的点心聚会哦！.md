@@ -5,9 +5,9 @@ slug: "topic_chr_0038_purrchena_15003"
 source_id: "topic_chr_0038_purrchena_15003"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0038_purrchena_15003"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:22.179344+00:00"
-source_sha256: "eba7ba3c9e77fbd4c48b9b1be0622aa9bb5107e0ff7ba8e14b55d57da4d2dc4d"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:02.258700+00:00"
+source_sha256: "74add8ca3a22639b33ccbcb6ea3f6cd9aa798882d25049d51431df64cc9f9ab3"
 ---
 
 # 噗切娜的点心聚会哦！
@@ -18,8 +18,8 @@ source_sha256: "eba7ba3c9e77fbd4c48b9b1be0622aa9bb5107e0ff7ba8e14b55d57da4d2dc4d
 - Slug：`topic_chr_0038_purrchena_15003`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0038_purrchena_15003)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:22.179344+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:02.258700+00:00`
 - ID：`topic_chr_0038_purrchena_15003`
 - 包含会话：`sns_topic_chr_0038_purrchena_15003`
 

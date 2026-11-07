@@ -5,9 +5,9 @@ slug: "seeker-of-dark-lung"
 source_id: "wpn_claym_0011"
 source_url: "https://warfarin.wiki/cn/weapons/seeker-of-dark-lung"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:06:30.695229+00:00"
-source_sha256: "6411b4f6c164028ab75d72af90797425a33b6f84a48b6df6b5e63a4723527bdd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:08.903441+00:00"
+source_sha256: "af66711c22ca8fb744721cf1fa50142e5bad59428adc376721f6bf96ccae0930"
 ---
 
 # 探骊
@@ -18,8 +18,8 @@ source_sha256: "6411b4f6c164028ab75d72af90797425a33b6f84a48b6df6b5e63a4723527bdd
 - Slug：`seeker-of-dark-lung`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/seeker-of-dark-lung)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:06:30.695229+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:08.903441+00:00`
 - ID：`wpn_claym_0011`
 - 英文名：Seeker of Dark Lung
 - 稀有度：5★

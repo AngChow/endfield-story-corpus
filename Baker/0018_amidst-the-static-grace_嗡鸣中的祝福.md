@@ -5,9 +5,9 @@ slug: "amidst-the-static-grace"
 source_id: "topic_chr_0011_seraph_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0011_seraph_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:14.123076+00:00"
-source_sha256: "9cc617afb0d7cb2e5ddd2e91988ed61ab9c85d7bec0b4b6492f80b35d5aa2e9b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:57.534573+00:00"
+source_sha256: "a02a715834f15217edd76267da00bc4e12d2542fffbb605aa6792871b5e3b5cd"
 ---
 
 # 嗡鸣中的祝福
@@ -18,8 +18,8 @@ source_sha256: "9cc617afb0d7cb2e5ddd2e91988ed61ab9c85d7bec0b4b6492f80b35d5aa2e9b
 - Slug：`amidst-the-static-grace`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0011_seraph_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:14.123076+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:57.534573+00:00`
 - ID：`topic_chr_0011_seraph_3`
 - 包含会话：`sns_topic_chr_0011_seraph_3`
 

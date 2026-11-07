@@ -5,9 +5,9 @@ slug: "the-path-walked-alone"
 source_id: "topic_chr_0006_wolfgd_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0006_wolfgd_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:10:06.319954+00:00"
-source_sha256: "2653c3877d3bf71730387b611bb385d6132a900cf743db19e09e09169e27441a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:20.914315+00:00"
+source_sha256: "5c351d0a84f1e8514b5e5b5e29cdc7bd10b8f7b3300ca20ac66b709b6b52dc81"
 ---
 
 # 独行之路
@@ -18,8 +18,8 @@ source_sha256: "2653c3877d3bf71730387b611bb385d6132a900cf743db19e09e09169e27441a
 - Slug：`the-path-walked-alone`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0006_wolfgd_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:10:06.319954+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:20.914315+00:00`
 - ID：`topic_chr_0006_wolfgd_1`
 - 包含会话：`sns_topic_chr_0006_wolfgd_1`
 

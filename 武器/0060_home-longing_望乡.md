@@ -5,9 +5,9 @@ slug: "home-longing"
 source_id: "wpn_pistol_0007"
 source_url: "https://warfarin.wiki/cn/weapons/home-longing"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:55:31.021818+00:00"
-source_sha256: "a483608e5b8f52237b865f9a466d93cf8ca41f5354d2281a5b44f23d2d04185a"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:19.803431+00:00"
+source_sha256: "30966775800bf4218ec0cabe7250be9fe8e025d445fb1db4dfe77435a9a9a7c7"
 ---
 
 # 望乡
@@ -18,8 +18,8 @@ source_sha256: "a483608e5b8f52237b865f9a466d93cf8ca41f5354d2281a5b44f23d2d04185a
 - Slug：`home-longing`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/home-longing)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:55:31.021818+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:19.803431+00:00`
 - ID：`wpn_pistol_0007`
 - 英文名：Home Longing
 - 稀有度：6★

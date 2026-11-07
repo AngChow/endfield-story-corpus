@@ -5,9 +5,9 @@ slug: "dear-mom"
 source_id: "topic_chr_0019_karin_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0019_karin_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:49.918489+00:00"
-source_sha256: "ef48b0e055718f0dd201db7081726d97b3bbb9ffa46553f9ea29c2b9dccf936c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:11.507560+00:00"
+source_sha256: "21606726ca2fa9fe97b655c982424debc120582da615d500cc675d6120cb2d9a"
 ---
 
 # 给妈妈的话
@@ -18,8 +18,8 @@ source_sha256: "ef48b0e055718f0dd201db7081726d97b3bbb9ffa46553f9ea29c2b9dccf936c
 - Slug：`dear-mom`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0019_karin_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:49.918489+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:11.507560+00:00`
 - ID：`topic_chr_0019_karin_3`
 - 包含会话：`sns_topic_chr_0019_karin_3`
 

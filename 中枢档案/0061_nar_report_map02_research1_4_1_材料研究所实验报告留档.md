@@ -5,9 +5,9 @@ slug: "nar_report_map02_research1_4_1"
 source_id: "nar_report_map02_research1_4_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research1_4_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:18.448188+00:00"
-source_sha256: "0c4202b7ff01b4d0fb27e954387bf13e393e9cb23437920826af930edd2225d8"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:24.085221+00:00"
+source_sha256: "73ee59df3b63c40edac0865ae93f07db9013606f97539eedc438a5bd7e46f48d"
 ---
 
 # 材料研究所实验报告留档
@@ -18,8 +18,8 @@ source_sha256: "0c4202b7ff01b4d0fb27e954387bf13e393e9cb23437920826af930edd2225d8
 - Slug：`nar_report_map02_research1_4_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research1_4_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:18.448188+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:24.085221+00:00`
 - ID：`nar_report_map02_research1_4_1`
 - 条目 ID：`nar_report_map02_research1_4_1`
 - 正文 ID：`text_sm2l2m3_2`

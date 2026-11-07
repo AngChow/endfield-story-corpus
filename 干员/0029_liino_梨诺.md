@@ -5,9 +5,9 @@ slug: "liino"
 source_id: "chr_0035_liino"
 source_url: "https://warfarin.wiki/cn/operators/liino"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:48:28.300614+00:00"
-source_sha256: "60c0d497b0e0fcf1788c416412d5bf8c48505acfd02e7caaa1e70bd0d99c8581"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:43.345434+00:00"
+source_sha256: "a692f8a1d87dab44520340549188e30e50874ffc7d98334c4dfdfd8e731c2a4a"
 ---
 
 # 梨诺
@@ -18,8 +18,8 @@ source_sha256: "60c0d497b0e0fcf1788c416412d5bf8c48505acfd02e7caaa1e70bd0d99c8581
 - Slug：`liino`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/liino)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:48:28.300614+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:43.345434+00:00`
 - ID：`chr_0035_liino`
 - 英文名：Liino
 - 稀有度：6★

@@ -5,9 +5,9 @@ slug: "thus-rest-the-winds-again"
 source_id: "topic_map02_lv002_12003"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv002_12003"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:25.709768+00:00"
-source_sha256: "9593b4a87be2881081b547a5e356a57318a9a258a0ff44cf06352dca2430a135"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:23:04.971173+00:00"
+source_sha256: "8fa851bcc22788796a3ded6bb411566c2782a7e4a48fd349e4975d1f09da2a62"
 ---
 
 # 见风停·下
@@ -18,8 +18,8 @@ source_sha256: "9593b4a87be2881081b547a5e356a57318a9a258a0ff44cf06352dca2430a135
 - Slug：`thus-rest-the-winds-again`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv002_12003)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:25.709768+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:23:04.971173+00:00`
 - ID：`topic_map02_lv002_12003`
 - 包含会话：`sns_topic_map02_lv002_12004`
 

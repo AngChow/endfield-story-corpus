@@ -5,9 +5,9 @@ slug: "cradle-of-the-ages"
 source_id: "topic_map01_lv006_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv006_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:05.824071+00:00"
-source_sha256: "40702bd33542335e4d90a568da7a18c070a47cc030f7ec014e4eaa551be7d4c6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:34.852161+00:00"
+source_sha256: "c05050e3ed0812067418521af4bbe458587528e1274f84d85f4eab3f530059ec"
 ---
 
 # 世代摇篮
@@ -18,8 +18,8 @@ source_sha256: "40702bd33542335e4d90a568da7a18c070a47cc030f7ec014e4eaa551be7d4c6
 - Slug：`cradle-of-the-ages`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv006_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:05.824071+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:34.852161+00:00`
 - ID：`topic_map01_lv006_2`
 - 包含会话：`sns_topic_map01_lv006_3`、`sns_topic_map01_lv006_4`
 

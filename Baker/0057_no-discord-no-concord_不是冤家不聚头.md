@@ -5,9 +5,9 @@ slug: "no-discord-no-concord"
 source_id: "topic_chr_0024_deepfin_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0024_deepfin_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:31.917125+00:00"
-source_sha256: "48318475bcf63c25b20ab10d951a25a29cbfa7ccd185d4f9dcb896826b9af6aa"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:59.356827+00:00"
+source_sha256: "dbf76a11e41b528fea09cc5a6a514d13ab943f84c39e684f1253fbb297e2bd97"
 ---
 
 # 不是冤家不聚头
@@ -18,8 +18,8 @@ source_sha256: "48318475bcf63c25b20ab10d951a25a29cbfa7ccd185d4f9dcb896826b9af6aa
 - Slug：`no-discord-no-concord`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0024_deepfin_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:31.917125+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:59.356827+00:00`
 - ID：`topic_chr_0024_deepfin_3`
 - 包含会话：`sns_topic_chr_0024_deepfin_3`
 

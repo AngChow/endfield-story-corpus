@@ -5,9 +5,9 @@ slug: "physical-training"
 source_id: "topic_chr_0021_whiten_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:10.471465+00:00"
-source_sha256: "d912828a34a6b7e38b831f43f5a58ecfb08a640d5fa398e3d96c2041511c2fcd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:27.533674+00:00"
+source_sha256: "69f0fcf752a2a97fd43043f3c233ff5e14ea53df3cc7d354207b0b6d2bdb19ef"
 ---
 
 # 体能训练
@@ -18,8 +18,8 @@ source_sha256: "d912828a34a6b7e38b831f43f5a58ecfb08a640d5fa398e3d96c2041511c2fcd
 - Slug：`physical-training`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:10.471465+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:27.533674+00:00`
 - ID：`topic_chr_0021_whiten_2`
 - 包含会话：`sns_topic_chr_0021_whiten_2`
 

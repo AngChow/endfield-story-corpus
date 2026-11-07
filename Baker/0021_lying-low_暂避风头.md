@@ -5,9 +5,9 @@ slug: "lying-low"
 source_id: "topic_chr_0012_avywen_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:20.113021+00:00"
-source_sha256: "afa7dbe1454c5084fc775a5f67c315e1afa9d9e7f14e30fc8926d32ca90b6e5c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:06.102137+00:00"
+source_sha256: "915fd2145aa39aa1d8813edde32b918beef5e571288fd7ce97e759a80d61de56"
 ---
 
 # 暂避风头
@@ -18,8 +18,8 @@ source_sha256: "afa7dbe1454c5084fc775a5f67c315e1afa9d9e7f14e30fc8926d32ca90b6e5c
 - Slug：`lying-low`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:20.113021+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:06.102137+00:00`
 - ID：`topic_chr_0012_avywen_3`
 - 包含会话：`sns_topic_chr_0012_avywen_3`
 

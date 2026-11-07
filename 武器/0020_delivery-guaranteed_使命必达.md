@@ -5,9 +5,9 @@ slug: "delivery-guaranteed"
 source_id: "wpn_funnel_0011"
 source_url: "https://warfarin.wiki/cn/weapons/delivery-guaranteed"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:52:07.720290+00:00"
-source_sha256: "c0ad80e73a13f6bd61a935088b0d396e55eb56511b3e6380d6feba237eb02dd2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:33.718748+00:00"
+source_sha256: "5944ff2a0511de322dca9ffef5cdce76205de61afb80955df0aed450c5208d18"
 ---
 
 # 使命必达
@@ -18,8 +18,8 @@ source_sha256: "c0ad80e73a13f6bd61a935088b0d396e55eb56511b3e6380d6feba237eb02dd2
 - Slug：`delivery-guaranteed`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/delivery-guaranteed)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:52:07.720290+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:33.718748+00:00`
 - ID：`wpn_funnel_0011`
 - 英文名：Delivery Guaranteed
 - 稀有度：6★

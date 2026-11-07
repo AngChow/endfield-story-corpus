@@ -5,9 +5,9 @@ slug: "the-ironclad-vow"
 source_id: "topic_chr_0009_azrila_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0009_azrila_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:00.127901+00:00"
-source_sha256: "9995802e18a8fbbdd51e18928a56ac050c087c201de734e6bcd0818914d3ead4"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:44.308705+00:00"
+source_sha256: "551ecf6bcb7b026778917c0ba718f625499b8b075f4ee0f12baa6efda8928e9d"
 ---
 
 # 最坚固的约定
@@ -18,8 +18,8 @@ source_sha256: "9995802e18a8fbbdd51e18928a56ac050c087c201de734e6bcd0818914d3ead4
 - Slug：`the-ironclad-vow`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0009_azrila_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:00.127901+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:44.308705+00:00`
 - ID：`topic_chr_0009_azrila_2`
 - 包含会话：`sns_topic_chr_0009_azrila_2`
 

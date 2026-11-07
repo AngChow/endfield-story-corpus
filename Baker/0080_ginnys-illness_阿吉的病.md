@@ -5,9 +5,9 @@ slug: "ginnys-illness"
 source_id: "topic_map01_lv002_3"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv002_3"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:37.010814+00:00"
-source_sha256: "2782ef04d151a4ab6d0f5c07a43a57efa23f461f5190637df8f89a631a9b7643"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:16.357884+00:00"
+source_sha256: "55e0d247c8fffda0e3b5ba516a82407366f2d9892dc5b512b170041b4bfb8330"
 ---
 
 # 阿吉的病
@@ -18,8 +18,8 @@ source_sha256: "2782ef04d151a4ab6d0f5c07a43a57efa23f461f5190637df8f89a631a9b7643
 - Slug：`ginnys-illness`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv002_3)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:37.010814+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:16.357884+00:00`
 - ID：`topic_map01_lv002_3`
 - 包含会话：`sns_topic_map01_lv002_5`、`sns_topic_map01_lv002_6`、`sns_topic_map01_lv002_7`
 

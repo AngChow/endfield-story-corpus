@@ -5,9 +5,9 @@ slug: "perlica"
 source_id: "chr_0004_pelica"
 source_url: "https://warfarin.wiki/cn/operators/perlica"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:08.562950+00:00"
-source_sha256: "b98568480727efba8c2378bf7c9d75d1e8c2931e6f125fc6b73ab603b022d3d3"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:08.556223+00:00"
+source_sha256: "62b5b4b9ad4a2772cab125feb4abeb2ea4400685d1afdb571792c53b37116403"
 ---
 
 # 佩丽卡
@@ -18,8 +18,8 @@ source_sha256: "b98568480727efba8c2378bf7c9d75d1e8c2931e6f125fc6b73ab603b022d3d3
 - Slug：`perlica`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/perlica)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:08.562950+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:08.556223+00:00`
 - ID：`chr_0004_pelica`
 - 英文名：Perlica
 - 稀有度：5★

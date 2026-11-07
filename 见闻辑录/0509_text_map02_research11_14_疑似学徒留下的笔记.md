@@ -5,9 +5,9 @@ slug: "text_map02_research11_14"
 source_id: "text_map02_research11_14"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research11_14"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:50:45.214314+00:00"
-source_sha256: "02edf4f3fde2b2acf0429c4088793dca24b74f68ad52a2a676c628e76a1dfd59"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:28.517506+00:00"
+source_sha256: "9f86590d48a699b62ec6fdd5116effd8bd57a9f6df8b1ca90b66ebaa246488d6"
 ---
 
 # 疑似学徒留下的笔记
@@ -18,8 +18,8 @@ source_sha256: "02edf4f3fde2b2acf0429c4088793dca24b74f68ad52a2a676c628e76a1dfd59
 - Slug：`text_map02_research11_14`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research11_14)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:50:45.214314+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:28.517506+00:00`
 - ID：`text_map02_research11_14`
 - 条目 ID：`nar_paper_map02_research11_10_1`
 - 正文 ID：`text_map02_research11_14`

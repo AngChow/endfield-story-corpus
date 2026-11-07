@@ -5,9 +5,9 @@ slug: "topic_chr_0032_arcane_14003"
 source_id: "topic_chr_0032_arcane_14003"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0032_arcane_14003"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:38.847740+00:00"
-source_sha256: "42b696d20416070613dace77f87859c8b106a384f5525bcbf72dcedd02b70f70"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:21:15.537210+00:00"
+source_sha256: "c21569d8dc196c890bda79c407df92e40b4c502640a5445384c9d0f8d4d69c77"
 ---
 
 # 跟着故乡的风筝
@@ -18,8 +18,8 @@ source_sha256: "42b696d20416070613dace77f87859c8b106a384f5525bcbf72dcedd02b70f70
 - Slug：`topic_chr_0032_arcane_14003`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0032_arcane_14003)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:38.847740+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:21:15.537210+00:00`
 - ID：`topic_chr_0032_arcane_14003`
 - 包含会话：`sns_topic_chr_0032_arcane_14003`
 

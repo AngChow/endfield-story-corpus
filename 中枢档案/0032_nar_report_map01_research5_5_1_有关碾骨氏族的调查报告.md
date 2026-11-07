@@ -5,9 +5,9 @@ slug: "nar_report_map01_research5_5_1"
 source_id: "nar_report_map01_research5_5_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map01_research5_5_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:06.811080+00:00"
-source_sha256: "ae88a9918425595eb795751ab95dc8000c78b7c6338e2d00076b42b54304c454"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:54.628477+00:00"
+source_sha256: "daa3abab5a56cec0d3a74a7452e99a907e488ae429b144a483d43bdee1cd8864"
 ---
 
 # 有关碾骨氏族的调查报告
@@ -18,8 +18,8 @@ source_sha256: "ae88a9918425595eb795751ab95dc8000c78b7c6338e2d00076b42b54304c454
 - Slug：`nar_report_map01_research5_5_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map01_research5_5_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:06.811080+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:54.628477+00:00`
 - ID：`nar_report_map01_research5_5_1`
 - 条目 ID：`nar_report_map01_research5_5_1`
 - 正文 ID：`text_map01_research5_1`

@@ -5,9 +5,9 @@ slug: "ardelia"
 source_id: "chr_0025_ardelia"
 source_url: "https://warfarin.wiki/cn/operators/ardelia"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:42:51.080022+00:00"
-source_sha256: "224b5fdf5cba6deed652bb67c1c5ea9c8bc3268b2e135243162198254f772f74"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:59:35.504802+00:00"
+source_sha256: "0502d2852f2a6e167eff01861747c2509fd89714c4b4456a5be44dd410e4a567"
 ---
 
 # 艾尔黛拉
@@ -18,8 +18,8 @@ source_sha256: "224b5fdf5cba6deed652bb67c1c5ea9c8bc3268b2e135243162198254f772f74
 - Slug：`ardelia`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/ardelia)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:42:51.080022+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:59:35.504802+00:00`
 - ID：`chr_0025_ardelia`
 - 英文名：Ardelia
 - 稀有度：6★

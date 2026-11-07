@@ -5,9 +5,9 @@ slug: "dessert-moment"
 source_id: "wpn_sword_0023"
 source_url: "https://warfarin.wiki/cn/weapons/dessert-moment"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:52:10.339900+00:00"
-source_sha256: "b6e1d4840501eb4ec8981309ea2d9ced9963a370b7ae758c6772b49b68838f02"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:50.509905+00:00"
+source_sha256: "078a611f075a5ebe615e3bfe9ff2ff4a98a137ceeb3ad83bac4602fd5576c4f3"
 ---
 
 # 点心时刻
@@ -18,8 +18,8 @@ source_sha256: "b6e1d4840501eb4ec8981309ea2d9ced9963a370b7ae758c6772b49b68838f02
 - Slug：`dessert-moment`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/dessert-moment)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:52:10.339900+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:50.509905+00:00`
 - ID：`wpn_sword_0023`
 - 英文名：Dessert Moment
 - 稀有度：5★

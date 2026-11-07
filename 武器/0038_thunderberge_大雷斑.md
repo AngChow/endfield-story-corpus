@@ -5,9 +5,9 @@ slug: "thunderberge"
 source_id: "wpn_claym_0007"
 source_url: "https://warfarin.wiki/cn/weapons/thunderberge"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:16.455869+00:00"
-source_sha256: "dcdadee24db66d678f8596a02853e6c9d85ef6b854a56f40a196dde598c03406"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:40.135900+00:00"
+source_sha256: "11f395e8f9708cf2f2db847c0f745db3e85280a0a956a957f108453dca5a89c6"
 ---
 
 # 大雷斑
@@ -18,8 +18,8 @@ source_sha256: "dcdadee24db66d678f8596a02853e6c9d85ef6b854a56f40a196dde598c03406
 - Slug：`thunderberge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/thunderberge)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:16.455869+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:40.135900+00:00`
 - ID：`wpn_claym_0007`
 - 英文名：Thunderberge
 - 稀有度：6★

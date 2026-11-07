@@ -5,9 +5,9 @@ slug: "mountain-bearer"
 source_id: "wpn_lance_0012"
 source_url: "https://warfarin.wiki/cn/weapons/mountain-bearer"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:20.853626+00:00"
-source_sha256: "a59976b577b907fa6b734e03236188a77ea713cce7b8ec9e109a56930d6ccc6c"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:28.974579+00:00"
+source_sha256: "8ff466bddda88b2ac509de59ef87b149a8e6af99c7d2e994934cf9e4f803f553"
 ---
 
 # 负山
@@ -18,8 +18,8 @@ source_sha256: "a59976b577b907fa6b734e03236188a77ea713cce7b8ec9e109a56930d6ccc6c
 - Slug：`mountain-bearer`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/mountain-bearer)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:20.853626+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:28.974579+00:00`
 - ID：`wpn_lance_0012`
 - 英文名：Mountain Bearer
 - 稀有度：6★

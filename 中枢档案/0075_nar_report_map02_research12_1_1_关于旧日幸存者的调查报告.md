@@ -5,9 +5,9 @@ slug: "nar_report_map02_research12_1_1"
 source_id: "nar_report_map02_research12_1_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research12_1_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:23:15.285969+00:00"
-source_sha256: "c9af2f4f7c19998cdb02f848844a272ec3db01e37f7757036741be6ca64c18cf"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:12.542866+00:00"
+source_sha256: "7a26648ea4735af5239d1a820c5e405882a2409b9083858e4c5ea7850eae73ec"
 ---
 
 # 关于旧日幸存者的调查报告
@@ -18,8 +18,8 @@ source_sha256: "c9af2f4f7c19998cdb02f848844a272ec3db01e37f7757036741be6ca64c18cf
 - Slug：`nar_report_map02_research12_1_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research12_1_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:23:15.285969+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:12.542866+00:00`
 - ID：`nar_report_map02_research12_1_1`
 - 条目 ID：`nar_report_map02_research12_1_1`
 - 正文 ID：`text_map02_research12_1`

@@ -5,9 +5,9 @@ slug: "monaihe"
 source_id: "wpn_funnel_0007"
 source_url: "https://warfarin.wiki/cn/weapons/monaihe"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:57:18.003922+00:00"
-source_sha256: "2f7cf3fc35322e6946f3525b3cfa8c2a5b35170d632bad35b92d55ccbe5a79ec"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:26.939131+00:00"
+source_sha256: "fe3764d05d72892c842061de2c474d28ca045ff380bb577f6205baa47087bdae"
 ---
 
 # 莫奈何
@@ -18,8 +18,8 @@ source_sha256: "2f7cf3fc35322e6946f3525b3cfa8c2a5b35170d632bad35b92d55ccbe5a79ec
 - Slug：`monaihe`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/monaihe)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:57:18.003922+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:26.939131+00:00`
 - ID：`wpn_funnel_0007`
 - 英文名：Monaihe
 - 稀有度：5★

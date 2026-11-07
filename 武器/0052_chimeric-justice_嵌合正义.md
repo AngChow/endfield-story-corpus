@@ -5,9 +5,9 @@ slug: "chimeric-justice"
 source_id: "wpn_lance_0004"
 source_url: "https://warfarin.wiki/cn/weapons/chimeric-justice"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:46:19.010185+00:00"
-source_sha256: "6d463ec11d4ec5870639d47ba5e09ca8042b64aa60951dfacf2e747ea98da1aa"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:17.696812+00:00"
+source_sha256: "511e8825fb4f2e7b804c3a4af1b664a442dc7435b8c40dd763905743e91548e3"
 ---
 
 # 嵌合正义
@@ -18,8 +18,8 @@ source_sha256: "6d463ec11d4ec5870639d47ba5e09ca8042b64aa60951dfacf2e747ea98da1aa
 - Slug：`chimeric-justice`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/chimeric-justice)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:46:19.010185+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:17.696812+00:00`
 - ID：`wpn_lance_0004`
 - 英文名：Chimeric Justice
 - 稀有度：5★

@@ -5,9 +5,9 @@ slug: "nar_report_map01_research1_17_1"
 source_id: "nar_report_map01_research1_17_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_report_map01_research1_17_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:22:58.339054+00:00"
-source_sha256: "6fc13fc501f748b99ec7294eff80789821a35514c834081a58a864734aef6157"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:35.331515+00:00"
+source_sha256: "c5ee30dc51f451e98625619da88db58bb5787dcb03e1b756ff3db356ca78f968"
 ---
 
 # 有关多桩裂地者遇袭事件的调查报告
@@ -18,8 +18,8 @@ source_sha256: "6fc13fc501f748b99ec7294eff80789821a35514c834081a58a864734aef6157
 - Slug：`nar_report_map01_research1_17_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map01_research1_17_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:22:58.339054+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:35.331515+00:00`
 - ID：`nar_report_map01_research1_17_1`
 - 条目 ID：`nar_report_map01_research1_17_1`
 - 正文 ID：`text_gm01m7_1`

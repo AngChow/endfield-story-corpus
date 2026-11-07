@@ -5,9 +5,9 @@ slug: "twelve-questions"
 source_id: "wpn_sword_0018"
 source_url: "https://warfarin.wiki/cn/weapons/twelve-questions"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:08:19.020428+00:00"
-source_sha256: "b2dfb3ad1071c98b2e03927e793255b7eafe5f04a0b5ef915ec17374fd9e6e17"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:45.644192+00:00"
+source_sha256: "f828f689ff4126a066c09778557d1913df92567e9f2b72bf450536009845bdb6"
 ---
 
 # 十二问
@@ -18,8 +18,8 @@ source_sha256: "b2dfb3ad1071c98b2e03927e793255b7eafe5f04a0b5ef915ec17374fd9e6e17
 - Slug：`twelve-questions`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/twelve-questions)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:08:19.020428+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:45.644192+00:00`
 - ID：`wpn_sword_0018`
 - 英文名：Twelve Questions
 - 稀有度：5★

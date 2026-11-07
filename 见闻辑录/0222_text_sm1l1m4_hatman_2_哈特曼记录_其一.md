@@ -5,9 +5,9 @@ slug: "text_sm1l1m4_hatman_2"
 source_id: "text_sm1l1m4_hatman_2"
 source_url: "https://warfarin.wiki/cn/lore/text_sm1l1m4_hatman_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:40.640699+00:00"
-source_sha256: "6945cea9d71ea97158e9deaba7bce13fb2ab72284e3df2c5293e42396f681c2b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:27:01.582934+00:00"
+source_sha256: "5b769033632fd88a32a13cea0622f8d7501a2b5dddbeef34c93de9a0db4c1504"
 ---
 
 # 哈特曼记录：其一
@@ -18,8 +18,8 @@ source_sha256: "6945cea9d71ea97158e9deaba7bce13fb2ab72284e3df2c5293e42396f681c2b
 - Slug：`text_sm1l1m4_hatman_2`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_sm1l1m4_hatman_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:40.640699+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:27:01.582934+00:00`
 - ID：`text_sm1l1m4_hatman_2`
 - 条目 ID：`nar_sm1l1m4_hatman_2`
 - 正文 ID：`text_sm1l1m4_hatman_2`

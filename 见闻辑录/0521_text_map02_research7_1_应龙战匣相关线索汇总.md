@@ -5,9 +5,9 @@ slug: "text_map02_research7_1"
 source_id: "text_map02_research7_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research7_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:23.740402+00:00"
-source_sha256: "e3f196f9195cfa4f3bc27f202fc2a852e7a91764a459932f605087a7941cb636"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:53.264946+00:00"
+source_sha256: "adb8619696147edb20dc23b6481412f46021c9178d4e9a137f7c61a7a66466e5"
 ---
 
 # 应龙战匣相关线索汇总
@@ -18,8 +18,8 @@ source_sha256: "e3f196f9195cfa4f3bc27f202fc2a852e7a91764a459932f605087a7941cb636
 - Slug：`text_map02_research7_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research7_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:23.740402+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:53.264946+00:00`
 - ID：`text_map02_research7_1`
 - 条目 ID：`nar_report_map02_research7_12_1`
 - 正文 ID：`text_map02_research7_1`

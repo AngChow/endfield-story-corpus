@@ -5,9 +5,9 @@ slug: "text_map02_research13_1"
 source_id: "text_map02_research13_1"
 source_url: "https://warfarin.wiki/cn/lore/text_map02_research13_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:51:04.638523+00:00"
-source_sha256: "1750888f9f2e99fc2e91a4ba0670a2efa02648380ee7e37327e9773b58d2e47e"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:26:48.515084+00:00"
+source_sha256: "b604431deaf13ecc52a5daf2e748039bd3f2fa1640e845ca1bcccb0ddd7adb96"
 ---
 
 # 有关雪松林运作模式的调查报告
@@ -18,8 +18,8 @@ source_sha256: "1750888f9f2e99fc2e91a4ba0670a2efa02648380ee7e37327e9773b58d2e47e
 - Slug：`text_map02_research13_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map02_research13_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:51:04.638523+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:26:48.515084+00:00`
 - ID：`text_map02_research13_1`
 - 条目 ID：`nar_report_map02_research13_1_1`
 - 正文 ID：`text_map02_research13_1`

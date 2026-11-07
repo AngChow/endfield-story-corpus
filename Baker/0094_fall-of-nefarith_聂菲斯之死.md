@@ -5,9 +5,9 @@ slug: "fall-of-nefarith"
 source_id: "topic_map02_lv002_12001"
 source_url: "https://warfarin.wiki/cn/baker/topic_map02_lv002_12001"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:56:22.380711+00:00"
-source_sha256: "3165cbb2ae11d93e9c0cf6eab4ea10c5ad2dc7e69f513043dfd6dd4140e7c7cc"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:58.234122+00:00"
+source_sha256: "befdbc307dbadb63c5b8246e5c67dffe8bf8478750ce9341eddb611bf174d4a8"
 ---
 
 # 聂菲斯之死
@@ -18,8 +18,8 @@ source_sha256: "3165cbb2ae11d93e9c0cf6eab4ea10c5ad2dc7e69f513043dfd6dd4140e7c7cc
 - Slug：`fall-of-nefarith`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map02_lv002_12001)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:56:22.380711+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:58.234122+00:00`
 - ID：`topic_map02_lv002_12001`
 - 包含会话：`sns_topic_map02_lv002_12001`、`sns_topic_map02_lv002_12002`
 

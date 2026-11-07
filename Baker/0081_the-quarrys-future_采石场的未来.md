@@ -5,9 +5,9 @@ slug: "the-quarrys-future"
 source_id: "topic_map01_lv003_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_map01_lv003_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:55:39.865115+00:00"
-source_sha256: "059c2971f51afb6b293909da0bfc11805c85190bef9886c2dd3e2e398c2ea647"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:22:21.106205+00:00"
+source_sha256: "218598c9ea52786916dfbcbb08111eef2125f8ad9838b2f3af215472c065b397"
 ---
 
 # 采石场的未来
@@ -18,8 +18,8 @@ source_sha256: "059c2971f51afb6b293909da0bfc11805c85190bef9886c2dd3e2e398c2ea647
 - Slug：`the-quarrys-future`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_map01_lv003_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:55:39.865115+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:22:21.106205+00:00`
 - ID：`topic_map01_lv003_1`
 - 包含会话：`sns_topic_map01_lv003_3`、`sns_topic_map01_lv003_2`
 

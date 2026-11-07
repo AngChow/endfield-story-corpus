@@ -5,9 +5,9 @@ slug: "the-pun-ishers-guide"
 source_id: "topic_chr_0023_antal_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0023_antal_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:20.231535+00:00"
-source_sha256: "6e8ad6ab76df1c60071f2963d15023f71d58a8adfc2b993dc190b0c41382617f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:46.318331+00:00"
+source_sha256: "bbc33b82222e107521b8f424f697b05a8b102aba203d8399707f55e5ae820e80"
 ---
 
 # 冷笑话诀窍
@@ -18,8 +18,8 @@ source_sha256: "6e8ad6ab76df1c60071f2963d15023f71d58a8adfc2b993dc190b0c41382617f
 - Slug：`the-pun-ishers-guide`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0023_antal_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:20.231535+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:46.318331+00:00`
 - ID：`topic_chr_0023_antal_1`
 - 包含会话：`sns_topic_chr_0023_antal_1`
 

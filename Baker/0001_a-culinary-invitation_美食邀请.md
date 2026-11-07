@@ -5,9 +5,9 @@ slug: "a-culinary-invitation"
 source_id: "topic_chr_0004_pelica_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0004_pelica_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:06:46.387776+00:00"
-source_sha256: "a538e70b9eb133d90e8f18d639c8f8ee2b4c3e9fab5a12aabbe2b59b3fad8ac9"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:04.619454+00:00"
+source_sha256: "646d75502efb8ab5eb95db535d046d09724fb9d41dd66222bcef01f079801de3"
 ---
 
 # 美食邀请
@@ -18,8 +18,8 @@ source_sha256: "a538e70b9eb133d90e8f18d639c8f8ee2b4c3e9fab5a12aabbe2b59b3fad8ac9
 - Slug：`a-culinary-invitation`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0004_pelica_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:06:46.387776+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:04.619454+00:00`
 - ID：`topic_chr_0004_pelica_1`
 - 包含会话：`sns_topic_chr_0004_pelica_1`
 

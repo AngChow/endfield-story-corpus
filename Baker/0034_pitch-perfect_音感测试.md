@@ -5,9 +5,9 @@ slug: "pitch-perfect"
 source_id: "topic_chr_0017_yvonne_1"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0017_yvonne_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:52:32.457197+00:00"
-source_sha256: "9254083858eed1ac44e5cbddf85fb663773d36737fa1283e5a9999e738296783"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:44.737065+00:00"
+source_sha256: "008d1ffd2f2aa61b7005617bf974367c7a2fad5b62805d84be93eabfb66634fd"
 ---
 
 # 音感测试
@@ -18,8 +18,8 @@ source_sha256: "9254083858eed1ac44e5cbddf85fb663773d36737fa1283e5a9999e738296783
 - Slug：`pitch-perfect`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0017_yvonne_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:52:32.457197+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:44.737065+00:00`
 - ID：`topic_chr_0017_yvonne_1`
 - 包含会话：`sns_topic_chr_0017_yvonne_1`
 

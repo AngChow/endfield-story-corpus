@@ -5,9 +5,9 @@ slug: "the-eternal-traveler"
 source_id: "topic_chr_0012_avywen_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:51:18.299642+00:00"
-source_sha256: "462c6df2cf6848c64d9be5058f17d89042f8467f57ebd6c6a2e765320a638641"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:06.001367+00:00"
+source_sha256: "73ddebc86017ad8c968f5613c15cd52ddb852d8bff7db57d68559eb77565b188"
 ---
 
 # 永远旅行的人
@@ -18,8 +18,8 @@ source_sha256: "462c6df2cf6848c64d9be5058f17d89042f8467f57ebd6c6a2e765320a638641
 - Slug：`the-eternal-traveler`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:51:18.299642+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:06.001367+00:00`
 - ID：`topic_chr_0012_avywen_2`
 - 包含会话：`sns_topic_chr_0012_avywen_2`
 

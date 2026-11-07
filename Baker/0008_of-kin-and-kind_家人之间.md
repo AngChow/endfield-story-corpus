@@ -5,9 +5,9 @@ slug: "of-kin-and-kind"
 source_id: "topic_chr_0006_wolfgd_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0006_wolfgd_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:48.685349+00:00"
-source_sha256: "86430da05617d0aff3dc40a788b3f6d4675e1eb19ab075acd127051f2bfa7a63"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:26.883595+00:00"
+source_sha256: "ee99bf4815c225f54d28f77ff5b94e9e16b39c2e619af04524456036dbaad06b"
 ---
 
 # 家人之间
@@ -18,8 +18,8 @@ source_sha256: "86430da05617d0aff3dc40a788b3f6d4675e1eb19ab075acd127051f2bfa7a63
 - Slug：`of-kin-and-kind`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0006_wolfgd_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:48.685349+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:26.883595+00:00`
 - ID：`topic_chr_0006_wolfgd_2`
 - 包含会话：`sns_topic_chr_0006_wolfgd_2`
 

@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_21_1"
 source_id: "nar_document_v0d8_21_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_21_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:14:59.122663+00:00"
-source_sha256: "184928ad34713500176330156024199528264017a6f6e6b9fc39bcd5355f7832"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:27.108305+00:00"
+source_sha256: "67556e069d6603fabfdfbbb2ac0cfda26350785f64f7be544557c8c61c3a2cd5"
 ---
 
 # 武陵甚大裂隙
@@ -18,8 +18,8 @@ source_sha256: "184928ad34713500176330156024199528264017a6f6e6b9fc39bcd5355f7832
 - Slug：`nar_document_v0d8_21_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_21_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:14:59.122663+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:27.108305+00:00`
 - ID：`nar_document_v0d8_21_1`
 - 条目 ID：`nar_document_v0d8_21_1`
 - 正文 ID：`text_v0d8_21`

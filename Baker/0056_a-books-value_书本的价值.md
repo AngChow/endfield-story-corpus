@@ -5,9 +5,9 @@ slug: "a-books-value"
 source_id: "topic_chr_0024_deepfin_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0024_deepfin_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:29.399930+00:00"
-source_sha256: "daea2f53fb80240dccbd82ac0a731b2190370044620a9e61f551f60a737294fb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:59.145178+00:00"
+source_sha256: "13f7f449c2baa5847f453d865e843dbf4eac4f904718e106b83d1d813571c9e7"
 ---
 
 # 书本的价值
@@ -18,8 +18,8 @@ source_sha256: "daea2f53fb80240dccbd82ac0a731b2190370044620a9e61f551f60a737294fb
 - Slug：`a-books-value`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0024_deepfin_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:29.399930+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:59.145178+00:00`
 - ID：`topic_chr_0024_deepfin_2`
 - 包含会话：`sns_topic_chr_0024_deepfin_2`
 

@@ -5,9 +5,9 @@ slug: "to-better-days"
 source_id: "topic_chr_0026_lastrite_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0026_lastrite_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:53:47.039297+00:00"
-source_sha256: "0d347d2ead5fb9316262f702936c6ed66b1438dba93ac2952fa0018918d44fc5"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:13.699288+00:00"
+source_sha256: "3ae9b4e29cfd10188095dc3684f8565ac6fb73bba6c0c484f2f94fa485bf6052"
 ---
 
 # 好日子
@@ -18,8 +18,8 @@ source_sha256: "0d347d2ead5fb9316262f702936c6ed66b1438dba93ac2952fa0018918d44fc5
 - Slug：`to-better-days`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0026_lastrite_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:53:47.039297+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:13.699288+00:00`
 - ID：`topic_chr_0026_lastrite_2`
 - 包含会话：`sns_topic_chr_0026_lastrite_2`
 

@@ -5,9 +5,9 @@ slug: "tangtang"
 source_id: "chr_0027_tangtang"
 source_url: "https://warfarin.wiki/cn/operators/tangtang"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:52:24.214047+00:00"
-source_sha256: "5f83526a1a4fb7c5bab98a81cfbc27a285340bd252b50d1abac64c3af0579125"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:31.227466+00:00"
+source_sha256: "792104c523f3b498f48cdadd173496874fdc2ac84bdeafb7162a92ae9e0c5247"
 ---
 
 # 汤汤
@@ -18,8 +18,8 @@ source_sha256: "5f83526a1a4fb7c5bab98a81cfbc27a285340bd252b50d1abac64c3af0579125
 - Slug：`tangtang`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/tangtang)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:52:24.214047+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:31.227466+00:00`
 - ID：`chr_0027_tangtang`
 - 英文名：Tangtang
 - 稀有度：6★

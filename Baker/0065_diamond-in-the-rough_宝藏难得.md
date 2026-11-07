@@ -5,9 +5,9 @@ slug: "diamond-in-the-rough"
 source_id: "topic_chr_0027_tangtang_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0027_tangtang_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:54:05.031917+00:00"
-source_sha256: "88802994781db7284f1787262bd5c440eb4e57ab4d97ff438024a3e93e073764"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:20:28.988107+00:00"
+source_sha256: "e3362401a6e6bee692aa357f68f027e9292eb0987dea82ed023de4a117a73aac"
 ---
 
 # 宝藏难得
@@ -18,8 +18,8 @@ source_sha256: "88802994781db7284f1787262bd5c440eb4e57ab4d97ff438024a3e93e073764
 - Slug：`diamond-in-the-rough`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0027_tangtang_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:54:05.031917+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:20:28.988107+00:00`
 - ID：`topic_chr_0027_tangtang_2`
 - 包含会话：`sns_topic_chr_0027_tangtang_2`
 

@@ -5,9 +5,9 @@ slug: "text_map01_lv001_41"
 source_id: "text_map01_lv001_41"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_lv001_41"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T06:21:40.172475+00:00"
-source_sha256: "235900edda5622d732d4d0c5fed9f65cf46091a53967c3242e1b330bfd7f561b"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:47.062806+00:00"
+source_sha256: "32ccf4f6a168438f1fe1ee2993e903b8c01c5c46a0e45d52ded4b21b891bd412"
 ---
 
 # 罗曼的Baker留言
@@ -18,8 +18,8 @@ source_sha256: "235900edda5622d732d4d0c5fed9f65cf46091a53967c3242e1b330bfd7f561b
 - Slug：`text_map01_lv001_41`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_lv001_41)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T06:21:40.172475+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:47.062806+00:00`
 - ID：`text_map01_lv001_41`
 - 条目 ID：`nar_digital_map01_11_1`
 - 正文 ID：`text_map01_lv001_41`

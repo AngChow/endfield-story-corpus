@@ -5,9 +5,9 @@ slug: "oblivion"
 source_id: "wpn_funnel_0009"
 source_url: "https://warfarin.wiki/cn/weapons/oblivion"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:58:54.695903+00:00"
-source_sha256: "a708c64d0a73df7798127e5c1669fb1b1397b7c4a8eec182ef126e31a67634d2"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:12.226420+00:00"
+source_sha256: "e8cec2ad07f8899991b622f80f996f3b2e8fb7227dfd6ce93b8512fc882c3f6c"
 ---
 
 # 遗忘
@@ -18,8 +18,8 @@ source_sha256: "a708c64d0a73df7798127e5c1669fb1b1397b7c4a8eec182ef126e31a67634d2
 - Slug：`oblivion`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/oblivion)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:58:54.695903+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:12.226420+00:00`
 - ID：`wpn_funnel_0009`
 - 英文名：Oblivion
 - 稀有度：6★

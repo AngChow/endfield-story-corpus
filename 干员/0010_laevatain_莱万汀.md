@@ -5,9 +5,9 @@ slug: "laevatain"
 source_id: "chr_0016_laevat"
 source_url: "https://warfarin.wiki/cn/operators/laevatain"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:45:35.068574+00:00"
-source_sha256: "5cf63fc586cf168de96ea1d599ec1db5cc38362e9fc4ea8c0774b91ececc093f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:08.396264+00:00"
+source_sha256: "cf1f782a7216cce0ab3caab38d7e029c78e0582ec8eb30a330f2e971f8eb37e1"
 ---
 
 # 莱万汀
@@ -18,8 +18,8 @@ source_sha256: "5cf63fc586cf168de96ea1d599ec1db5cc38362e9fc4ea8c0774b91ececc093f
 - Slug：`laevatain`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/laevatain)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:45:35.068574+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:08.396264+00:00`
 - ID：`chr_0016_laevat`
 - 英文名：Laevatain
 - 稀有度：6★

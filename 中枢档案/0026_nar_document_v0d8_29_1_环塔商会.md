@@ -5,9 +5,9 @@ slug: "nar_document_v0d8_29_1"
 source_id: "nar_document_v0d8_29_1"
 source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_29_1"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T05:15:13.696156+00:00"
-source_sha256: "b02101b27654720587cfd0c87d0bc6a8e494fc75b03930ab3cff6ca5f08cdc49"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:59.514040+00:00"
+source_sha256: "d068d1969bfff2a340d801e1865a0569df137da1655b9df63598a4c1d49307ac"
 ---
 
 # 环塔商会
@@ -18,8 +18,8 @@ source_sha256: "b02101b27654720587cfd0c87d0bc6a8e494fc75b03930ab3cff6ca5f08cdc49
 - Slug：`nar_document_v0d8_29_1`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_29_1)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T05:15:13.696156+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:59.514040+00:00`
 - ID：`nar_document_v0d8_29_1`
 - 条目 ID：`nar_document_v0d8_29_1`
 - 正文 ID：`text_v0d8_29`

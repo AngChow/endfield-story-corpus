@@ -5,9 +5,9 @@ slug: "cohesive-traction"
 source_id: "wpn_lance_0006"
 source_url: "https://warfarin.wiki/cn/weapons/cohesive-traction"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:49:57.372885+00:00"
-source_sha256: "1ad003396782f3af112c8c908c2a0bf430348028ac2f9b135587887d2ed1f9cb"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:02.093782+00:00"
+source_sha256: "efec6353d0c83cf9a94524ddbbbb142361b5d051ed87e40ee80e8be279e8e63a"
 ---
 
 # 向心之引
@@ -18,8 +18,8 @@ source_sha256: "1ad003396782f3af112c8c908c2a0bf430348028ac2f9b135587887d2ed1f9cb
 - Slug：`cohesive-traction`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/cohesive-traction)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:49:57.372885+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:02.093782+00:00`
 - ID：`wpn_lance_0006`
 - 英文名：Cohesive Traction
 - 稀有度：5★

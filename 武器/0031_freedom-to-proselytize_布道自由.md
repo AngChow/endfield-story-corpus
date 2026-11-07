@@ -5,9 +5,9 @@ slug: "freedom-to-proselytize"
 source_id: "wpn_funnel_0012"
 source_url: "https://warfarin.wiki/cn/weapons/freedom-to-proselytize"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:53:53.797332+00:00"
-source_sha256: "c6ae14ee6c9b1097861b67f74e44600eeb7098cf68d1c3fdb1e45fa720b8b6fd"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:32.405282+00:00"
+source_sha256: "5296a68b7ca7afda28174e13466acd54a3fd280139dc3f2a598dd4a9daba796a"
 ---
 
 # 布道自由
@@ -18,8 +18,8 @@ source_sha256: "c6ae14ee6c9b1097861b67f74e44600eeb7098cf68d1c3fdb1e45fa720b8b6fd
 - Slug：`freedom-to-proselytize`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/freedom-to-proselytize)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:53:53.797332+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:32.405282+00:00`
 - ID：`wpn_funnel_0012`
 - 英文名：Freedom to Proselytize
 - 稀有度：5★

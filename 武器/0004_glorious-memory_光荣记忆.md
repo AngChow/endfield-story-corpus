@@ -5,9 +5,9 @@ slug: "glorious-memory"
 source_id: "wpn_sword_0017"
 source_url: "https://warfarin.wiki/cn/weapons/glorious-memory"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T04:55:25.313579+00:00"
-source_sha256: "d4195de32b313ca7df54b6183d18a97cc94193372e08618a60b8d6048428b66f"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:49.069967+00:00"
+source_sha256: "7fab18924cacff2af2392e398f17d48455f368a401ba3aff20490173eb5f5fb4"
 ---
 
 # 光荣记忆
@@ -18,8 +18,8 @@ source_sha256: "d4195de32b313ca7df54b6183d18a97cc94193372e08618a60b8d6048428b66f
 - Slug：`glorious-memory`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/glorious-memory)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T04:55:25.313579+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:49.069967+00:00`
 - ID：`wpn_sword_0017`
 - 英文名：Glorious Memory
 - 稀有度：6★

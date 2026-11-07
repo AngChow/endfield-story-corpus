@@ -5,9 +5,9 @@ slug: "kinetic-geodetics"
 source_id: "topic_chr_0004_pelica_2"
 source_url: "https://warfarin.wiki/cn/baker/topic_chr_0004_pelica_2"
 game_data_version: "1.6"
-warfarin_updated_at: "2026-10-15"
-fetched_at: "2026-10-19T07:50:28.960039+00:00"
-source_sha256: "7800e6de16001160fc8040e5ed9fcc4453fb0d9fa2160dc415ed1a211e183943"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:06.095904+00:00"
+source_sha256: "ce39b78d0254a69a4c84fb5971a2982158fb7dbeadda02c2b58491ea5c52ef35"
 ---
 
 # 用速度丈量大地
@@ -18,8 +18,8 @@ source_sha256: "7800e6de16001160fc8040e5ed9fcc4453fb0d9fa2160dc415ed1a211e183943
 - Slug：`kinetic-geodetics`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0004_pelica_2)
 - 数据版本：`1.6`
-- Warfarin 最后更新：`2026-10-15`
-- 采集时间：`2026-10-19T07:50:28.960039+00:00`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:06.095904+00:00`
 - ID：`topic_chr_0004_pelica_2`
 - 包含会话：`sns_topic_chr_0004_pelica_2`
 
