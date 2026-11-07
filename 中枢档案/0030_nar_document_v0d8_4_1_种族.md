@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "种族"
 slug: "nar_document_v0d8_4_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_4_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_4_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_4_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:44.835382+00:00"
+source_sha256: "875422d7cf3535e00f17cdf9a018134a12c703b9eab65c55e3e0ed0f22730638"
 ---
-
 
 # 种族
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_4_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_4_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_4_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:44.835382+00:00`
 - ID：`nar_document_v0d8_4_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_4_1`
+- 正文 ID：`text_v0d8_4`
+- 条目名称：种族
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

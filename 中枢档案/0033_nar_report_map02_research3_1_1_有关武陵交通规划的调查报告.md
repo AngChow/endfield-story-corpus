@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "有关武陵交通规划的调查报告"
 slug: "nar_report_map02_research3_1_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_report_map02_research3_1_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_report_map02_research3_1_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_report_map02_research3_1_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:31.486589+00:00"
+source_sha256: "f32b302165473927545cf5cca439e41b496bfb9ac52416485779c1776adacb79"
 ---
-
 
 # 有关武陵交通规划的调查报告
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_report_map02_research3_1_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_report_map02_research3_1_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map02_research3_1_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:31.486589+00:00`
 - ID：`nar_report_map02_research3_1_1`
-- 类型：document
+- 条目 ID：`nar_report_map02_research3_1_1`
+- 正文 ID：`text_map02_research3_1`
+- 条目名称：有关武陵交通规划的调查报告
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

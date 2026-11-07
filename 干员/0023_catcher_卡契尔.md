@@ -2,12 +2,13 @@
 category: "干员"
 title: "卡契尔"
 slug: "catcher"
+source_id: "chr_0020_meurs"
 source_url: "https://warfarin.wiki/cn/operators/catcher"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:21.975008+00:00"
+source_sha256: "ad380da0c0cec3eb1be5983e8f8c9d5c41ab0d36f7328c5d7a68b9fd39d8bd50"
 ---
-
 
 # 卡契尔
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`catcher`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/catcher)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:21.975008+00:00`
 - ID：`chr_0020_meurs`
 - 英文名：Catcher
 - 稀有度：4★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：卡契尔是一名使用双手剑的重装干员，可造成物理属性的伤害。
 - 属性：物理
 - 职业：重装
-- 势力：终末地工业
 - 种族：佩洛
 - 势力标签：终末地工业
 - 专长：工具制造、烹饪
 - 爱好：生活、运动
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：时尚
+- 不喜欢的行为：时尚
+- 昵称：大厨卡契尔
 - CV：中文：于凯隆；日文：木岛隆一；英文：Kevin Andrew Rivera；韩文：金慧星
 
 ### 标签说明
@@ -46,11 +47,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 烹饪·野战佳肴
 “烤羽兽、土豆炖肉、野炊浓汤——总是那老三样，但也总让人吃不腻。”
-
-#### 工具制造
-
-工具制造·武器保养
-他经手过的武器总拥有远超平均值的使用寿命。
 
 #### 运动
 
@@ -61,6 +57,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 生活·家政学钻研
 见识了他在烹饪、打扫、家电维修等方面的一丝不苟后，某位热心同事毅然给他颁发了“万能管家”的称号。
+
+#### 工具制造
+
+工具制造·武器保养
+他经手过的武器总拥有远超平均值的使用寿命。
 
 ## 档案
 
@@ -270,3 +271,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **卡契尔** (`chr_0020_meurs`, `chr_0020_meurs_mono_skill_ultimate_01`)：终结技1：我来解决你们！
 - **卡契尔** (`chr_0020_meurs`, `chr_0020_meurs_mono_skill_ultimate_02`)：终结技2：不会让你过去的！
 - **卡契尔** (`chr_0020_meurs`, `chr_0020_meurs_mono_skill_ultimate_03`)：终结技3：滚开！
+
+## 留影
+
+### 时刻坚守
+
+- 留影 ID：`pic_1_chr_0020_meurs`
+- 物品 ID：`item_pic_1_chr_0020_meurs`
+- 作者：九鸟山
+- 潜能等级：1
+
+![时刻坚守](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0020_meurs.webp)
+
+获取后，可解锁卡契尔的留影“时刻坚守”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+无论何时，那道手执坚盾的湛蓝身影始终在那里。
+
+### 战前准备
+
+- 留影 ID：`pic_3_chr_0020_meurs`
+- 物品 ID：`item_pic_3_chr_0020_meurs`
+- 作者：EXP
+- 潜能等级：3
+
+![战前准备](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0020_meurs.webp)
+
+获取后，可解锁卡契尔的留影“战前准备”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+在任务开始之前，他已经为后续的每种情况都准备了十种应急方案。
+
+### 坚实后盾
+
+- 留影 ID：`pic_5_chr_0020_meurs`
+- 物品 ID：`item_pic_5_chr_0020_meurs`
+- 作者：かしまき
+- 潜能等级：5
+
+![坚实后盾](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0020_meurs.webp)
+
+获取后，可解锁卡契尔的留影“坚实后盾”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+令人放心的安全感与让人满足的饱腹感——永远是他所在的队伍里最不会缺乏的东西。

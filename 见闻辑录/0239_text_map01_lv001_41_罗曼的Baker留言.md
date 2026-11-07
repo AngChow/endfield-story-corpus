@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "罗曼的Baker留言"
 slug: "text_map01_lv001_41"
+source_id: "text_map01_lv001_41"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_lv001_41"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:47.062806+00:00"
+source_sha256: "32ccf4f6a168438f1fe1ee2993e903b8c01c5c46a0e45d52ded4b21b891bd412"
 ---
-
 
 # 罗曼的Baker留言
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map01_lv001_41`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_lv001_41)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:47.062806+00:00`
 - ID：`text_map01_lv001_41`
-- 类型：罗曼的Baker留言
+- 条目 ID：`nar_digital_map01_11_1`
+- 正文 ID：`text_map01_lv001_41`
+- 条目名称：罗曼的Baker留言
+- 类型：电子档案
+- 类型标识：`text`
 
 ## 正文
 

@@ -2,12 +2,13 @@
 category: "干员"
 title: "萤石"
 slug: "fluorite"
+source_id: "chr_0022_bounda"
 source_url: "https://warfarin.wiki/cn/operators/fluorite"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:39.116550+00:00"
+source_sha256: "316dab4eed68dc4eb080f311a2c018e16cbbd25349d755f7d538a1021553fc3d"
 ---
-
 
 # 萤石
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`fluorite`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/fluorite)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:39.116550+00:00`
 - ID：`chr_0022_bounda`
 - 英文名：Fluorite
 - 稀有度：4★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：萤石是一名使用手铳的术师干员，可造成自然属性的伤害。
 - 属性：自然
 - 职业：术师
-- 势力：终末地工业
 - 种族：斐迪亚
 - 势力标签：终末地工业
 - 专长：野外生存、市井交涉
 - 爱好：自然、创意
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：文化
-- 行为不可用：内向（系统用游戏中不可见）
+- 不喜欢的行为：文化
+- 不可用的行为：内向（系统用游戏中不可见）
+- 昵称：大厨萤石
 - CV：中文：曹雅雯；日文：大地叶；英文：Katiana Sarkissian；韩文：张美
 
 ### 标签说明
@@ -47,6 +48,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 市井交涉·街头交涉
 萤石知道哪些人可以信任，哪些人心怀鬼胎，而哪些人只是蠢得听不懂道理。
+
+#### 自然
+
+自然·荒野漫步
+Z7小队其他成员一致认定，聊到荒野生活的萤石相对好对付一些。
 
 #### 野外生存
 
@@ -57,11 +63,6 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 创意·“礼品”制作
 她的沉默往往是下一场恶作剧的开幕。糟糕的是，她经常保持沉默。
-
-#### 自然
-
-自然·荒野漫步
-Z7小队其他成员一致认定，聊到荒野生活的萤石相对好对付一些。
 
 ## 档案
 
@@ -235,3 +236,44 @@ S.O.W.批注：经过劝说，萤石干员主动上交了这份悬赏令。目�
 - **萤石** (`chr_0022_bounda`, `chr_0022_bounda_mono_skill_ultimate_01`)：终结技1：都活得够久了吧？
 - **萤石** (`chr_0022_bounda`, `chr_0022_bounda_mono_skill_ultimate_02`)：终结技2：动静会有点大哦。
 - **萤石** (`chr_0022_bounda`, `chr_0022_bounda_mono_skill_ultimate_03`)：终结技3：现在还想逃跑吗？
+
+## 留影
+
+### 小麻烦
+
+- 留影 ID：`pic_1_chr_0022_bounda`
+- 物品 ID：`item_pic_1_chr_0022_bounda`
+- 作者：Kaneni
+- 潜能等级：1
+
+![小麻烦](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0022_bounda.webp)
+
+获取后，可解锁萤石的留影“小麻烦”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+别让萤石知道你在想什么……噢，也许已经晚了。
+
+### 行动派
+
+- 留影 ID：`pic_3_chr_0022_bounda`
+- 物品 ID：`item_pic_3_chr_0022_bounda`
+- 作者：GHOSTY
+- 潜能等级：3
+
+![行动派](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0022_bounda.webp)
+
+获取后，可解锁萤石的留影“行动派”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她从来不记仇，她的仇家向来撑不了很久。
+
+### 规则边缘
+
+- 留影 ID：`pic_5_chr_0022_bounda`
+- 物品 ID：`item_pic_5_chr_0022_bounda`
+- 作者：Doppel
+- 潜能等级：5
+
+![规则边缘](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0022_bounda.webp)
+
+获取后，可解锁萤石的留影“规则边缘”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+正义从不缺席，但如果正义迟到，那可就有乐子看了。

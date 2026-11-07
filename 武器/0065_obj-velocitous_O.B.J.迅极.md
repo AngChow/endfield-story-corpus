@@ -2,12 +2,13 @@
 category: "武器"
 title: "O.B.J.迅极"
 slug: "obj-velocitous"
+source_id: "wpn_pistol_0012"
 source_url: "https://warfarin.wiki/cn/weapons/obj-velocitous"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:08.291690+00:00"
+source_sha256: "2f01ddd2c63e725e960af1b5995a04297d262750bcefb5a55ea1dbdcc8355f89"
 ---
-
 
 # O.B.J.迅极
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`obj-velocitous`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-velocitous)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:08.291690+00:00`
 - ID：`wpn_pistol_0012`
 - 英文名：OBJ Velocitous
 - 稀有度：5★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

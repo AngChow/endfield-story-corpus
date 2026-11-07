@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "集成工业系统（AIC）"
 slug: "nar_document_v0d8_33_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_33_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_33_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_33_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:02.590744+00:00"
+source_sha256: "c8c1efb53637d7cb602fefe5d730502038795b0a59f6b1e1fcb311427610fc2e"
 ---
-
 
 # 集成工业系统（AIC）
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_33_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_33_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_33_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:02.590744+00:00`
 - ID：`nar_document_v0d8_33_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_33_1`
+- 正文 ID：`text_v0d8_33`
+- 条目名称：集成工业系统（AIC）
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

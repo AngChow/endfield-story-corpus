@@ -2,12 +2,13 @@
 category: "干员"
 title: "阿列什"
 slug: "alesh"
+source_id: "chr_0024_deepfin"
 source_url: "https://warfarin.wiki/cn/operators/alesh"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T12:58:47.855362+00:00"
+source_sha256: "be175e368f2b9e4987e6a1bf391a083b949e2a1c2bc2836a8d7662abe72ccbb2"
 ---
-
 
 # 阿列什
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`alesh`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/alesh)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T12:58:47.855362+00:00`
 - ID：`chr_0024_deepfin`
 - 英文名：Alesh
 - 稀有度：5★
@@ -34,9 +35,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 势力标签：联盟工团
 - 专长：野外生存、战场策略
 - 爱好：文化、运动
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：益智
+- 不喜欢的行为：益智
+- 昵称：大厨阿列什
 - CV：中文：曹真；日文：松风雅也；英文：Heitor Assali；韩文：林彩彬
 
 ### 标签说明
@@ -250,3 +252,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **阿列什** (`chr_0024_deepfin`, `chr_0024_deepfin_mono_skill_ultimate_01`)：终结技1：上钩了！
 - **阿列什** (`chr_0024_deepfin`, `chr_0024_deepfin_mono_skill_ultimate_02`)：终结技2：你才是饵料！
 - **阿列什** (`chr_0024_deepfin`, `chr_0024_deepfin_mono_skill_ultimate_03`)：终结技3：去饱餐一顿吧！
+
+## 留影
+
+### 钓友
+
+- 留影 ID：`pic_1_chr_0024_deepfin`
+- 物品 ID：`item_pic_1_chr_0024_deepfin`
+- 作者：嘴広コウ
+- 潜能等级：1
+
+![钓友](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0024_deepfin.webp)
+
+获取后，可解锁阿列什的留影“钓友”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+阴而不冷的冬天，是下钩钓鳞的好天气，别错过了。
+
+### 沉浮
+
+- 留影 ID：`pic_3_chr_0024_deepfin`
+- 物品 ID：`item_pic_3_chr_0024_deepfin`
+- 作者：叶木森山
+- 潜能等级：3
+
+![沉浮](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0024_deepfin.webp)
+
+获取后，可解锁阿列什的留影“沉浮”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+生活让人遍体鳞伤，但失去的眼睛，反而能看清这底下深藏的秘密。
+
+### 挥竿日
+
+- 留影 ID：`pic_5_chr_0024_deepfin`
+- 物品 ID：`item_pic_5_chr_0024_deepfin`
+- 作者：w3
+- 潜能等级：5
+
+![挥竿日](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0024_deepfin.webp)
+
+获取后，可解锁阿列什的留影“挥竿日”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+“钓鳞时哪一刻心情最好？”“挥竿。”“为什么？”“所有的期待都还在前方，未知让人心跳加速。”

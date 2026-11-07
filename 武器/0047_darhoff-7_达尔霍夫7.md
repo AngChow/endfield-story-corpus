@@ -2,12 +2,13 @@
 category: "武器"
 title: "达尔霍夫7"
 slug: "darhoff-7"
+source_id: "wpn_claym_0010"
 source_url: "https://warfarin.wiki/cn/weapons/darhoff-7"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:20.090133+00:00"
+source_sha256: "99a0191d44a01fbfdfbadd57b21e775e0df624c6810d2d991d79a182423e05dd"
 ---
-
 
 # 达尔霍夫7
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`darhoff-7`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/darhoff-7)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:20.090133+00:00`
 - ID：`wpn_claym_0010`
 - 英文名：Darhoff 7
 - 稀有度：3★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

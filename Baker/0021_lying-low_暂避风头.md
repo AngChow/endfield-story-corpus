@@ -2,12 +2,13 @@
 category: "Baker"
 title: "暂避风头"
 slug: "lying-low"
-source_url: "https://warfarin.wiki/cn/baker/lying-low"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "topic_chr_0012_avywen_3"
+source_url: "https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_3"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:18:06.102137+00:00"
+source_sha256: "915fd2145aa39aa1d8813edde32b918beef5e571288fd7ce97e759a80d61de56"
 ---
-
 
 # 暂避风头
 
@@ -15,10 +16,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：Baker
 - Slug：`lying-low`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/lying-low)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0012_avywen_3)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:18:06.102137+00:00`
 - ID：`topic_chr_0012_avywen_3`
 - 包含会话：`sns_topic_chr_0012_avywen_3`
 
@@ -28,16 +29,17 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 ## 角色表
 
-- `sns_chr_0012_avywen`：艾维文娜：有事记得提前预约哦~排好队排好队~
+- `sns_chr_0012_avywen`：艾维文娜
 - `endmin`：管理员
 
 ## 全分支文本
 
 ### sns_topic_chr_0012_avywen_3 - 艾维文娜
 
-- （空节点 `contentId=-1`，next=0）
+- （选项节点 `contentId=1; pre=0; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0012_avywen_3_1_001`, `from=1`)：艾维文娜？ -> contentId 2
 - **管理员** (`endmin`, `contentId=2; pre=1; next=3`)：艾维文娜？
+- （选项节点 `contentId=3; pre=2; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0012_avywen_3_2_001`, `from=3`)：收到消息了吗？ -> contentId 4
 - **管理员** (`endmin`, `contentId=4; pre=3; next=5`)：收到消息了吗？
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=5; pre=4; next=6`)：啊呀，管理员，不好意思。
@@ -46,15 +48,18 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=8; pre=7; next=9`)：我没有忘记给你带小礼物哦。虽然，我知道那个地方你去过了。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=9; pre=8; next=10`)：要给你准备惊喜可不容易，看在这个分上，原谅我吧。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=10; pre=9; next=11`)：不高兴了吗？怎么不回我？
+- （选项节点 `contentId=11; pre=10; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0012_avywen_3_3_001`, `from=11`)：如果碰到了困难…… -> contentId 12
 - **管理员** (`endmin`, `contentId=12; pre=11; next=13`)：如果遇到了什么麻烦，可以向我们求助。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=13; pre=12; next=14`)：像模像样的呢，管理员。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=14; pre=13; next=15`)：明明心里很担心我才是。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=15; pre=14; next=16`)：放心，我能应付。你去忙那些更厉害的事就好。
+- （选项节点 `contentId=16; pre=15; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0012_avywen_3_4_001`, `from=16`)：你呢？ -> contentId 17
 - **管理员** (`endmin`, `contentId=17; pre=16; next=18`)：你呢，去忙什么了？
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=18; pre=17; next=19`)：我……有时候会需要躲避一些人哦。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=19; pre=18; next=20`)：像我这样的人，敌人和朋友都不少。
+- （选项节点 `contentId=20; pre=19; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0012_avywen_3_5_001`, `from=20`)：你都有什么“光荣事迹”？ -> contentId 21
 - **管理员** (`endmin`, `contentId=21; pre=20; next=22`)：你都有什么“光荣事迹”？
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=22; pre=21; next=23`)：交换过去？还是说，睡前故事？不管怎样，都是好亲密的行为呢。
@@ -66,9 +71,17 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=28; pre=27; next=29`)：还是说……
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=29; pre=28; next=30`)：在玛尔斯波利斯那个全工团直播的授勋仪式开始前一秒——
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=30; pre=29; next=31`)：把工团一周前失窃的旗帜塞到他们部长手中，让它免于被一群不明真相的萨卡兹佣兵扔进火山口里……
+- （选项节点 `contentId=31; pre=30; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0012_avywen_3_6_001`, `from=31`)：怪不得。 -> contentId 32
 - **管理员** (`endmin`, `contentId=32; pre=31; next=33`)：我现在知道你为什么要躲起来了。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=33; pre=32; next=34`)：就知道你会想我啦，管理员。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=34; pre=33; next=35`)：好啦，我听到他们的脚步声了。不能再用通信终端咯！
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=35; pre=34; next=36`)：等我下次回到帝江号，再给你讲新故事。
 - **艾维文娜** (`sns_chr_0012_avywen`, `contentId=36; pre=35; next=-1`)：要一直这么可爱哦。
+- （空节点 `contentId=-1; pre=36; next=0; end=true`）
+
+## 历史附注（来源 v1.2）
+
+> 以下为旧来源 v1.2 的角色联系附注。当前来源未提供这些字段，仅作历史保留，不代表当前角色表内容。
+
+- `sns_chr_0012_avywen`：艾维文娜：有事记得提前预约哦~排好队排好队~

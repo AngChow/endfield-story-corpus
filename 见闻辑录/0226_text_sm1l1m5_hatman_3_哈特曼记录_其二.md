@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "哈特曼记录：其二"
 slug: "text_sm1l1m5_hatman_3"
+source_id: "text_sm1l1m5_hatman_3"
 source_url: "https://warfarin.wiki/cn/lore/text_sm1l1m5_hatman_3"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:27:15.513006+00:00"
+source_sha256: "3c522242f7363ce09e61f796b14276dddd8b2773894bdc57001447abf2710063"
 ---
-
 
 # 哈特曼记录：其二
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_sm1l1m5_hatman_3`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_sm1l1m5_hatman_3)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:27:15.513006+00:00`
 - ID：`text_sm1l1m5_hatman_3`
-- 类型：哈特曼记录-其二
+- 条目 ID：`nar_sm1l1m5_hatman_3`
+- 正文 ID：`text_sm1l1m5_hatman_3`
+- 条目名称：哈特曼记录·其二
+- 类型：电子档案
+- 类型标识：`text`
 
 ## 正文
 

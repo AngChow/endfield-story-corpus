@@ -2,12 +2,13 @@
 category: "武器"
 title: "狼之绯"
 slug: "lupine-scarlet"
+source_id: "wpn_sword_0022"
 source_url: "https://warfarin.wiki/cn/weapons/lupine-scarlet"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:20.258946+00:00"
+source_sha256: "5876a169c2d4474c8e51e46cd2367f397f6dbc8d5cf190d0095c485fe3d641ae"
 ---
-
 
 # 狼之绯
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`lupine-scarlet`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/lupine-scarlet)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:20.258946+00:00`
 - ID：`wpn_sword_0022`
 - 英文名：Lupine Scarlet
 - 稀有度：6★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 

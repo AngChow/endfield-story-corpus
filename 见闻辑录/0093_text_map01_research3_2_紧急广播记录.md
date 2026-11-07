@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "紧急广播记录"
 slug: "text_map01_research3_2"
+source_id: "text_map01_research3_2"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_2"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:08.442960+00:00"
+source_sha256: "cc41bdd89e01687b56f6603cc78c2fb4064f94927469f1e559920d2a258a7c3d"
 ---
-
 
 # 紧急广播记录
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map01_research3_2`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_2)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:08.442960+00:00`
 - ID：`text_map01_research3_2`
-- 类型：紧急广播记录
+- 条目 ID：`nar_paper_map01_research3_3_1`
+- 正文 ID：`text_map01_research3_2`
+- 条目名称：紧急广播记录
+- 类型：纸质记录
+- 类型标识：`text`
 
 ## 正文
 
@@ -53,6 +58,8 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 各站点必须立刻执行安全预案！
 
 做好准备，我们面对的不止一种敌人！
+
+
 
 *以上信息于四号谷地袭击事件发生七分钟后以文本形式发送到了工团各主要终端的收件箱中，当时显示的发送人为“联盟工团”，信息全文后于工团设置的ЭКОП（音“艾科普”，乌萨斯语“应急广播”的简写）应答器处回收。遗憾的是，并非所有相关人员都及时看到了这条信息。
 

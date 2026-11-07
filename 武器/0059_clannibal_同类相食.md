@@ -2,12 +2,13 @@
 category: "武器"
 title: "同类相食"
 slug: "clannibal"
+source_id: "wpn_pistol_0009"
 source_url: "https://warfarin.wiki/cn/weapons/clannibal"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:43.693736+00:00"
+source_sha256: "a6aae8e1a78de1890891c378929ec387562489e2fddd21e96e3f436f8f600b4c"
 ---
-
 
 # 同类相食
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`clannibal`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/clannibal)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:43.693736+00:00`
 - ID：`wpn_pistol_0009`
 - 英文名：Clannibal
 - 稀有度：6★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

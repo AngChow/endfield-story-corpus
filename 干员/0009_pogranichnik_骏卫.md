@@ -2,12 +2,13 @@
 category: "干员"
 title: "骏卫"
 slug: "pogranichnik"
+source_id: "chr_0029_pograni"
 source_url: "https://warfarin.wiki/cn/operators/pogranichnik"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:24.058979+00:00"
+source_sha256: "30d717c35a0079693bbd20309927809f27215bd8bb34fa8a096e10b5b2f9fc93"
 ---
-
 
 # 骏卫
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`pogranichnik`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/pogranichnik)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:24.058979+00:00`
 - ID：`chr_0029_pograni`
 - 英文名：Pogranichnik
 - 稀有度：6★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：骏卫是一名使用单手剑的先锋干员，可造成物理属性的伤害。
 - 属性：物理
 - 职业：先锋
-- 势力：罗德岛
 - 种族：黎博利
 - 势力标签：罗德岛
 - 专长：战场策略、团队管理
 - 爱好：文化、益智
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：武陵·跑者严选
-- 行为偏好：生活
+- 不喜欢的行为：生活
+- 昵称：大厨骏卫
 - CV：中文：刘若班；日文：速水奖；英文：Sergey Ponomaryov；韩文：权星赫
 
 ### 标签说明
@@ -47,15 +48,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 战场策略·军事理论
 他坚信所有的理论都应当诞生于实战，服务于实战。
 
-#### 团队管理
-
-团队管理·授业
-他将自己拥有的经验与知识尽数教授给了这些新兵们，同时也将坚守至今的理想与心愿一并托付。
-
 #### 文化
 
 文化·活着的历史书
 了解历史，了解这片大地上发生过的一切，即是他最为偏好的认知世界的方式。
+
+#### 团队管理
+
+团队管理·授业
+他将自己拥有的经验与知识尽数教授给了这些新兵们，同时也将坚守至今的理想与心愿一并托付。
 
 #### 益智
 
@@ -257,3 +258,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **骏卫** (`chr_0029_pograni`, `chr_0029_pograni_mono_skill_ultimate_01`)：终结技1：听我号令！
 - **骏卫** (`chr_0029_pograni`, `chr_0029_pograni_mono_skill_ultimate_02`)：终结技2：随我进军！
 - **骏卫** (`chr_0029_pograni`, `chr_0029_pograni_mono_skill_ultimate_03`)：终结技3：盾卫！列阵！
+
+## 留影
+
+### 后翼易位
+
+- 留影 ID：`pic_1_chr_0029_pograni`
+- 物品 ID：`item_pic_1_chr_0029_pograni`
+- 作者：FE
+- 潜能等级：1
+
+![后翼易位](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0029_pograni.webp)
+
+获取后，可解锁骏卫的留影“后翼易位”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+他总是能出现在需要他的地方。
+
+### 王与骑士
+
+- 留影 ID：`pic_3_chr_0029_pograni`
+- 物品 ID：`item_pic_3_chr_0029_pograni`
+- 作者：Kala
+- 潜能等级：3
+
+![王与骑士](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0029_pograni.webp)
+
+获取后，可解锁骏卫的留影“王与骑士”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+但他丝毫没有憎恨帝国。“皇帝”死亡的百余年后，他在身后立起了盾阵。
+
+### 将军
+
+- 留影 ID：`pic_5_chr_0029_pograni`
+- 物品 ID：`item_pic_5_chr_0029_pograni`
+- 作者：大明
+- 潜能等级：5
+
+![将军](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0029_pograni.webp)
+
+获取后，可解锁骏卫的留影“将军”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+硝烟似散非散，千钧之躯落下生与死的棋子；剑锋倚地，支撑着铁誓，亦支撑着守望——此刻，将军。

@@ -2,12 +2,13 @@
 category: "武器"
 title: "布道自由"
 slug: "freedom-to-proselytize"
+source_id: "wpn_funnel_0012"
 source_url: "https://warfarin.wiki/cn/weapons/freedom-to-proselytize"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:32.405282+00:00"
+source_sha256: "5296a68b7ca7afda28174e13466acd54a3fd280139dc3f2a598dd4a9daba796a"
 ---
-
 
 # 布道自由
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`freedom-to-proselytize`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/freedom-to-proselytize)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:32.405282+00:00`
 - ID：`wpn_funnel_0012`
 - 英文名：Freedom to Proselytize
 - 稀有度：5★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

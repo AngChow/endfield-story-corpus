@@ -2,12 +2,13 @@
 category: "干员"
 title: "赛希"
 slug: "xaihi"
+source_id: "chr_0011_seraph"
 source_url: "https://warfarin.wiki/cn/operators/xaihi"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:06.081895+00:00"
+source_sha256: "93e8c335950c148b14d72de79614e61fdf4ef264e4eb8696c9cc082ea4e4e26d"
 ---
-
 
 # 赛希
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`xaihi`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/xaihi)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:06.081895+00:00`
 - ID：`chr_0011_seraph`
 - 英文名：Xaihi
 - 稀有度：5★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：赛希是一名使用施术单元的辅助干员，可造成寒冷属性的伤害。
 - 属性：寒冷
 - 职业：辅助
-- 势力：寂语修会
 - 种族：萨卡兹
 - 势力标签：寂语修会
 - 专长：博闻强记、信息技术
 - 爱好：科技、益智
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：运动
-- 行为不可用：外向（系统用游戏中不可见）
+- 不喜欢的行为：运动
+- 不可用的行为：外向（系统用游戏中不可见）
+- 昵称：大厨赛希
 - CV：中文：潘丹妮；日文：宫本侑芽；英文：Elsie Lovelock；韩文：张睿娜
 
 ### 标签说明
@@ -254,3 +255,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **赛希** (`chr_0011_seraph`, `chr_0011_seraph_mono_skill_ultimate_01`)：终结技1：逻辑，本不宜人。
 - **赛希** (`chr_0011_seraph`, `chr_0011_seraph_mono_skill_ultimate_02`)：终结技2：清除此等不谐！
 - **赛希** (`chr_0011_seraph`, `chr_0011_seraph_mono_skill_ultimate_03`)：终结技3：细数他们的罪行。
+
+## 留影
+
+### 求知欲
+
+- 留影 ID：`pic_1_chr_0011_seraph`
+- 物品 ID：`item_pic_1_chr_0011_seraph`
+- 作者：수줍(Sjoop)
+- 潜能等级：1
+
+![求知欲](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0011_seraph.webp)
+
+获取后，可解锁赛希的留影“求知欲”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她渴望探究与世间万物相关的所有知识，当然，也包括你的。
+
+### 虔诚
+
+- 留影 ID：`pic_3_chr_0011_seraph`
+- 物品 ID：`item_pic_3_chr_0011_seraph`
+- 作者：原野香久山
+- 潜能等级：3
+
+![虔诚](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0011_seraph.webp)
+
+获取后，可解锁赛希的留影“虔诚”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+律法，符号，逻辑，演算，虔诚的修士沉溺其中。
+
+### 凝望真理
+
+- 留影 ID：`pic_5_chr_0011_seraph`
+- 物品 ID：`item_pic_5_chr_0011_seraph`
+- 作者：se_eeeee
+- 潜能等级：5
+
+![凝望真理](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0011_seraph.webp)
+
+获取后，可解锁赛希的留影“凝望真理”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+不要恐惧未知，不要拒绝混乱——这即是她探究真理的信条。

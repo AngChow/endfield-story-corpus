@@ -1,0 +1,38 @@
+---
+category: "中枢档案"
+title: "化物"
+slug: "nar_document_v1d6_2_1"
+source_id: "nar_document_v1d6_2_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d6_2_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:30.975659+00:00"
+source_sha256: "67d18ae8f901ee9d5d9d319324d186960f576ec23b3405351ce6b79e48820f81"
+---
+
+# 化物
+
+## 基本信息
+
+- 类别：中枢档案
+- Slug：`nar_document_v1d6_2_1`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d6_2_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:30.975659+00:00`
+- ID：`nar_document_v1d6_2_1`
+- 条目 ID：`nar_document_v1d6_2_1`
+- 正文 ID：`text_v1d6_2`
+- 条目名称：化物
+- 类型：中枢档案
+- 类型标识：`document`
+
+## 正文
+
+![Reading/document_Huawu_intro](https://static.warfarin.wiki/v4/reading/document_Huawu_intro.webp)
+
+化物，是对由巨兽“岁”的权能所创造出来的，具备自主行为能力的超常实体的统称。
+
+从本质上讲，化物并不是生物，而是“岁”的权能附在物质上形成的实体。它们要么是被主动创造，要么便是器物在无意间，受岁兽权能的影响而生。化物的种类繁多，如水墨绘制而成的墨魉，以及器物附着岁兽权能后所形成的器伥。
+
+在宏山科学院的属地范围内，流传着不少关于化物的轶闻，大多都是从不慎闯入祀的画中的人口中传下来的：看似与外界别无二致的人或生物，仔细观察便能看见“他们”留下的些许墨渍；还有酩酊大醉的酒壶和遇见了便免不了被其赶得“东奔西跑”的刀剑……不过，画外也曾发现过化物的身影，类似有人看见茶树上沾有墨水，刚才还在问路的行人突然消失等。现今，这些传闻早已成为邻里街坊间议论谈说的趣事。当然，这些或多或少有所夸大的闲谈，对于祀而言，恐怕都只是扰人清梦的唠叨絮语罢了。

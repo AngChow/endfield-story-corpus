@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "环塔商会"
 slug: "nar_document_v0d8_29_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_29_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_29_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_29_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:59.514040+00:00"
+source_sha256: "d068d1969bfff2a340d801e1865a0569df137da1655b9df63598a4c1d49307ac"
 ---
-
 
 # 环塔商会
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_29_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_29_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_29_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:59.514040+00:00`
 - ID：`nar_document_v0d8_29_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_29_1`
+- 正文 ID：`text_v0d8_29`
+- 条目名称：环塔商会
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "荧光雷羽"
 slug: "fluorescent-roc"
+source_id: "wpn_funnel_0003"
 source_url: "https://warfarin.wiki/cn/weapons/fluorescent-roc"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:39.046151+00:00"
+source_sha256: "f0528593bb5a29c6f2d8770819a66508dc678084646d4c3f60357d0931c107df"
 ---
-
 
 # 荧光雷羽
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`fluorescent-roc`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/fluorescent-roc)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:39.046151+00:00`
 - ID：`wpn_funnel_0003`
 - 英文名：Fluorescent Roc
 - 稀有度：4★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

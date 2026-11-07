@@ -2,12 +2,13 @@
 category: "Baker"
 title: "恰如武器"
 slug: "a-weapon-precisely"
-source_url: "https://warfarin.wiki/cn/baker/a-weapon-precisely"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "topic_chr_0005_chen_3"
+source_url: "https://warfarin.wiki/cn/baker/topic_chr_0005_chen_3"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:21.977460+00:00"
+source_sha256: "f22b060864d7e7fa9b3cf39abb36c4a049dd4580028ad45c6ecc954e99dc785d"
 ---
-
 
 # 恰如武器
 
@@ -15,10 +16,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：Baker
 - Slug：`a-weapon-precisely`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/a-weapon-precisely)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0005_chen_3)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:21.977460+00:00`
 - ID：`topic_chr_0005_chen_3`
 - 包含会话：`sns_topic_chr_0005_chen_3`
 
@@ -28,19 +29,19 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 ## 角色表
 
-- `sns_chr_0005_chen`：陈千语：德才兼备。
+- `sns_chr_0005_chen`：陈千语
 - `endmin`：管理员
 
 ## 全分支文本
 
 ### sns_topic_chr_0005_chen_3 - 陈千语
 
-- （空节点 `contentId=-1`，next=0）
 - **陈千语** (`sns_chr_0005_chen`, `contentId=1; pre=0; next=2`)：管理员，想问你个问题……
 - **陈千语** (`sns_chr_0005_chen`, `contentId=2; pre=1; next=3`)：如果整个塔卫二的武器都任你选的话，你会选择什么？
 - **陈千语** (`sns_chr_0005_chen`, `contentId=3; pre=2; next=4`)：一定要认真回答哦。说出来不怕笑话，我只会对非常非常重要的人问出这个问题！
 - **陈千语** (`sns_chr_0005_chen`, `contentId=4; pre=3; next=5`)：因为……我们学武的人，大都把武器敬作生命的一部分。
 - **陈千语** (`sns_chr_0005_chen`, `contentId=5; pre=4; next=6`)：了解一个人的武器，就等于对那个人知根知底！
+- （选项节点 `contentId=6; pre=5; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_1_001`, `from=6`)：趁手的那把。 -> contentId 7
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_1_002`, `from=6`)：帝江号。 -> contentId 12
 - **管理员** (`endmin`, `contentId=7; pre=6; next=8`)：我会选趁手的那把。
@@ -53,10 +54,12 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **陈千语** (`sns_chr_0005_chen`, `contentId=14; pre=13; next=15`)：也太赖皮了吧！
 - **陈千语** (`sns_chr_0005_chen`, `contentId=15; pre=14; next=16`)：要是能带着帝江号去比武，谁还敢上擂台来过招啊！这可是塔卫二最厉害的轨道飞行器！
 - **陈千语** (`sns_chr_0005_chen`, `contentId=16; pre=15; next=17`)：……不对，管理员又在逗我玩了吧！！
+- （选项节点 `contentId=17; pre=16; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_2_001`, `from=17`)：你呢？ -> contentId 18
 - **管理员** (`endmin`, `contentId=18; pre=17; next=19`)：你呢？你会选什么武器？
 - **陈千语** (`sns_chr_0005_chen`, `contentId=19; pre=18; next=20`)：我最喜欢剑啦，百兵之君嘛！
 - **陈千语** (`sns_chr_0005_chen`, `contentId=20; pre=19; next=21`)：最经典的，最酷的，最厉害的——主角用的！
+- （选项节点 `contentId=21; pre=20; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_3_001`, `from=21`)：为什么是双剑？ -> contentId 22
 - **管理员** (`endmin`, `contentId=22; pre=21; next=23`)：那么，为什么是双剑？
 - **陈千语** (`sns_chr_0005_chen`, `contentId=23; pre=22; next=24`)：双剑就是双倍厉害呀！
@@ -68,6 +71,7 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **陈千语** (`sns_chr_0005_chen`, `contentId=29; pre=28; next=30`)：我一度很伤心，觉得她不要我了。
 - **陈千语** (`sns_chr_0005_chen`, `contentId=30; pre=29; next=31`)：很久之后，我才在邮箱里发现她的语音留言。
 - **陈千语** (`sns_chr_0005_chen`, `contentId=31; pre=30; next=32`)：她这人洒脱惯了，每次忘记邮箱密码就干脆重新注册一个账号，所以陌生邮箱都被归到垃圾邮件里了。
+- （选项节点 `contentId=32; pre=31; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_4_001`, `from=32`)：听起来很像你。 -> contentId 33
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_4_002`, `from=32`)：…… -> contentId 36
 - **管理员** (`endmin`, `contentId=33; pre=32; next=34`)：听起来倒很像你的行事风格。
@@ -76,15 +80,18 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **管理员** (`endmin`, `contentId=36; pre=32; next=37`)：……
 - **陈千语** (`sns_chr_0005_chen`, `contentId=37; pre=36; next=38`)：她跟我说，那是她放下的决心，希望我能有将其拾起的勇气。
 - **陈千语** (`sns_chr_0005_chen`, `contentId=38; pre=37; next=39`)：然后我就开始使双剑了！说实话，也没有很难，因为从小就练基本功，所以很快就掌握了个中技巧。
+- （选项节点 `contentId=39; pre=38; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_5_001`, `from=39`)：你选择拿起两把剑。 -> contentId 40
 - **管理员** (`endmin`, `contentId=40; pre=39; next=41`)：结果，你的选择是同时拿起两把剑。
 - **陈千语** (`sns_chr_0005_chen`, `contentId=41; pre=40; next=42`)：咦？什么意思？
+- （选项节点 `contentId=42; pre=41; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_6_001`, `from=42`)：“了解一个人的武器……” -> contentId 43
 - **管理员** (`endmin`, `contentId=43; pre=42; next=44`)：“了解一个人的武器，就等于对那个人知根知底。”
 - **管理员** (`endmin`, `contentId=44; pre=43; next=45`)：你选择把她的决心和自己的勇气都带上了吧。
-- **Unknown** (``, `contentId=45; pre=44; next=46`)：新消息
+- **系统通知** (`speaker=空`, `contentId=45; pre=44; next=46; contentType=7`)：新消息
 - **陈千语** (`sns_chr_0005_chen`, `contentId=46; pre=45; next=47`)：说实话，刚才看到你的回复
 - **陈千语** (`sns_chr_0005_chen`, `contentId=47; pre=46; next=48`)：嘿嘿，掉眼泪了。
+- （选项节点 `contentId=48; pre=47; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0005_chen_3_7_001`, `from=48`)：让你难过了吗？ -> contentId 49
 - **管理员** (`endmin`, `contentId=49; pre=48; next=50`)：抱歉，让你难过了吗？
 - **陈千语** (`sns_chr_0005_chen`, `contentId=50; pre=49; next=51`)：没有没有，不是难过啦！只是，突然想起了很多事情……
@@ -92,3 +99,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **陈千语** (`sns_chr_0005_chen`, `contentId=52; pre=51; next=53`)：没有说你像我的妈妈的意思啊管理员！
 - **陈千语** (`sns_chr_0005_chen`, `contentId=53; pre=52; next=54`)：佩丽卡没说错，你会给人指引和信心！
 - **陈千语** (`sns_chr_0005_chen`, `contentId=54; pre=53; next=-1`)：现在，我感受到啦！
+- （空节点 `contentId=-1; pre=54; next=0; end=true`）
+
+## 历史附注（来源 v1.2）
+
+> 以下为旧来源 v1.2 的角色联系附注。当前来源未提供这些字段，仅作历史保留，不代表当前角色表内容。
+
+- `sns_chr_0005_chen`：陈千语：德才兼备。

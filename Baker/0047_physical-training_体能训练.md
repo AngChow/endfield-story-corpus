@@ -2,12 +2,13 @@
 category: "Baker"
 title: "体能训练"
 slug: "physical-training"
-source_url: "https://warfarin.wiki/cn/baker/physical-training"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "topic_chr_0021_whiten_2"
+source_url: "https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_2"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:27.533674+00:00"
+source_sha256: "69f0fcf752a2a97fd43043f3c233ff5e14ea53df3cc7d354207b0b6d2bdb19ef"
 ---
-
 
 # 体能训练
 
@@ -15,10 +16,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：Baker
 - Slug：`physical-training`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/physical-training)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0021_whiten_2)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:27.533674+00:00`
 - ID：`topic_chr_0021_whiten_2`
 - 包含会话：`sns_topic_chr_0021_whiten_2`
 
@@ -35,15 +36,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 ### sns_topic_chr_0021_whiten_2 - 埃特拉
 
-- （空节点 `contentId=-1`，next=0）
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=1; pre=0; next=2`)：管理员，我遇到一些问题……
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=2; pre=1; next=3`)：小道奇教官建议我适当提升一下体能水平，以便适配更先进的武器套装。
+- （选项节点 `contentId=3; pre=2; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_1_001`, `from=3`)：我觉得是个不错的建议。 -> contentId 4
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_1_002`, `from=3`)：你对此的看法是？ -> contentId 5
 - **管理员** (`endmin`, `contentId=4; pre=3; next=6`)：我觉得是个不错的建议。
 - **管理员** (`endmin`, `contentId=5; pre=3; next=6`)：你对此是什么看法？
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=6; pre=5; next=7`)：我……努力过了！但……对我来说难度太高了……
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=7; pre=6; next=8`)：有没有什么不用训练也能增强体能的方式？
+- （选项节点 `contentId=8; pre=7; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_2_001`, `from=8`)：你现在的体能情况如何？ -> contentId 9
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_2_002`, `from=8`)：之前的训练效果如何？ -> contentId 13
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_2_003`, `from=8`)：让我看一下训练计划。 -> contentId 17
@@ -61,6 +63,7 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=20; pre=19; next=21`)：管理员，我是不是没救了？
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=21; pre=20; next=22`)：不过，任务应该不会受到什么影响，毕竟我的工作更多是情报收集……
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=22; pre=21; next=23`)：或者……有没有些其他训练方式？例如模拟器训练之类的？
+- （选项节点 `contentId=23; pre=22; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_3_001`, `from=23`)：不错的主意。 -> contentId 24
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_3_002`, `from=23`)：我觉得传统方式更好。 -> contentId 27
 - **管理员** (`endmin`, `contentId=24; pre=23; next=25`)：我可以找小道奇商量一下，试一下换成模拟器，再改良一下操作方式，让它更适配你的训练计划。
@@ -69,7 +72,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **管理员** (`endmin`, `contentId=27; pre=23; next=28`)：我觉得传统的训练方式更好，不过，可以加入更多的兴趣训练。
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=28; pre=27; next=29`)：真的吗？终于得救了……
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=29; pre=28; next=30`)：管理员，你简直是我的救命恩人！
+- （选项节点 `contentId=30; pre=29; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_4_001`, `from=30`)：不至于。 -> contentId 31
 - **管理员** (`endmin`, `contentId=31; pre=30; next=32`)：不至于，不至于。
 - **埃特拉** (`sns_chr_0021_whiten`, `contentId=32; pre=31; next=33`)：不，真的，我感觉自己又有了活下去的希望。总之，十分感激。
+- （选项节点 `contentId=33; pre=32; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0021_whiten_2_5_001`, `from=33`)：图片选项：sns_emoji_037 -> contentId -1
+- （空节点 `contentId=-1; pre=33; next=0; end=true`）

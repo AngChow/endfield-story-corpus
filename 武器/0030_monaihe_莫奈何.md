@@ -2,12 +2,13 @@
 category: "武器"
 title: "莫奈何"
 slug: "monaihe"
+source_id: "wpn_funnel_0007"
 source_url: "https://warfarin.wiki/cn/weapons/monaihe"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:26.939131+00:00"
+source_sha256: "fe3764d05d72892c842061de2c474d28ca045ff380bb577f6205baa47087bdae"
 ---
-
 
 # 莫奈何
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`monaihe`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/monaihe)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:26.939131+00:00`
 - ID：`wpn_funnel_0007`
 - 英文名：Monaihe
 - 稀有度：5★
 - 武器类型 ID：`2`
+- 武器类型：施术单元
 
 ## 概览描述
 

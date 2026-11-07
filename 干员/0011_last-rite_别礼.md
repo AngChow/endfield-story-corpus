@@ -2,12 +2,13 @@
 category: "干员"
 title: "别礼"
 slug: "last-rite"
+source_id: "chr_0026_lastrite"
 source_url: "https://warfarin.wiki/cn/operators/last-rite"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:02:15.746738+00:00"
+source_sha256: "89e064901158842a293520c4d8d7d97767e81e781f416582df2caece5a7ac635"
 ---
-
 
 # 别礼
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`last-rite`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/last-rite)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:02:15.746738+00:00`
 - ID：`chr_0026_lastrite`
 - 英文名：Last Rite
 - 稀有度：6★
@@ -34,10 +35,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 势力标签：塞什卡
 - 专长：作战技巧、身强力壮
 - 爱好：益智、公益
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·工业严选
-- 行为偏好：生活
-- 行为不可用：外向（系统用游戏中不可见）
+- 不喜欢的行为：生活
+- 不可用的行为：外向（系统用游戏中不可见）
+- 昵称：大厨别礼
 - CV：中文：闲踏梧桐；日文：白石晴香；英文：Amber Hood；韩文：李耳掳
 
 ### 标签说明
@@ -292,3 +294,44 @@ M3叹了口气，她似乎终于放松了一些：“那么，你希望终末地
 - **别礼** (`chr_0026_lastrite`, `chr_0026_lastrite_mono_skill_ultimate_01`)：终结技1：最大功率，启动！
 - **别礼** (`chr_0026_lastrite`, `chr_0026_lastrite_mono_skill_ultimate_02`)：终结技2：这里就是终点！
 - **别礼** (`chr_0026_lastrite`, `chr_0026_lastrite_mono_skill_ultimate_03`)：终结技3：请、请和世界告别吧！
+
+## 留影
+
+### 含羞草
+
+- 留影 ID：`pic_1_chr_0026_lastrite`
+- 物品 ID：`item_pic_1_chr_0026_lastrite`
+- 作者：komiki
+- 潜能等级：1
+
+![含羞草](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0026_lastrite.webp)
+
+获取后，可解锁别礼的留影“含羞草”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+虽然很有趣，但还是别捉弄她了吧。
+
+### 凝华
+
+- 留影 ID：`pic_3_chr_0026_lastrite`
+- 物品 ID：`item_pic_3_chr_0026_lastrite`
+- 作者：Cenm0
+- 潜能等级：3
+
+![凝华](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0026_lastrite.webp)
+
+获取后，可解锁别礼的留影“凝华”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+一片浩瀚土地依偎着她沉眠，千载漫漫寒冬静候着她差遣。不过，少女只想为它的安息献上一束花。
+
+### 初绽霜花
+
+- 留影 ID：`pic_5_chr_0026_lastrite`
+- 物品 ID：`item_pic_5_chr_0026_lastrite`
+- 作者：REM
+- 潜能等级：5
+
+![初绽霜花](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0026_lastrite.webp)
+
+获取后，可解锁别礼的留影“初绽霜花”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她还有许多问题等待解答，她还有许多困难需要克服。即便如此，她也一定会完成你给的每一项任务，让更多人找回笑容。

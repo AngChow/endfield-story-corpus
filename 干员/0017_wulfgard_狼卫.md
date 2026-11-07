@@ -2,12 +2,13 @@
 category: "干员"
 title: "狼卫"
 slug: "wulfgard"
+source_id: "chr_0006_wolfgd"
 source_url: "https://warfarin.wiki/cn/operators/wulfgard"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:47.640046+00:00"
+source_sha256: "8fefdc180b68cd17c5f6e1b3be9dae724ee8b2bd7b716f45ebcbe4dda15b7c42"
 ---
-
 
 # 狼卫
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`wulfgard`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/wulfgard)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:47.640046+00:00`
 - ID：`chr_0006_wolfgd`
 - 英文名：Wulfgard
 - 稀有度：5★
@@ -30,15 +31,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：狼卫是一名使用手铳的术师干员，可造成灼热属性的伤害。
 - 属性：灼热
 - 职业：术师
-- 势力：终末地工业
 - 种族：鲁珀
 - 势力标签：终末地工业
 - 专长：作战技巧、潜伏
 - 爱好：自然、创意
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：益智
-- 行为不可用：外向（系统用游戏中不可见）
+- 不喜欢的行为：益智
+- 不可用的行为：外向（系统用游戏中不可见）
+- 昵称：大厨狼卫
 - CV：中文：梁达伟；日文：前野智昭；英文：Jacopo Calatroni；韩文：任赫
 
 ### 标签说明
@@ -260,3 +261,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **狼卫** (`chr_0006_wolfgd`, `chr_0006_wolfgd_mono_skill_ultimate_01`)：终结技1：猎物，一个不留！
 - **狼卫** (`chr_0006_wolfgd`, `chr_0006_wolfgd_mono_skill_ultimate_02`)：终结技2：撕咬吧！
 - **狼卫** (`chr_0006_wolfgd`, `chr_0006_wolfgd_mono_skill_ultimate_03`)：终结技3：群狼，围猎！
+
+## 留影
+
+### 狩猎时间到
+
+- 留影 ID：`pic_1_chr_0006_wolfgd`
+- 物品 ID：`item_pic_1_chr_0006_wolfgd`
+- 作者：umo_yszx
+- 潜能等级：1
+
+![狩猎时间到](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0006_wolfgd.webp)
+
+获取后，可解锁狼卫的留影“狩猎时间到”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+荒野上最优秀的猎手总会在最合适的时机现身。
+
+### 今日不设防
+
+- 留影 ID：`pic_3_chr_0006_wolfgd`
+- 物品 ID：`item_pic_3_chr_0006_wolfgd`
+- 作者：MeanWhile
+- 潜能等级：3
+
+![今日不设防](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0006_wolfgd.webp)
+
+获取后，可解锁狼卫的留影“今日不设防”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+他只会在最信任的人面前放下防备，袒露那份弃置在童年的真实秉性。
+
+### 掠食者一瞥
+
+- 留影 ID：`pic_5_chr_0006_wolfgd`
+- 物品 ID：`item_pic_5_chr_0006_wolfgd`
+- 作者：FE
+- 潜能等级：5
+
+![掠食者一瞥](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0006_wolfgd.webp)
+
+获取后，可解锁狼卫的留影“掠食者一瞥”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+于狼魂的嘶吼声中，年轻的掠食者踏足属于自己的猎场，他将紧盯每一只猎物，直至把它们猎于铳下。

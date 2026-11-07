@@ -2,12 +2,13 @@
 category: "干员"
 title: "管理员"
 slug: "endministrator"
+source_id: "chr_0003_endminf"
 source_url: "https://warfarin.wiki/cn/operators/endministrator"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:10.964148+00:00"
+source_sha256: "1f1a01590047f17cd2602c0135c76cc885317cf4a96e0605ce5bc84fc4af1f3c"
 ---
-
 
 # 管理员
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`endministrator`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/endministrator)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:10.964148+00:00`
 - ID：`chr_0003_endminf`
 - 英文名：Endministrator
 - 稀有度：6★
@@ -30,12 +31,11 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：管理员是一名使用单手剑的近卫干员，可造成物理属性的伤害。
 - 属性：物理
 - 职业：近卫
-- 势力：终末地工业
 - 种族：未公开
 - 势力标签：终末地工业
-- 专长：???
-- 爱好：???
-- 性格：???
+- 专长：？？？
+- 爱好：？？？
+- 性格标签：？？？
 - CV：中文：木雅瑞林；日文：橘杏咲；英文：Chloe Eves；韩文：姜新春
 
 ### 标签说明
@@ -128,3 +128,83 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **管理员** (`chr_0003_endminf`, `chr_0003_endminf_mono_skill_ultimate_01`)：终结技1：没有第二次机会。
 - **管理员** (`chr_0003_endminf`, `chr_0003_endminf_mono_skill_ultimate_02`)：终结技2：你将迈向终结。
 - **管理员** (`chr_0003_endminf`, `chr_0003_endminf_mono_skill_ultimate_03`)：终结技3：闹剧该结束了！
+
+## 留影
+
+### 记忆网纸
+
+- 留影 ID：`pic_1_chr_0003_endminf`
+- 物品 ID：`item_pic_1_chr_0003_endminf`
+- 作者：狂zip
+- 潜能等级：1
+
+![记忆网纸](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0003_endminf.webp)
+
+获取后，可解锁管理员的留影“记忆网纸”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+最终被记下的是一小段话语，又或某个委托。线条编织，棋子轻轻落下，您已知晓这一切。
+
+### 象限
+
+- 留影 ID：`pic_3_chr_0003_endminf`
+- 物品 ID：`item_pic_3_chr_0003_endminf`
+- 作者：廻轉
+- 潜能等级：3
+
+![象限](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0003_endminf.webp)
+
+获取后，可解锁管理员的留影“象限”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+您在十字的正中心。
+
+### 掌握
+
+- 留影 ID：`pic_5_chr_0003_endminf`
+- 物品 ID：`item_pic_5_chr_0003_endminf`
+- 作者：수줍(Sjoop)
+- 潜能等级：5
+
+![掌握](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0003_endminf.webp)
+
+获取后，可解锁管理员的留影“掌握”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+所凝聚的信任在您掌中，它的第一枚碎片名为历史，又名为文明与生命。
+
+### 记忆网纸
+
+- 留影 ID：`pic_1_chr_0002_endminm`
+- 物品 ID：`item_pic_1_chr_0002_endminm`
+- 作者：狂zip
+- 潜能等级：1
+
+![记忆网纸](https://static.warfarin.wiki/v4/imageposter/subsize/pic_1_chr_0002_endminm.webp)
+
+获取后，可解锁管理员的留影“记忆网纸”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+最终被记下的是一小段话语，又或某个委托。线条编织，棋子轻轻落下，您已知晓这一切。
+
+### 象限
+
+- 留影 ID：`pic_3_chr_0002_endminm`
+- 物品 ID：`item_pic_3_chr_0002_endminm`
+- 作者：廻轉
+- 潜能等级：3
+
+![象限](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0002_endminm.webp)
+
+获取后，可解锁管理员的留影“象限”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+您在十字的正中心。
+
+### 掌握
+
+- 留影 ID：`pic_5_chr_0002_endminm`
+- 物品 ID：`item_pic_5_chr_0002_endminm`
+- 作者：수줍(Sjoop)
+- 潜能等级：5
+
+![掌握](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0002_endminm.webp)
+
+获取后，可解锁管理员的留影“掌握”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+所凝聚的信任在您掌中，它的第一枚碎片名为历史，又名为文明与生命。

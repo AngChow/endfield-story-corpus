@@ -2,12 +2,13 @@
 category: "Baker"
 title: "性格观察"
 slug: "character-study"
-source_url: "https://warfarin.wiki/cn/baker/character-study"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "topic_chr_0019_karin_1"
+source_url: "https://warfarin.wiki/cn/baker/topic_chr_0019_karin_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:19:05.805589+00:00"
+source_sha256: "1dede8b9d7c53d927059a7370ac6ea8359d60c97b93b4076a7551b69be395c20"
 ---
-
 
 # 性格观察
 
@@ -15,10 +16,10 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：Baker
 - Slug：`character-study`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/character-study)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/baker/topic_chr_0019_karin_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:19:05.805589+00:00`
 - ID：`topic_chr_0019_karin_1`
 - 包含会话：`sns_topic_chr_0019_karin_1`
 
@@ -35,13 +36,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 ### sns_topic_chr_0019_karin_1 - 秋栗
 
-- （空节点 `contentId=-1`，next=0）
 - **秋栗** (`sns_chr_0019_karin`, `contentId=1; pre=0; next=2`)：管理员，打扰一下！
 - **秋栗** (`sns_chr_0019_karin`, `contentId=2; pre=1; next=3`)：我在整理总结Z7行动组的任务心得，想向您请教。
+- （选项节点 `contentId=3; pre=2; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_1_001`, `from=3`)：图片选项：sns_emoji_002 -> contentId 4
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_1_002`, `from=3`)：图片选项：sns_emoji_038 -> contentId 4
 - **秋栗** (`sns_chr_0019_karin`, `contentId=4; pre=3; next=5`)：嘿嘿，这是表示不反对吗？那我就发问啦！对于一次外勤任务的评价，管理员更看重什么呢？
 - **秋栗** (`sns_chr_0019_karin`, `contentId=5; pre=4; next=6`)：任务目标完成度？过程中的表现？还是队员的默契与配合？
+- （选项节点 `contentId=6; pre=5; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_2_001`, `from=6`)：目标完成度。 -> contentId 7
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_2_002`, `from=6`)：过程中的表现。 -> contentId 10
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_2_003`, `from=6`)：队员的默契与配合。 -> contentId 13
@@ -58,15 +60,18 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **秋栗** (`sns_chr_0019_karin`, `contentId=17; pre=16; next=18`)：从每个方向都能看到不同的管理员，很难区分出您更侧重哪一面。
 - **管理员** (`endmin`, `contentId=18; pre=17; next=19`)：与其说你是在讨论任务评价侧重点，倒不如说是在观察分析我？
 - **秋栗** (`sns_chr_0019_karin`, `contentId=19; pre=18; next=20`)：呀，管理员，被您发现了！
+- （选项节点 `contentId=20; pre=19; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_3_001`, `from=20`)：图片选项：sns_emoji_010 -> contentId 21
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_3_002`, `from=20`)：图片选项：sns_emoji_003 -> contentId 21
 - **秋栗** (`sns_chr_0019_karin`, `contentId=21; pre=20; next=22`)：管理员别生气！我这么做是有原因的！
 - **秋栗** (`sns_chr_0019_karin`, `contentId=22; pre=21; next=23`)：一开始，我只是想试试看能不能从行动记录中，归纳出对Z7有用的优化心得。
 - **秋栗** (`sns_chr_0019_karin`, `contentId=23; pre=22; next=24`)：后来我扩大了查阅范围，被管理员在终末地的行动中所扮演的角色吸引住了。
 - **秋栗** (`sns_chr_0019_karin`, `contentId=24; pre=23; next=25`)：就忍不住想要为管理员做一个人格画像，作为辅助理解用途的内部资料。请放心，不会外传的！
+- （选项节点 `contentId=25; pre=24; next=0; end=false`）
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_4_001`, `from=25`)：做好了给我看看。 -> contentId 26
 - **管理员（选项）** (`option_sns_topic_chr_0019_karin_1_4_002`, `from=25`)：那就继续观察吧。 -> contentId 27
 - **管理员** (`endmin`, `contentId=26; pre=25; next=28`)：做好了给我看看，我来补充些没写到的部分。
 - **管理员** (`endmin`, `contentId=27; pre=25; next=28`)：要是认真的，那就继续观察吧，秋栗组长。
 - **秋栗** (`sns_chr_0019_karin`, `contentId=28; pre=27; next=29`)：谢谢管理员！在完成之后，我会呈交给您第一个阅览。
 - **秋栗** (`sns_chr_0019_karin`, `contentId=29; pre=28; next=-1`)：如果愿意的话，希望届时能署上您的名字！
+- （空节点 `contentId=-1; pre=29; next=0; end=true`）

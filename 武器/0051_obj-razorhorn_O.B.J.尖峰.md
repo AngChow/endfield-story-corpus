@@ -2,12 +2,13 @@
 category: "武器"
 title: "O.B.J.尖峰"
 slug: "obj-razorhorn"
+source_id: "wpn_lance_0013"
 source_url: "https://warfarin.wiki/cn/weapons/obj-razorhorn"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:01.021683+00:00"
+source_sha256: "aff587456a6cb1eb1e49572416d66e83d4e94bbbc4b2d42b69a9039df6a0abe9"
 ---
-
 
 # O.B.J.尖峰
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`obj-razorhorn`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-razorhorn)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:01.021683+00:00`
 - ID：`wpn_lance_0013`
 - 英文名：OBJ Razorhorn
 - 稀有度：5★
 - 武器类型 ID：`5`
+- 武器类型：长柄武器
 
 ## 概览描述
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "赫拉芬格"
 slug: "khravengger"
+source_id: "wpn_claym_0013"
 source_url: "https://warfarin.wiki/cn/weapons/khravengger"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:55.542978+00:00"
+source_sha256: "70de931caab5319656d7070b471a0e908fef0e475100394ec21c964d5a617dd4"
 ---
-
 
 # 赫拉芬格
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`khravengger`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/khravengger)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:55.542978+00:00`
 - ID：`wpn_claym_0013`
 - 英文名：Khravengger
 - 稀有度：6★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

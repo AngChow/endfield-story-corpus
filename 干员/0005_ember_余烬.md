@@ -2,12 +2,13 @@
 category: "干员"
 title: "余烬"
 slug: "ember"
+source_id: "chr_0009_azrila"
 source_url: "https://warfarin.wiki/cn/operators/ember"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:03.559511+00:00"
+source_sha256: "be2af2d7f23dd075be4e6d687af28f040922cf4b84d0262353fbdfae39de7c6e"
 ---
-
 
 # 余烬
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`ember`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/ember)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:03.559511+00:00`
 - ID：`chr_0009_azrila`
 - 英文名：Ember
 - 稀有度：6★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：余烬是一名使用双手剑的重装干员，可造成灼热属性的伤害。
 - 属性：灼热
 - 职业：重装
-- 势力：铁誓军
 - 种族：萨科塔
 - 势力标签：铁誓军
 - 专长：作战技巧、身强力壮
 - 爱好：运动、科技
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：生活
+- 不喜欢的行为：生活
+- 昵称：大厨余烬
 - CV：中文：徐慧；日文：小松未可子；英文：Rhiannon Moushall；韩文：李诗雅
 
 ### 标签说明
@@ -47,15 +48,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 作战技巧·武装防卫
 在战况最激烈的前线，他们坚固的防御本身就是一种进攻。
 
-#### 身强力壮
-
-身强力壮·体能
-“战场上总有做不完的事。归根结底，这取决于你有多不愿意倒下。”
-
 #### 运动
 
 运动·军事训练
 她已经习惯了与剑相伴的人生。远征没有结束，她随时都在准备。
+
+#### 身强力壮
+
+身强力壮·体能
+“战场上总有做不完的事。归根结底，这取决于你有多不愿意倒下。”
 
 #### 科技
 
@@ -256,3 +257,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **余烬** (`chr_0009_azrila`, `chr_0009_azrila_mono_skill_ultimate_01`)：终结技1：守誓之焰！
 - **余烬** (`chr_0009_azrila`, `chr_0009_azrila_mono_skill_ultimate_02`)：终结技2：我将照耀！
 - **余烬** (`chr_0009_azrila`, `chr_0009_azrila_mono_skill_ultimate_03`)：终结技3：光明于此延续！
+
+## 留影
+
+### 誓言未竟
+
+- 留影 ID：`pic_1_chr_0009_azrila`
+- 物品 ID：`item_pic_1_chr_0009_azrila`
+- 作者：STAR影法师
+- 潜能等级：1
+
+![誓言未竟](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0009_azrila.webp)
+
+获取后，可解锁余烬的留影“誓言未竟”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+咽下事实，消化结果，积蓄力量。
+
+### 无边征程
+
+- 留影 ID：`pic_3_chr_0009_azrila`
+- 物品 ID：`item_pic_3_chr_0009_azrila`
+- 作者：へいろー
+- 潜能等级：3
+
+![无边征程](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0009_azrila.webp)
+
+获取后，可解锁余烬的留影“无边征程”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+征伐只是通向目标的过程，而战士不会在目标前方倒下。
+
+### 不落坚城
+
+- 留影 ID：`pic_5_chr_0009_azrila`
+- 物品 ID：`item_pic_5_chr_0009_azrila`
+- 作者：MoooFoo
+- 潜能等级：5
+
+![不落坚城](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0009_azrila.webp)
+
+获取后，可解锁余烬的留影“不落坚城”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+坚硬的血和炽热的钢在北地筑成堡垒。那里不是她的梦魇，那里仍是下一个终点。

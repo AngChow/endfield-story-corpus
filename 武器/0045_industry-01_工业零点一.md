@@ -2,12 +2,13 @@
 category: "武器"
 title: "工业零点一"
 slug: "industry-01"
+source_id: "wpn_claym_0003"
 source_url: "https://warfarin.wiki/cn/weapons/industry-01"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:25.626057+00:00"
+source_sha256: "493562118b8061a6bcbc62a410e3fbe9d42b0725cc84481949c2c7d164cb3d84"
 ---
-
 
 # 工业零点一
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`industry-01`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/industry-01)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:25.626057+00:00`
 - ID：`wpn_claym_0003`
 - 英文名：Industry 0.1
 - 稀有度：4★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

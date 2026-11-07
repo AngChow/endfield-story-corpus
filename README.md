@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Source](https://img.shields.io/badge/Source-Warfarin%20Wiki-blue.svg)](https://warfarin.wiki/cn)
 
-《明日方舟：终末地》简体中文剧情文本的本地化资料库，从 [Warfarin Wiki](https://warfarin.wiki/cn) 采集整理。共收录 **868 篇** Markdown 文档，覆盖任务剧本、Baker 会话、干员档案、武器描述、中枢档案、见闻辑录六大类内容，外加自行整理的世界观分析。
+《明日方舟：终末地》简体中文剧情文本的本地化资料库，从 [Warfarin Wiki](https://warfarin.wiki/cn) 采集整理。共收录 **1,498 篇剧情原文**，覆盖任务剧本、Baker 会话、干员档案、武器描述、中枢档案、见闻辑录六大类内容；另有 7 篇世界观分析和 4 篇根目录说明文档，合计 **1,509 篇** Markdown。
 
 > 本库同时是一个 [Codex](https://github.com/openai/codex) Skill--安装后，CodeX 会在你讨论终末地相关剧情时自动调用本库检索。所有文本来源于 Warfarin Wiki，版权归原作者及鹰角网络所有。
 
@@ -11,7 +11,7 @@
 
 对 CodeX 说：
 
-**帮我安装 [AngChow/endfield-story-corpus](https://github.com/AngChow/endfield-story-corpus) 这个 skill**
+**帮我安装 [Xxxhite/endfield-story-corpus](https://github.com/Xxxhite/endfield-story-corpus) 这个 skill**
 
 CodeX 会自动拉取仓库。本库为纯数据资料库，无需安装额外依赖。
 
@@ -30,15 +30,17 @@ CodeX 会自动按「条目索引 -> 分类目录 -> 原文」的顺序检索本
 
 | 分类 | 数量 | 说明 |
 |---|---:|---|
-| 任务 | 221 篇 | 主线 & 支线任务剧本，按游戏章节编号（e1m1、c27m3 等） |
-| Baker | 104 篇 | Baker 会话全分支文本 |
-| 干员 | 26 篇 | 干员情报、档案、语音记录 |
-| 武器 | 67 篇 | 武器概览与描述 |
-| 中枢档案 | 61 篇 | 世界观设定文档 |
-| 见闻辑录 | 377 篇 | 见闻辑录正文 |
+| 任务 | 421 篇 | 主线、支线及活动任务剧本，按游戏章节/任务编号命名 |
+| Baker | 335 篇 | Baker 会话全分支文本 |
+| 干员 | 34 篇 | 干员情报、档案、语音记录、留影 |
+| 武器 | 84 篇 | 武器概览与描述 |
+| 中枢档案 | 80 篇 | 世界观设定文档 |
+| 见闻辑录 | 544 篇 | 见闻辑录正文，含广播与多媒体条目 |
 | 分析 | 7 篇 | 自行整理的时间线、势力关系、核心概念分析 |
 
-数据版本：**1.2**（Warfarin 站点最后更新 `2026-04-17`）
+数据版本：**1.6**（Warfarin 站点最后更新 `2026-11-05`，详情采集于 `2026-11-07`，六类目录复核于 `2026-11-08`）
+
+说明：任务分类包含 2 条当前来源目录未列出的旧文件（`e1m9d5`、`e5m0d5` 的《准备工作》）；Baker 旧联系附注以“历史附注（来源 v1.2）”章节单独保留。
 
 ## 目录结构
 
@@ -67,7 +69,7 @@ endfield-story-corpus/
 
 ## 许可与来源
 
-- **数据来源**：[Warfarin Wiki](https://warfarin.wiki/cn)（站点最后更新 2026-04-17）
+- **数据来源**：[Warfarin Wiki](https://warfarin.wiki/cn)（站点最后更新 2026-11-05；详情采集 2026-11-07，目录复核 2026-11-08）
 - **采集范围**：仅简体中文页面；不包含图片、音频等媒体资源（正文中的图片仅保留 Markdown 图片链接）
 - **整理工作**：本仓库的目录组织、索引文件、世界观分析为本人整理，以 [CC BY-NC-SA 4.0](LICENSE) 协议共享
 - **原作权利**：所有游戏剧情文本与设定内容版权归 **鹰角网络（Hypergryph）/《明日方舟：终末地》** 及原作者所有；本仓库仅作非商业用途的二次组织与索引，**不得用于商业目的**

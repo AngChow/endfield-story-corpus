@@ -2,12 +2,13 @@
 category: "干员"
 title: "昼雪"
 slug: "snowshine"
+source_id: "chr_0014_aurora"
 source_url: "https://warfarin.wiki/cn/operators/snowshine"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:04:08.445374+00:00"
+source_sha256: "c70aefbe9438c0034ab97a1c336849d5874980b09e54b17ebfb3886c77c6cd97"
 ---
-
 
 # 昼雪
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`snowshine`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/snowshine)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:04:08.445374+00:00`
 - ID：`chr_0014_aurora`
 - 英文名：Snowshine
 - 稀有度：5★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：昼雪是一名使用双手剑的重装干员，可造成寒冷属性的伤害。
 - 属性：寒冷
 - 职业：重装
-- 势力：罗德岛
 - 种族：乌萨斯
 - 势力标签：罗德岛
 - 专长：野外生存、医疗技巧
 - 爱好：运动、公益
-- 性格：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）、方舟（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：运动
+- 不喜欢的行为：运动
+- 昵称：大厨昼雪
 - CV：中文：刘十四；日文：明坂聪美；英文：Stephanie Southerland；韩文：刘荣
 
 ### 标签说明
@@ -47,15 +48,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 医疗技巧·急救
 对她而言，在极端恶劣环境下熟练完成一套标准的心脏复苏流程是常有的事。
 
-#### 野外生存
-
-野外生存·求生技巧
-在救援队内举办的“一小时野外食材收集比赛”中，她曾蝉联过五次冠军。
-
 #### 公益
 
 公益·习惯性助人
 对她而言，时不时帮他人做一些力所能及的小事……似乎已经成了一种生活习惯。
+
+#### 野外生存
+
+野外生存·求生技巧
+在救援队内举办的“一小时野外食材收集比赛”中，她曾蝉联过五次冠军。
 
 #### 运动
 
@@ -251,3 +252,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **昼雪** (`chr_0014_aurora`, `chr_0014_aurora_mono_skill_ultimate_01`)：终结技1：凛冽寒风！
 - **昼雪** (`chr_0014_aurora`, `chr_0014_aurora_mono_skill_ultimate_02`)：终结技2：冰晶之盾！
 - **昼雪** (`chr_0014_aurora`, `chr_0014_aurora_mono_skill_ultimate_03`)：终结技3：在霜寒前，停下！
+
+## 留影
+
+### 休整间隙
+
+- 留影 ID：`pic_1_chr_0014_aurora`
+- 物品 ID：`item_pic_1_chr_0014_aurora`
+- 作者：수줍(Sjoop)
+- 潜能等级：1
+
+![休整间隙](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0014_aurora.webp)
+
+获取后，可解锁昼雪的留影“休整间隙”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+在翻越下一座山峰前，在下一个救援信号到来前，一杯耶尔什风味的热可可绝对是个不错的选择。
+
+### 晴雪天气
+
+- 留影 ID：`pic_3_chr_0014_aurora`
+- 物品 ID：`item_pic_3_chr_0014_aurora`
+- 作者：一块二毛一斤
+- 潜能等级：3
+
+![晴雪天气](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0014_aurora.webp)
+
+获取后，可解锁昼雪的留影“晴雪天气”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+就像雪山顶峰最耀眼的那束阳光，她的身影总让身陷绝境的求援者们倍感温暖，帮他们跨越严寒，抵达生路。
+
+### 雪中滑翔
+
+- 留影 ID：`pic_5_chr_0014_aurora`
+- 物品 ID：`item_pic_5_chr_0014_aurora`
+- 作者：LAL!ROLE
+- 潜能等级：5
+
+![雪中滑翔](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0014_aurora.webp)
+
+获取后，可解锁昼雪的留影“雪中滑翔”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+行走于雪山之间，滑翔于冰雪之上，少女始终疾驰在全力救助他人生命的路途中。

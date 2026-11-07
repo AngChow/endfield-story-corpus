@@ -2,12 +2,13 @@
 category: "武器"
 title: "望乡"
 slug: "home-longing"
+source_id: "wpn_pistol_0007"
 source_url: "https://warfarin.wiki/cn/weapons/home-longing"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:19.803431+00:00"
+source_sha256: "30966775800bf4218ec0cabe7250be9fe8e025d445fb1db4dfe77435a9a9a7c7"
 ---
-
 
 # 望乡
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`home-longing`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/home-longing)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:19.803431+00:00`
 - ID：`wpn_pistol_0007`
 - 英文名：Home Longing
 - 稀有度：6★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

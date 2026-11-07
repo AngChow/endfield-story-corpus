@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "息壤"
 slug: "nar_document_v0d8_24_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v0d8_24_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v0d8_24_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v0d8_24_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:56.481483+00:00"
+source_sha256: "09a1044e8c526675eae62ef4b83beee46116f64a334345a68b59d04abf19f33e"
 ---
-
 
 # 息壤
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v0d8_24_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v0d8_24_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v0d8_24_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:56.481483+00:00`
 - ID：`nar_document_v0d8_24_1`
-- 类型：document
+- 条目 ID：`nar_document_v0d8_24_1`
+- 正文 ID：`text_v0d8_24`
+- 条目名称：息壤
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

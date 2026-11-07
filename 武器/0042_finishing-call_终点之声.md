@@ -2,12 +2,13 @@
 category: "武器"
 title: "终点之声"
 slug: "finishing-call"
+source_id: "wpn_claym_0012"
 source_url: "https://warfarin.wiki/cn/weapons/finishing-call"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:03:14.433934+00:00"
+source_sha256: "17223501aba813faec6ec1168546027e1d11cffcc46e2e71780ca39818546c5b"
 ---
-
 
 # 终点之声
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`finishing-call`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/finishing-call)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:03:14.433934+00:00`
 - ID：`wpn_claym_0012`
 - 英文名：Finishing Call
 - 稀有度：5★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

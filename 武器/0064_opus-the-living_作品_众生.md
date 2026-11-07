@@ -2,12 +2,13 @@
 category: "武器"
 title: "作品：众生"
 slug: "opus-the-living"
+source_id: "wpn_pistol_0006"
 source_url: "https://warfarin.wiki/cn/weapons/opus-the-living"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:29.297272+00:00"
+source_sha256: "b50dbe449b4d5f65cee37e6242601efb0839f7f0e8e23a611993ade1eb27501a"
 ---
-
 
 # 作品：众生
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`opus-the-living`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/opus-the-living)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:29.297272+00:00`
 - ID：`wpn_pistol_0006`
 - 英文名：Opus: The Living
 - 稀有度：5★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

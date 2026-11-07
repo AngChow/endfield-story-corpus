@@ -2,12 +2,13 @@
 category: "武器"
 title: "呼啸守卫"
 slug: "howling-guard"
+source_id: "wpn_pistol_0002"
 source_url: "https://warfarin.wiki/cn/weapons/howling-guard"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:05:31.015518+00:00"
+source_sha256: "17d9191fdca9acd42de42155cce5f38278a949750a2e1cd6b783c1d45fe51c8f"
 ---
-
 
 # 呼啸守卫
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`howling-guard`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/howling-guard)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:05:31.015518+00:00`
 - ID：`wpn_pistol_0002`
 - 英文名：Howling Guard
 - 稀有度：4★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

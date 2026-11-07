@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "四号谷地的天使活动"
 slug: "nar_report_map01_research3_5_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_report_map01_research3_5_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_report_map01_research3_5_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_report_map01_research3_5_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:08:45.038685+00:00"
+source_sha256: "34a50798c920c23728ff91f50bd3d5ad6d8a57010745d60f522092ac6e955f65"
 ---
-
 
 # 四号谷地的天使活动
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_report_map01_research3_5_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_report_map01_research3_5_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_report_map01_research3_5_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:08:45.038685+00:00`
 - ID：`nar_report_map01_research3_5_1`
-- 类型：document
+- 条目 ID：`nar_report_map01_research3_5_1`
+- 正文 ID：`text_map01_research3_4`
+- 条目名称：四号谷地的天使活动
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "负山"
 slug: "mountain-bearer"
+source_id: "wpn_lance_0012"
 source_url: "https://warfarin.wiki/cn/weapons/mountain-bearer"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:28.974579+00:00"
+source_sha256: "8ff466bddda88b2ac509de59ef87b149a8e6af99c7d2e994934cf9e4f803f553"
 ---
-
 
 # 负山
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`mountain-bearer`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/mountain-bearer)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:28.974579+00:00`
 - ID：`wpn_lance_0012`
 - 英文名：Mountain Bearer
 - 稀有度：6★
 - 武器类型 ID：`5`
+- 武器类型：长柄武器
 
 ## 概览描述
 

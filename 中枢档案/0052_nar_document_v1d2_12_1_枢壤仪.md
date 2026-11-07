@@ -2,12 +2,13 @@
 category: "中枢档案"
 title: "枢壤仪"
 slug: "nar_document_v1d2_12_1"
-source_url: "https://warfarin.wiki/cn/documents/nar_document_v1d2_12_1"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+source_id: "nar_document_v1d2_12_1"
+source_url: "https://warfarin.wiki/cn/lore/nar_document_v1d2_12_1"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:06:43.098588+00:00"
+source_sha256: "8091cf3ba1f712311b2dea81d363367bbed84dd27b30257ae598d8c52271b256"
 ---
-
 
 # 枢壤仪
 
@@ -15,12 +16,16 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 
 - 类别：中枢档案
 - Slug：`nar_document_v1d2_12_1`
-- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/documents/nar_document_v1d2_12_1)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/nar_document_v1d2_12_1)
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:06:43.098588+00:00`
 - ID：`nar_document_v1d2_12_1`
-- 类型：document
+- 条目 ID：`nar_document_v1d2_12_1`
+- 正文 ID：`text_v1d2_12`
+- 条目名称：枢壤仪
+- 类型：中枢档案
+- 类型标识：`document`
 
 ## 正文
 

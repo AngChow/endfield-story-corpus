@@ -2,12 +2,13 @@
 category: "干员"
 title: "洁尔佩塔"
 slug: "gilberta"
+source_id: "chr_0013_aglina"
 source_url: "https://warfarin.wiki/cn/operators/gilberta"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:01:49.730473+00:00"
+source_sha256: "7a365f8e2f421d77dd0a90891b3a1cb658361fd03071f0e0b0002aa60c198051"
 ---
-
 
 # 洁尔佩塔
 
@@ -16,9 +17,9 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：干员
 - Slug：`gilberta`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/operators/gilberta)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:01:49.730473+00:00`
 - ID：`chr_0013_aglina`
 - 英文名：Gilberta
 - 稀有度：6★
@@ -30,14 +31,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 简介：洁尔佩塔是一名使用施术单元的辅助干员，可造成自然属性的伤害。
 - 属性：自然
 - 职业：辅助
-- 势力：罗德岛
 - 种族：沃尔珀
 - 势力标签：罗德岛
 - 专长：冒险、源石技艺
 - 爱好：时尚、文化
-- 性格：航天（系统用游戏中不可见）
+- 性格标签：航天（系统用游戏中不可见）
 - 礼物偏好：谷地·协议严选
-- 行为偏好：科技
+- 不喜欢的行为：科技
+- 昵称：大厨洁尔佩塔
 - CV：中文：王晓彤；日文：大桥彩香；英文：Anna Devlin；韩文：房翅于
 
 ### 标签说明
@@ -52,15 +53,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 源石技艺·重力眩晕
 洁尔佩塔并不晕船，但飞得久了，偶尔会晕“地面”。
 
-#### 文化
-
-文化·浪漫的注脚
-是谁把书签落在了最甜蜜的那一页，又是谁把笔迹留在了最圆满的插画旁？
-
 #### 时尚
 
 时尚·缤纷色彩
 洁尔佩塔认得每一个色号，也记得每个人喜欢的颜色。
+
+#### 文化
+
+文化·浪漫的注脚
+是谁把书签落在了最甜蜜的那一页，又是谁把笔迹留在了最圆满的插画旁？
 
 ## 档案
 
@@ -278,3 +279,44 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - **洁尔佩塔** (`chr_0013_aglina`, `chr_0013_aglina_mono_skill_ultimate_01`)：终结技1：世界翻转！
 - **洁尔佩塔** (`chr_0013_aglina`, `chr_0013_aglina_mono_skill_ultimate_02`)：终结技2：感受大地的力量！
 - **洁尔佩塔** (`chr_0013_aglina`, `chr_0013_aglina_mono_skill_ultimate_03`)：终结技3：倾倒在重力之下吧！
+
+## 留影
+
+### 静候心音
+
+- 留影 ID：`pic_1_chr_0013_aglina`
+- 物品 ID：`item_pic_1_chr_0013_aglina`
+- 作者：Oycico
+- 潜能等级：1
+
+![静候心音](https://static.warfarin.wiki/v4/imageposter/largesize/pic_1_chr_0013_aglina.webp)
+
+获取后，可解锁洁尔佩塔的留影“静候心音”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+少女等待着一个回应，就像在等着一封回信。
+
+### 云端驻足
+
+- 留影 ID：`pic_3_chr_0013_aglina`
+- 物品 ID：`item_pic_3_chr_0013_aglina`
+- 作者：一块二毛一斤
+- 潜能等级：3
+
+![云端驻足](https://static.warfarin.wiki/v4/imageposter/subsize/pic_3_chr_0013_aglina.webp)
+
+获取后，可解锁洁尔佩塔的留影“云端驻足”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+她不再步履轻快，也不再行色匆匆。她看见一个熟悉的身影，她为此驻足。
+
+### 世界翻转
+
+- 留影 ID：`pic_5_chr_0013_aglina`
+- 物品 ID：`item_pic_5_chr_0013_aglina`
+- 作者：LM7
+- 潜能等级：5
+
+![世界翻转](https://static.warfarin.wiki/v4/imageposter/subsize/pic_5_chr_0013_aglina.webp)
+
+获取后，可解锁洁尔佩塔的留影“世界翻转”。干员留影可以在帝江号会客室的EF02循流图像仪上进行展示。
+
+将视野倒转，你会发现不一样的景色、不一样的心情、不一样的自己。世界变成了崭新的。

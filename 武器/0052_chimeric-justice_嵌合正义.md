@@ -2,12 +2,13 @@
 category: "武器"
 title: "嵌合正义"
 slug: "chimeric-justice"
+source_id: "wpn_lance_0004"
 source_url: "https://warfarin.wiki/cn/weapons/chimeric-justice"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:00:17.696812+00:00"
+source_sha256: "511e8825fb4f2e7b804c3a4af1b664a442dc7435b8c40dd763905743e91548e3"
 ---
-
 
 # 嵌合正义
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`chimeric-justice`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/chimeric-justice)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:00:17.696812+00:00`
 - ID：`wpn_lance_0004`
 - 英文名：Chimeric Justice
 - 稀有度：5★
 - 武器类型 ID：`5`
+- 武器类型：长柄武器
 
 ## 概览描述
 

@@ -2,12 +2,13 @@
 category: "武器"
 title: "大雷斑"
 slug: "thunderberge"
+source_id: "wpn_claym_0007"
 source_url: "https://warfarin.wiki/cn/weapons/thunderberge"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:09:40.135900+00:00"
+source_sha256: "11f395e8f9708cf2f2db847c0f745db3e85280a0a956a957f108453dca5a89c6"
 ---
-
 
 # 大雷斑
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`thunderberge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/thunderberge)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:09:40.135900+00:00`
 - ID：`wpn_claym_0007`
 - 英文名：Thunderberge
 - 稀有度：6★
 - 武器类型 ID：`3`
+- 武器类型：双手剑
 
 ## 概览描述
 

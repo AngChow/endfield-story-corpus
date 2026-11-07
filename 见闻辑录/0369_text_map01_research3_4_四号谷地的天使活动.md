@@ -2,12 +2,13 @@
 category: "见闻辑录"
 title: "四号谷地的天使活动"
 slug: "text_map01_research3_4"
+source_id: "text_map01_research3_4"
 source_url: "https://warfarin.wiki/cn/lore/text_map01_research3_4"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:17:13.810364+00:00"
+source_sha256: "fa9dcd541610a79d90fdc4d8f06b4527d72f487b542e20a2d53602fd5496e261"
 ---
-
 
 # 四号谷地的天使活动
 
@@ -16,11 +17,15 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：见闻辑录
 - Slug：`text_map01_research3_4`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/lore/text_map01_research3_4)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:17:13.810364+00:00`
 - ID：`text_map01_research3_4`
-- 类型：四号谷地的天使活动
+- 条目 ID：`nar_report_map01_research3_5_1`
+- 正文 ID：`text_map01_research3_4`
+- 条目名称：四号谷地的天使活动
+- 类型：调查报告
+- 类型标识：`document`
 
 ## 正文
 

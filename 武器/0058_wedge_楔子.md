@@ -2,12 +2,13 @@
 category: "武器"
 title: "楔子"
 slug: "wedge"
+source_id: "wpn_pistol_0008"
 source_url: "https://warfarin.wiki/cn/weapons/wedge"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:10:13.250442+00:00"
+source_sha256: "0a6c22172860f39cf4943442f3123fe2290f1aec671f202f59e4b0cb08b67ae3"
 ---
-
 
 # 楔子
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`wedge`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/wedge)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:10:13.250442+00:00`
 - ID：`wpn_pistol_0008`
 - 英文名：Wedge
 - 稀有度：6★
 - 武器类型 ID：`6`
+- 武器类型：手铳
 
 ## 概览描述
 

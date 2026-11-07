@@ -2,12 +2,13 @@
 category: "武器"
 title: "O.B.J.轻芒"
 slug: "obj-edge-of-lightness"
+source_id: "wpn_sword_0019"
 source_url: "https://warfarin.wiki/cn/weapons/obj-edge-of-lightness"
-game_data_version: "1.2"
-warfarin_updated_at: "2026-04-17"
-fetched_at: "2026-04-21T19:50:46+08:00"
+game_data_version: "1.6"
+warfarin_updated_at: "2026-11-05"
+fetched_at: "2026-11-07T13:07:50.112915+00:00"
+source_sha256: "3c866ca6a6662c64fe173470ffa389c44a7995311a1262fb85d2c0c6e71200b7"
 ---
-
 
 # O.B.J.轻芒
 
@@ -16,13 +17,14 @@ fetched_at: "2026-04-21T19:50:46+08:00"
 - 类别：武器
 - Slug：`obj-edge-of-lightness`
 - 来源：[Warfarin Wiki](https://warfarin.wiki/cn/weapons/obj-edge-of-lightness)
-- 数据版本：`1.2`
-- Warfarin 最后更新：`2026-04-17`
-- 采集时间：`2026-04-21T19:50:46+08:00`
+- 数据版本：`1.6`
+- Warfarin 最后更新：`2026-11-05`
+- 采集时间：`2026-11-07T13:07:50.112915+00:00`
 - ID：`wpn_sword_0019`
 - 英文名：OBJ Edge of Lightness
 - 稀有度：5★
 - 武器类型 ID：`1`
+- 武器类型：单手剑
 
 ## 概览描述
 
