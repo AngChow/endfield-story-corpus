@@ -11,7 +11,7 @@
 
 对 CodeX 说：
 
-**帮我安装 [AngChow/endfield-story-corpus](https://github.com/AngChow/endfield-story-corpus) 这个 skill**
+**帮我安装 [Xxxhite/endfield-story-corpus](https://github.com/Xxxhite/endfield-story-corpus) 这个 skill**
 
 CodeX 会自动拉取仓库。本库为纯数据资料库，无需安装额外依赖。
 
